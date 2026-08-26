@@ -1,0 +1,275 @@
+{
+  "cassette": {
+    "id": "lp-t1-b1-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 1, bloque 1 (arts. 1-10)",
+    "normativa": "RDL 2/2011",
+    "tema": 1,
+    "rango": "1-10",
+    "fecha": "2026-08-26",
+    "fuente": "NotebookLM lote 1",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t1-b1-001",
+      "enunciado": "De conformidad con el artículo 1 del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, ¿cuál de las siguientes opciones describe correctamente uno de los objetos de la ley en relación con la organización portuaria?",
+      "opciones": {
+        "a": "Determinar la organización portuaria estatal, dotando a los puertos de interés general de un régimen de autonomía funcional y de gestión.",
+        "b": "Establecer la estructura centralizada de la organización portuaria estatal, dotando a todos los puertos comerciales de un régimen de dependencia orgánica directa.",
+        "c": "Regular la planificación de los puertos autonómicos, dotando a sus órganos de gobierno de un régimen de autonomía funcional ilimitada.",
+        "d": "Determinar la organización portuaria de las Comunidades Autónomas, dotando a las Juntas de Obras de un régimen de autonomía presupuestaria."
+      },
+      "correcta": "a",
+      "explicacion": "Conforme al artículo 1.d), es objeto de la ley determinar la organización portuaria estatal, dotando a los puertos de interés general de un régimen de autonomía funcional y de gestión para el ejercicio de las competencias atribuidas. Las demás opciones proponen regímenes de centralización o dependencia orgánica ajenos al texto legal.",
+      "articulo": "1"
+    },
+    {
+      "id": "lp-t1-b1-002",
+      "enunciado": "Según lo establecido en el artículo 1 del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, es objeto de esta ley:",
+      "opciones": {
+        "a": "Regular la pesca extractiva marítima y establecer el régimen de infracciones en el caladero nacional.",
+        "b": "Determinar la competencia exclusiva de las Comunidades Autónomas sobre la flota pesquera nacional de altura.",
+        "c": "Establecer el marco normativo de la Marina Mercante y regular su Administración propia.",
+        "d": "Regular la planificación y construcción de los puertos deportivos que sean competencia autonómica exclusiva."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 1, en sus apartados e) y f), contempla como objetos de la ley establecer el marco normativo de la Marina Mercante y regular su Administración propia. Las competencias de las CCAA sobre pesca o puertos deportivos escapan al objeto de este precepto.",
+      "articulo": "1"
+    },
+    {
+      "id": "lp-t1-b1-003",
+      "enunciado": "De acuerdo con el artículo 2.2 del Texto Refundido, ¿cuál es la extensión de superficie de agua mínima exigida para que un conjunto de espacios e instalaciones sea considerado puerto marítimo?",
+      "opciones": {
+        "a": "Una superficie de agua de extensión no inferior a una hectárea.",
+        "b": "Una superficie de agua de extensión no inferior a dos hectáreas.",
+        "c": "Una superficie de agua de extensión no inferior a media hectárea.",
+        "d": "Una superficie de agua de extensión no inferior a un cuarto de hectárea."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 2.2.a) estipula que todo puerto marítimo debe contar con una superficie de agua de extensión no inferior a media hectárea, con condiciones de abrigo y profundidad adecuadas. El resto de opciones cambian esta cuantía métrica.",
+      "articulo": "2"
+    },
+    {
+      "id": "lp-t1-b1-004",
+      "enunciado": "Con arreglo al artículo 2.3 del Texto Refundido, ¿cómo se define legalmente el tráfico portuario a los efectos de esta ley?",
+      "opciones": {
+        "a": "Las misiones oficiales de policía, seguridad pública, control de fronteras y represión del contrabando desarrolladas exclusivamente dentro del recinto del muelle.",
+        "b": "Exclusivamente las operaciones de estiba, desestiba y almacenamiento de mercancías generales que justifiquen medios mecánicos terrestres en la zona de servicio.",
+        "c": "Las actividades de navegación interior o de cabotaje de buques civiles españoles con transporte y comercialización de pesca fresca o pasaje de ría.",
+        "d": "Las operaciones de entrada, salida, atraque, desatraque, estancia y reparación de buques en puerto y las de transferencia de mercancías, pesca, avituallamientos y pasajeros entre éstos y tierra u otros medios de transporte."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 2.3 define el tráfico portuario como las operaciones de entrada, salida, atraque, desatraque, estancia y reparación de buques en puerto y las de transferencia entre éstos y tierra u otros medios de transporte, de mercancías, pesca, avituallamientos y pasajeros o tripulantes. Las demás opciones limitan falsamente la definición.",
+      "articulo": "2"
+    },
+    {
+      "id": "lp-t1-b1-005",
+      "enunciado": "De conformidad con el artículo 3.3 del Texto Refundido, ¿cuál de las siguientes operaciones NO tiene la consideración de actividad comercial portuaria?",
+      "opciones": {
+        "a": "El tráfico general de pasajeros y tripulantes en navegación exterior o de cabotaje, siempre que no tenga carácter local o de ría.",
+        "b": "Las operaciones de estiba, desestiba, carga, descarga y almacenamiento de mercancías generales.",
+        "c": "El avituallamiento y reparación de buques mercantes en la zona de servicio del puerto.",
+        "d": "Las operaciones de descarga y manipulación de la pesca fresca excluidas del ámbito del servicio portuario de manipulación de mercancías."
+      },
+      "correcta": "d",
+      "explicacion": "Según el artículo 3.3.a), no tienen la consideración de actividades comerciales portuarias las operaciones de descarga y manipulación de la pesca fresca excluidas del ámbito del servicio portuario de manipulación de mercancías. Las otras tres sí lo son.",
+      "articulo": "3"
+    },
+    {
+      "id": "lp-t1-b1-006",
+      "enunciado": "De acuerdo con el artículo 3.5 del Texto Refundido, ¿qué órgano estatal tiene la competencia para autorizar la realización de operaciones comerciales en los puertos estatales?",
+      "opciones": {
+        "a": "El Consejo de Administración de la Autoridad Portuaria correspondiente.",
+        "b": "El Organismo Público Puertos del Estado, previo dictamen vinculante del Consejo Rector.",
+        "c": "El Ministerio de Fomento, previo informe favorable de los ministerios competentes especificados por ley.",
+        "d": "El Consejo de Ministros, a propuesta exclusiva del Ministro de Fomento tras consultar con Puertos del Estado."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 3.5 atribuye al Ministerio de Fomento, previo informe favorable de los ministerios de Economía y Hacienda, Medio Ambiente, Sanidad y Trabajo, la autorización de operaciones comerciales en los puertos estatales. El otorgamiento por otros entes es incorrecto.",
+      "articulo": "3"
+    },
+    {
+      "id": "lp-t1-b1-007",
+      "enunciado": "De acuerdo con el artículo 4.1 del Texto Refundido, ¿cuál de las siguientes circunstancias determina que un puerto pueda ser clasificado como de interés general?",
+      "opciones": {
+        "a": "Que sirva a industrias de importancia relevante para el desarrollo comercial exclusivo del municipio donde se ubique.",
+        "b": "Que su zona de influencia comercial afecte de forma relevante a más de una Comunidad Autónoma.",
+        "c": "Que esté destinado principalmente a proporcionar abrigo a embarcaciones pesqueras y deportivas en caso de temporal costero.",
+        "d": "Que cuente con una superficie de agua abrigada inferior a media hectárea destinada al tráfico comercial de ría."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 4.1.b) señala que su zona de influencia comercial afecte de forma relevante a más de una Comunidad Autónoma es circunstancia de interés general. Las demás opciones corresponden a condiciones locales o de puertos que la ley no califica de interés general.",
+      "articulo": "4"
+    },
+    {
+      "id": "lp-t1-b1-008",
+      "enunciado": "Según lo dispuesto en el artículo 4.2 del Texto Refundido, ¿cómo se realiza el cambio de clasificación de un puerto por alteración de las circunstancias de interés general?",
+      "opciones": {
+        "a": "Mediante Orden del Ministro de Fomento, previa audiencia obligatoria del Ayuntamiento donde se sitúe la zona de servicio.",
+        "b": "Mediante Resolución del Presidente de Puertos del Estado, previo informe preceptivo de los ministerios sectoriales.",
+        "c": "Por acuerdo unánime del Consejo de Administración de la Autoridad Portuaria afectada y el órgano autonómico competente.",
+        "d": "Por el Gobierno, mediante Real Decreto, a propuesta del Ministerio de Fomento y previa tramitación del oportuno expediente."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 4.2 establece que el cambio de clasificación se realiza por el Gobierno, mediante Real Decreto, a propuesta del Ministerio de Fomento, previa tramitación del expediente correspondiente, con audiencia de la Comunidad Autónoma y Ayuntamientos afectados. Las demás opciones cambian el órgano competente.",
+      "articulo": "4"
+    },
+    {
+      "id": "lp-t1-b1-009",
+      "enunciado": "De conformidad con el artículo 5.1 del Texto Refundido, ¿devenga canon a favor de la Administración General del Estado la adscripción de bienes de dominio público marítimo-terrestre a las Comunidades Autónomas?",
+      "opciones": {
+        "a": "No devengará canon a favor de la Administración General del Estado.",
+        "b": "Sí, devengará el correspondiente canon de ocupación según tasación de mercado de los terrenos.",
+        "c": "Sí, devengará un canon de adscripción fijado por el Ministerio de Economía y Hacienda.",
+        "d": "Devengará únicamente un canon de superficie si se trata de un puerto pesquero o deportivo."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 5.1, párrafo segundo, dispone que la adscripción de bienes de dominio público marítimo-terrestre a las Comunidades Autónomas no devengará canon a favor de la Administración General del Estado.",
+      "articulo": "5"
+    },
+    {
+      "id": "lp-t1-b1-010",
+      "enunciado": "Con arreglo al artículo 5.2 del Texto Refundido, ¿qué efectos jurídicos tiene el incumplimiento del informe favorable de los Ministerios de Fomento y Medio Ambiente en la ampliación de un puerto de competencia autonómica?",
+      "opciones": {
+        "a": "El proyecto se considera provisionalmente aprobado, con un plazo de un mes para subsanar defectos técnicos.",
+        "b": "Implica la anulabilidad de las actuaciones, convalidable por el órgano autonómico previa subsanación de tasas.",
+        "c": "Implica la nulidad de la aprobación del proyecto correspondiente.",
+        "d": "Determina la suspensión provisional de las obras, sin afectar a la validez del planeamiento general."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 5.2, párrafo segundo, considera dicho informe requisito esencial para la protección del dominio público marítimo-terrestre estatal, y su incumplimiento implica la nulidad de la aprobación del proyecto correspondiente.",
+      "articulo": "5"
+    },
+    {
+      "id": "lp-t1-b1-011",
+      "enunciado": "De conformidad con el artículo 6.1.a) del Texto Refundido, ¿qué actividad de transporte marítimo queda excluida de la consideración de Marina Mercante estatal?",
+      "opciones": {
+        "a": "El transporte marítimo de mercancías peligrosas entre puertos de distintas Comunidades Autónomas.",
+        "b": "El transporte marítimo internacional con origen o destino en puertos del mar territorial español.",
+        "c": "El tráfico de cabotaje nacional de buques con pabellón de un Estado miembro de la Unión Europea.",
+        "d": "El que se lleva a cabo exclusivamente entre puertos o puntos de una misma Comunidad Autónoma con competencias en la materia, sin conexión con otros ámbitos."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 6.1.a) considera Marina Mercante la actividad de transporte marítimo, exceptuando el que se lleva a cabo exclusivamente entre puertos o puntos de una misma Comunidad Autónoma con competencias en la materia, sin conexión con otros ámbitos territoriales.",
+      "articulo": "6"
+    },
+    {
+      "id": "lp-t1-b1-012",
+      "enunciado": "De acuerdo con el artículo 6.2 del Texto Refundido, ¿qué ámbito queda excluido de la consideración de Marina Mercante?",
+      "opciones": {
+        "a": "La ordenación de la flota pesquera y la actividad inspectora en los ámbitos propios de la pesca.",
+        "b": "La inspección de seguridad, técnica y operativa de los buques civiles españoles y sus dotaciones.",
+        "c": "La prevención de la contaminación marina producida desde plataformas fijas.",
+        "d": "El salvamento de la vida humana en la mar en aguas nacionales."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 6.2 establece que no se considera Marina Mercante la ordenación de la flota pesquera, en los ámbitos propios de la pesca y de la ordenación del sector pesquero, ni la actividad inspectora en estos mismos ámbitos.",
+      "articulo": "6"
+    },
+    {
+      "id": "lp-t1-b1-013",
+      "enunciado": "De acuerdo con el artículo 7 del Texto Refundido, ¿cuál de los siguientes enunciados es un objetivo de la política de la Marina Mercante?",
+      "opciones": {
+        "a": "La tutela de la seguridad de la vida humana en la mar y de la navegación marítima.",
+        "b": "La explotación directa y comercial de los servicios de practicaje, remolque y amarre portuario en régimen de monopolio estatal.",
+        "c": "La promoción de actividades pesqueras y de acuicultura marina en demanio autonómico.",
+        "d": "La ordenación e inspección técnica de la pesca extractiva en las rías y canales de acceso."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 7 establece como objetivos de la política de Marina Mercante la tutela de la seguridad de la vida humana en la mar, de la navegación marítima y de la seguridad marítima. Los otros objetivos corresponden a actividades pesqueras u operaciones portuarias no contempladas en este artículo.",
+      "articulo": "7"
+    },
+    {
+      "id": "lp-t1-b1-014",
+      "enunciado": "Según el artículo 7 del Texto Refundido, ¿qué medida de promoción del transporte alternativo se contempla como objetivo de la política de la Marina Mercante?",
+      "opciones": {
+        "a": "La subvención obligatoria de los servicios regulares de navegación marítima interior por rías y bahías.",
+        "b": "La promoción de las autopistas del mar como modo alternativo y complementario al transporte de mercancías.",
+        "c": "La promoción del transporte ferroviario de mercancías peligrosas dentro de la zona de servicio de las Autoridades Portuarias.",
+        "d": "El desarrollo de infraestructuras portuarias de abrigo destinadas en exclusiva al atraque de la flota de pesca fresca."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 7.g) recoge expresamente como objetivo la promoción de las autopistas del mar como modo alternativo y complementario al transporte de mercancías.",
+      "articulo": "7"
+    },
+    {
+      "id": "lp-t1-b1-015",
+      "enunciado": "Con arreglo al artículo 8.1 del Texto Refundido, ¿cuál es el límite del mar territorial español medido desde las líneas de base?",
+      "opciones": {
+        "a": "Veinticuatro millas náuticas contadas a partir de las líneas de base.",
+        "b": "Doscientas millas náuticas contadas a partir de las líneas de base.",
+        "c": "Doce millas náuticas contadas a partir de las líneas de base.",
+        "d": "Tres millas náuticas contadas a partir de las líneas de base desde las que se mide su anchura."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 8.1, párrafo tercero, dispone que el mar territorial se extiende hasta una distancia de doce millas náuticas contadas a partir de las líneas de base. Las 24 millas corresponden a la zona contigua, y las 200 a la zona económica exclusiva.",
+      "articulo": "8"
+    },
+    {
+      "id": "lp-t1-b1-016",
+      "enunciado": "De acuerdo con el artículo 8.2 del Texto Refundido, ¿qué tipo de navegación es la que transcurre íntegramente dentro del ámbito de un determinado puerto o de otras aguas interiores marítimas españolas?",
+      "opciones": {
+        "a": "Navegación de cabotaje.",
+        "b": "Navegación exterior.",
+        "c": "Navegación extranacional.",
+        "d": "Navegación interior."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 8.2 define la navegación interior como la que transcurre íntegramente dentro del ámbito de un determinado puerto o de otras aguas interiores marítimas españolas.",
+      "articulo": "8"
+    },
+    {
+      "id": "lp-t1-b1-017",
+      "enunciado": "De acuerdo con el artículo 9.2 del Texto Refundido, ¿qué elementos integran la definición legal de buque civil?",
+      "opciones": {
+        "a": "Exclusivamente las embarcaciones destinadas al transporte de mercancías o pasajeros con propósito mercantil y propulsión motorizada.",
+        "b": "Cualquier embarcación, plataforma o artefacto flotante, con o sin desplazamiento, apto para la navegación y no afecto al servicio de la defensa nacional.",
+        "c": "Todo artefacto flotante de construcción naval nacional destinado en exclusiva a la pesca extractiva profesional.",
+        "d": "Los buques y aeronaves destinados a tareas de seguridad pública, vigilancia aduanera y represión del contrabando o de extranjería."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 9.2 define como buque civil cualquier embarcación, plataforma o artefacto flotante, con o sin desplazamiento, apto para la navegación y no afecto al servicio de la defensa nacional.",
+      "articulo": "9"
+    },
+    {
+      "id": "lp-t1-b1-018",
+      "enunciado": "De conformidad con el artículo 9.4 del Texto Refundido, ¿cuál de las siguientes opciones queda excluida del concepto de plataforma fija?",
+      "opciones": {
+        "a": "Todo artefacto susceptible de operaciones de exploración o explotación de recursos marítimos emplazado sobre el lecho de la mar, anclado o apoyado en él.",
+        "b": "Las plataformas petrolíferas y construcciones flotantes destinadas al almacenamiento comercial de hidrocarburos no afectas a la defensa nacional.",
+        "c": "Los oleoductos, gasoductos, cables submarinos, emisarios submarinos, y cualquier otro tipo de tuberías o instalaciones de carácter industrial o de saneamiento.",
+        "d": "Los artefactos náuticos fijos o semifijos destinados al balizamiento interior y ayudas a la navegación de competencia autonómica."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 9.4, párrafo segundo, excluye del concepto de plataforma fija los oleoductos, gasoductos, cables submarinos, emisarios submarinos y demás tuberías o instalaciones de carácter industrial o de saneamiento.",
+      "articulo": "9"
+    },
+    {
+      "id": "lp-t1-b1-019",
+      "enunciado": "De acuerdo con la definición dada en el artículo 10 del Texto Refundido, se entiende por empresario o empresa naviera la persona física o jurídica que:",
+      "opciones": {
+        "a": "Las corporaciones de derecho público y los sindicatos autorizados que realicen la ordenación técnica e inspectora de la flota pesquera nacional.",
+        "b": "Utilizando exclusivamente buques mercantes de su propiedad bajo pabellón español, se dedique de forma profesional y permanente al tráfico regular.",
+        "c": "Las sociedades mercantiles que tengan como objeto social exclusivo la explotación de terminales portuarias de mercancías generales.",
+        "d": "Utilizando buques mercantes propios o ajenos, se dedique a la explotación de los mismos, aun cuando ello no constituya su actividad principal."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 10 define como empresario o empresa naviera a la persona física o jurídica que, utilizando buques mercantes propios o ajenos, se dedique a la explotación de los mismos, aun cuando ello no constituya su actividad principal.",
+      "articulo": "10"
+    },
+    {
+      "id": "lp-t1-b1-020",
+      "enunciado": "Según el artículo 10 del Texto Refundido, ¿es indispensable que la explotación de buques mercantes constituya la actividad principal de la persona física o jurídica para ser considerada empresa naviera?",
+      "opciones": {
+        "a": "Sí, debe ser su actividad principal, quedando prohibida la realización de otras operaciones comerciales no vinculadas al transporte de cabotaje.",
+        "b": "No, se considera empresa naviera aun cuando la explotación de buques mercantes no constituya su actividad principal.",
+        "c": "Sí, y es requisito esencial estar inscrita con carácter obligatorio en el Registro Especial de Buques y Empresas Navieras de la Comunidad Autónoma.",
+        "d": "No, salvo que explote buques civiles extranjeros que naveguen por el mar territorial sin responsabilidad civil asegurada."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 10 dispone expresamente que se considera empresa naviera aun cuando la explotación de buques mercantes no constituya su actividad principal.",
+      "articulo": "10"
+    }
+  ]
+}

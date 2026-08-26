@@ -1,0 +1,40 @@
+{
+    "cassette": {
+        "id": "lp-tema01-test-v1",
+        "tipo": "test",
+        "titulo": "Ley de Puertos — Tema 1: Sistema portuario",
+        "normativa": "RDL 2/2011",
+        "tema": 1,
+        "fecha": "2026-08-25",
+        "fuente": "NotebookLM lote 1",
+        "num_preguntas": 2
+    },
+    "preguntas": [
+        {
+            "id": "lp-t1-001",
+            "enunciado": "PLANTILLA: sustituye estas preguntas por las de NotebookLM. ¿Qué campo indica la respuesta buena?",
+            "opciones": {
+                "a": "correcta",
+                "b": "solucion",
+                "c": "respuesta",
+                "d": "acierto"
+            },
+            "correcta": "a",
+            "explicacion": "El campo se llama \"correcta\" y lleva la letra de la opción buena en minúscula.",
+            "articulo": "0"
+        },
+        {
+            "id": "lp-t1-002",
+            "enunciado": "PLANTILLA: ¿dónde hay que registrar cada cinta nueva para que salga en la estantería?",
+            "opciones": {
+                "a": "En el propio index.html",
+                "b": "En cassettes/index.json",
+                "c": "No hace falta registrarla",
+                "d": "En un fichero README"
+            },
+            "correcta": "b",
+            "explicacion": "GitHub Pages no lista carpetas, así que el player lee cassettes/index.json para saber qué cintas existen.",
+            "articulo": "0"
+        }
+    ]
+}

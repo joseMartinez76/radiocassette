@@ -1,0 +1,53 @@
+{
+    "cassette": {
+        "id": "lp-t1-bala-v1",
+        "tipo": "bala",
+        "titulo": "Balas — Tema 1: Sistema portuario (arts. 1-10)",
+        "normativa": "RDL 2/2011",
+        "tema": 1,
+        "rango": "1-10",
+        "fecha": "2026-08-26",
+        "num_preguntas": 3
+    },
+    "preguntas": [
+        {
+            "id": "lp-t1-bala-001",
+            "enunciado": "Los puertos pueden ser:",
+            "opciones": {
+                "a": "Comerciales o no comerciales",
+                "b": "Locales o estatales",
+                "c": "Deportivos o pesqueros",
+                "d": "Ninguna es correcta"
+            },
+            "correcta": "a",
+            "explicacion": "Clasificación del art. 3: comerciales y no comerciales.",
+            "articulo": "3"
+        },
+        {
+            "id": "lp-t1-bala-002",
+            "enunciado": "¿Dónde figuran relacionados los puertos de interés general?",
+            "opciones": {
+                "a": "Anexo VII",
+                "b": "Anexo I",
+                "c": "Orden ministerial",
+                "d": "Anexo II"
+            },
+            "correcta": "b",
+            "explicacion": "El art. 4 remite al Anexo I.",
+            "articulo": "4"
+        },
+        {
+            "id": "lp-t1-bala-003",
+            "enunciado": "¿A quién corresponde la competencia sobre los puertos de interés general?",
+            "opciones": {
+                "a": "A la comunidad autónoma",
+                "b": "Al municipio",
+                "c": "A la Administración General del Estado",
+                "d": "A Puertos del Estado en exclusiva"
+            },
+            "correcta": "c",
+            "explicacion": "Competencia exclusiva estatal (art. 149.1.20.ª CE).",
+            "articulo": "4"
+        }
+    ]
+}
