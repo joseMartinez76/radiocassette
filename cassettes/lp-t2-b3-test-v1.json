@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t2-b3-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 2, bloque 3 (arts. 31-40)",
+    "normativa": "RDL 2/2011",
+    "tema": 2,
+    "rango": "31-40",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t2-b3-001",
+      "enunciado": "De conformidad con el artículo 31.1 del Texto Refundido de la Ley de Puertos, una vez que la designación o separación del Presidente de la Autoridad Portuaria haya sido comunicada al Ministro de Fomento, ¿dónde debe publicarse de manera obligatoria?",
+      "opciones": {
+        "a": "En el Boletín de la Provincia y en el Registro Central de Personal del Ministerio de Fomento.",
+        "b": "En el Diario Oficial autonómico y en el Boletín Oficial del Estado.",
+        "c": "En el Boletín Oficial de la Comunidad Autónoma y en el portal de internet de Puertos del Estado.",
+        "d": "En el Boletín Oficial del Estado y en el Diario de la Provincia Marítima correspondiente."
+      },
+      "correcta": "b",
+      "explicacion": "De acuerdo con el artículo 31.1, la designación o separación del Presidente de la Autoridad Portuaria por el órgano autonómico competente debe publicarse tanto en el correspondiente Diario Oficial de la Comunidad Autónoma como en el Boletín Oficial del Estado (BOE).",
+      "articulo": "31"
+    },
+    {
+      "id": "lp-t2-b3-002",
+      "enunciado": "Según el artículo 31.2.f) del Texto Refundido, en relación con la disposición de gastos y ordenación de pagos en la Autoridad Portuaria, ¿cómo debe actuar su Presidente?",
+      "opciones": {
+        "a": "Mancomunadamente con el Director de la Autoridad Portuaria.",
+        "b": "De forma unilateral e independiente, dando cuenta trimestral al Consejo de Administración.",
+        "c": "Previo informe favorable vinculante del Director General de Puertos del Estado.",
+        "d": "De manera conjunta con el Secretario del Consejo de Administración de la entidad."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 31.2.f) atribuye expresamente al Presidente de la Autoridad Portuaria la función de disponer los gastos y ordenar los pagos o movimientos de fondos, pero exige de manera taxativa que lo haga mancomunadamente con el Director.",
+      "articulo": "31"
+    },
+    {
+      "id": "lp-t2-b3-003",
+      "enunciado": "Con arreglo al artículo 32.1 del Texto Refundido, ¿en quiénes no puede recaer en ningún caso el cargo de Vicepresidente de la Autoridad Portuaria?",
+      "opciones": {
+        "a": "En los vocales que representen a las organizaciones empresariales o sindicales más representativas.",
+        "b": "En los vocales designados en representación de la Administración General del Estado.",
+        "c": "En el Presidente de Puertos del Estado o en el Delegado del Gobierno autonómico.",
+        "d": "En el Director de la entidad portuaria ni tampoco en el Secretario del Consejo."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 32.1 determina que el Consejo de Administración nombrará a un Vicepresidente de entre sus miembros a propuesta del Presidente, pero excluye de forma explícita al Director y al Secretario del Consejo de la posibilidad de ocupar este puesto.",
+      "articulo": "32"
+    },
+    {
+      "id": "lp-t2-b3-004",
+      "enunciado": "Según el artículo 32.2 del Texto Refundido, ¿cuál es la función primordial asignada al Vicepresidente de la Autoridad Portuaria?",
+      "opciones": {
+        "a": "Sustituir al Presidente en casos de vacante, ausencia o enfermedad, o ejercer funciones delegadas.",
+        "b": "Dirigir y coordinar de forma ordinaria los servicios técnicos de asistencia del Consejo de Navegación y Puerto.",
+        "c": "Redactar de forma preceptiva y exclusiva las propuestas de Ordenanzas Portuarias que se encuentren en vigor.",
+        "d": "Ejercer de forma mancomunada con el Director la disposición y ordenación de todos los pagos de explotación."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 32.2 regula que la función del Vicepresidente es sustituir de forma ordinaria al Presidente en supuestos de vacante, ausencia o enfermedad, pudiendo además desempeñar aquellas tareas específicas que en él delegue el Presidente o el Consejo de Administración.",
+      "articulo": "32"
+    },
+    {
+      "id": "lp-t2-b3-005",
+      "enunciado": "De conformidad con el artículo 33.1 del Texto Refundido de la Ley de Puertos, ¿cuál es la mayoría necesaria en el Consejo de Administración para acordar válidamente el nombramiento del Director de la Autoridad Portuaria?",
+      "opciones": {
+        "a": "Mayoría de dos tercios de la totalidad de sus vocales a propuesta del Presidente de Puertos del Estado.",
+        "b": "Mayoría simple de los miembros presentes en la sesión extraordinaria convocada al efecto.",
+        "c": "Mayoría absoluta del Consejo de Administración, a propuesta de su Presidente.",
+        "d": "Unanimidad del Consejo, requiriéndose el voto de calidad vinculante del Capitán Marítimo."
+      },
+      "correcta": "c",
+      "explicacion": "De acuerdo con el artículo 33.1 y en consonancia con el artículo 30.6, el nombramiento y separación del Director de la Autoridad Portuaria requiere el acuerdo adoptado por mayoría absoluta del Consejo de Administración, a propuesta de su Presidente.",
+      "articulo": "33"
+    },
+    {
+      "id": "lp-t2-b3-006",
+      "enunciado": "Según el artículo 33.1 del Texto Refundido, además de una titulación superior y de reconocido prestigio profesional, ¿qué experiencia técnica mínima en el sector portuario se exige para ser nombrado Director?",
+      "opciones": {
+        "a": "Al menos tres años de experiencia acreditada en la Administración Pública o sector privado marítimo.",
+        "b": "Una experiencia mínima de diez años, de los cuales tres deben ser en puestos directivos del sector estatal.",
+        "c": "Al menos de ocho años en funciones de dirección contable o de explotación de terminales portuarias.",
+        "d": "Una experiencia mínima de cinco años en técnicas y gestión portuaria."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 33.1 establece que el Director debe ser elegido entre personas que acrediten una titulación superior universitaria, reconocido prestigio profesional y al menos cinco años de experiencia en técnicas y gestión portuaria.",
+      "articulo": "33"
+    },
+    {
+      "id": "lp-t2-b3-007",
+      "enunciado": "De acuerdo con el artículo 34.1 del Texto Refundido de la Ley de Puertos, el Consejo de Navegación y Puerto se constituye como un órgano de asistencia e información de:",
+      "opciones": {
+        "a": "La Capitanía Marítima y del Presidente de cada Autoridad Portuaria.",
+        "b": "El Ministerio de Fomento y el Organismo Público Puertos del Estado.",
+        "c": "El Director de la Autoridad Portuaria y de las asociaciones de navieros.",
+        "d": "La Comisión de Faros y del Pleno del Ayuntamiento correspondiente."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 34.1 configura de manera directa al Consejo de Navegación y Puerto en cada uno de los puertos estatales como el órgano consultivo de asistencia e información tanto de la Capitanía Marítima como del Presidente de la respectiva Autoridad Portuaria.",
+      "articulo": "34"
+    },
+    {
+      "id": "lp-t2-b3-008",
+      "enunciado": "Con arreglo al artículo 34.2 del Texto Refundido, ¿a qué órgano corresponde determinar la forma de designación, cese de los miembros y régimen de sesiones del Consejo de Navegación y Puerto?",
+      "opciones": {
+        "a": "Al Ministro de Fomento, mediante Orden Ministerial publicada de forma obligatoria en el Boletín Oficial del Estado.",
+        "b": "Al Consejo de Administración de las correspondientes Autoridades Portuarias.",
+        "c": "Al Consejo Rector de Puertos del Estado, previo informe de la Dirección General de la Marina Mercante.",
+        "d": "Al Presidente de la respectiva Autoridad Portuaria de forma conjunta con el Capitán Marítimo."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 34.2 atribuye esta potestad autoorganizativa directamente a los Consejos de Administración de las correspondientes Autoridades Portuarias, quienes fijarán de manera específica la designación, cese y funcionamiento interno de dicho consejo de asistencia.",
+      "articulo": "34"
+    },
+    {
+      "id": "lp-t2-b3-009",
+      "enunciado": "De conformidad con el artículo 35.1 del Texto Refundido, ¿cuál es el plazo de interposición y ante qué órgano se recurren los acuerdos u omisiones de los órganos de gobierno de las Autoridades Portuarias contrarios al Plan de Empresa?",
+      "opciones": {
+        "a": "En el plazo de dos meses, ante el Presidente de Puertos del Estado en recurso especial de reposición.",
+        "b": "En el plazo de quince días hábiles, ante el correspondiente Tribunal Superior de Justicia de la Comunidad.",
+        "c": "En el plazo de un mes, ante el Ministro de Fomento, rigiéndose por lo establecido para el recurso de alzada.",
+        "d": "En el plazo de tres meses, ante el Consejo Rector de Puertos del Estado mediante reclamación demanial."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 35.1 establece que los actos u omisiones contrarios al Plan de Empresa o infractores de la ley pueden ser recurridos ante el Ministro de Fomento en el plazo de un mes. Dicho recurso se tramita y resuelve conforme al régimen general del recurso de alzada de la Ley 30/1992.",
+      "articulo": "35"
+    },
+    {
+      "id": "lp-t2-b3-010",
+      "enunciado": "Según el artículo 35.1 del Texto Refundido, ¿quiénes se encuentran legítimamente facultados para interponer el recurso ante el Ministro de Fomento contra los acuerdos contrarios al Plan de Empresa?",
+      "opciones": {
+        "a": "Cualquier empresa operadora de servicios portuarios que disponga de licencia vigente o concesión demanial en la zona.",
+        "b": "Exclusivamente las asociaciones de navieros y las organizaciones sindicales más representativas de la provincia.",
+        "c": "Los Ayuntamientos afectados de forma relevante por la zona de servicio y el Consejo de Navegación del puerto.",
+        "d": "La Comunidad Autónoma donde se ubique la Autoridad Portuaria y el Organismo Público Puertos del Estado."
+      },
+      "correcta": "d",
+      "explicacion": "De acuerdo con el artículo 35.1, la legitimación activa para interponer este recurso administrativo especial ante el Ministerio se reserva de forma exclusiva a la Comunidad Autónoma de ubicación del puerto y al Organismo Público Puertos del Estado, previa consulta oída de agentes sociales si procede.",
+      "articulo": "35"
+    },
+    {
+      "id": "lp-t2-b3-011",
+      "enunciado": "De conformidad con el artículo 36 del Texto Refundido, ¿cómo se rige la materia presupuestaria de Puertos del Estado y de las correspondientes Autoridades Portuarias?",
+      "opciones": {
+        "a": "Por lo dispuesto en esta ley y en las disposiciones de la Ley General Presupuestaria que les resulten de aplicación.",
+        "b": "Exclusivamente por la ley de presupuestos de la Comunidad Autónoma correspondiente donde radiquen las zonas de servicio.",
+        "c": "Sometiéndose de forma general al régimen tributario local ordinario y de contabilidad mercantil común sin consolidación.",
+        "d": "Por las normas de gasto limitativo de los presupuestos consolidados de la Administración General del Estado a propuesta de Costas."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 36 dispone que tanto Puertos del Estado como las Autoridades Portuarias se rigen en materia presupuestaria por la propia Ley de Puertos de forma especial, y por las normas de la Ley General Presupuestaria (LGP) en lo que les sea aplicable.",
+      "articulo": "36"
+    },
+    {
+      "id": "lp-t2-b3-012",
+      "enunciado": "De acuerdo con el artículo 36 del Texto Refundido, además de la presente ley portuaria especial, ¿qué otra norma legal estatal rige con carácter general en materia presupuestaria para los organismos públicos portuarios?",
+      "opciones": {
+        "a": "La Ley de Contratos del Sector Público.",
+        "b": "La Ley del Patrimonio de las Administraciones Públicas.",
+        "c": "La Ley de Presupuestos Generales del Estado de cada año.",
+        "d": "La Ley General Presupuestaria."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 36 remite expresamente a las disposiciones de la Ley General Presupuestaria como la norma que rige de forma supletoria y general la actividad presupuestaria de estos organismos públicos, en armonía con las singularidades comerciales que establece la ley portuaria.",
+      "articulo": "36"
+    },
+    {
+      "id": "lp-t2-b3-013",
+      "enunciado": "De conformidad con el artículo 37.1 del Texto Refundido de la Ley de Puertos, ¿a qué órgano corresponde elaborar anualmente los presupuestos de explotación y de capital y el programa de actuación plurianual consolidados del sistema portuario estatal?",
+      "opciones": {
+        "a": "Al Ministerio de Fomento, a propuesta de la Dirección General de Presupuestos.",
+        "b": "A la Autoridad Portuaria de mayor volumen comercial previa consulta con ADIF.",
+        "c": "Al Organismo Público Puertos del Estado.",
+        "d": "Al Ministerio de Hacienda y Función Pública tras recabar informes individuales."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 37.1 determina que el Organismo Público Puertos del Estado elaborará cada año los presupuestos de explotación, de capital y el programa plurianual consolidados de todo el sistema estatal, ajustándose a la Ley General Presupuestaria.",
+      "articulo": "37"
+    },
+    {
+      "id": "lp-t2-b3-014",
+      "enunciado": "Según el artículo 37.1 del Texto Refundido, en el proceso de consolidación de los presupuestos y programas individuales por parte de Puertos del Estado, ¿qué documento previo aprobado debe respetarse de forma íntegra?",
+      "opciones": {
+        "a": "Las Ordenanzas de Policía aprobadas para cada Autoridad Portuaria en el ejercicio.",
+        "b": "Los Planes de Empresa aprobados para cada Autoridad Portuaria.",
+        "c": "El Reglamento de Explotación y Policía general dictado por el Ministerio de Fomento.",
+        "d": "Las directrices provisionales de masa salarial agregada fijadas por Hacienda."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 37.1, párrafo segundo, establece expresamente que para la consolidación presupuestaria general de los puertos de interés general, Puertos del Estado respetará de forma íntegra los Planes de Empresa individuales de cada Autoridad Portuaria.",
+      "articulo": "37"
+    },
+    {
+      "id": "lp-t2-b3-015",
+      "enunciado": "Con arreglo al artículo 38.1 del Texto Refundido de la Ley de Puertos, ¿a quién deben remitir las Autoridades Portuarias sus proyectos de presupuestos de explotación y capital individuales para su aprobación con carácter previo a la consolidación?",
+      "opciones": {
+        "a": "Al Ministerio de Economía y Hacienda, previo informe del Delegado del Gobierno.",
+        "b": "A la respectiva Comunidad Autónoma, para su fiscalización y control ordinario.",
+        "c": "Al Organismo Público Puertos del Estado.",
+        "d": "Al Consejo de Administración del puerto colindante de la misma provincia marítima."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 38.1 establece de manera clara que las Autoridades Portuarias remitirán sus presupuestos de explotación y capital, ajustados a sus Planes de Empresa, al Organismo Público Puertos del Estado para que éste los apruebe e integre de forma consolidada.",
+      "articulo": "38"
+    },
+    {
+      "id": "lp-t2-b3-016",
+      "enunciado": "De conformidad con el artículo 38.2, ¿qué modificaciones internas de los presupuestos individuales de las Autoridades Portuarias, aun sin incrementar su cuantía total, requieren la aprobación de Puertos del Estado?",
+      "opciones": {
+        "a": "Las que supongan un aumento en gastos de personal o afecten a inversiones.",
+        "b": "Las referentes a reasignaciones de dotaciones corrientes entre los distintos servicios generales.",
+        "c": "Las modificaciones motivadas por la imposición de multas coercitivas por infracción demanial.",
+        "d": "Las que alteren la exacción de las tasas de ocupación privativa autorizadas por el Consejo."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 38.2 señala que si bien las Autoridades Portuarias aprueban sus modificaciones internas que no incrementen las cuantías totales, requerirán aprobación de Puertos del Estado aquellas que supongan un aumento en los gastos de personal o afecten a las inversiones.",
+      "articulo": "38"
+    },
+    {
+      "id": "lp-t2-b3-017",
+      "enunciado": "Con arreglo al artículo 39.1 del Texto Refundido de la Ley de Puertos, ¿a qué disposiciones normativas generales deben ajustar su contabilidad los organismos públicos portuarios?",
+      "opciones": {
+        "a": "Exclusivamente a las directrices de contabilidad pública dictadas por la Intervención General.",
+        "b": "Al Código de Comercio, al Plan General de Contabilidad y demás de aplicación.",
+        "c": "A las normas contables de las entidades sin fines lucrativos y de fomento del mecenazgo.",
+        "d": "Al Plan General de Contabilidad de las Empresas Públicas Estatales de carácter limitativo."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 39.1 dispone que la contabilidad de los organismos portuarios se somete al ordenamiento privado, debiéndose ajustar al Código de Comercio, al Plan General de Contabilidad de la empresa española y a las normas de desarrollo contable ordinario.",
+      "articulo": "39"
+    },
+    {
+      "id": "lp-t2-b3-018",
+      "enunciado": "De conformidad con el artículo 39.3, ¿cuál es el plazo máximo para la formulación de las cuentas anuales de los organismos públicos portuarios a partir del cierre del ejercicio económico?",
+      "opciones": {
+        "a": "En el plazo de un mes desde la fecha de cierre de las operaciones anuales.",
+        "b": "En el plazo de tres meses desde el cierre del ejercicio económico.",
+        "c": "En el plazo de seis meses desde la finalización ordinaria del año natural de gestión.",
+        "d": "En el plazo de cuatro meses, requiriéndose dictamen de la Intervención de la entidad."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 39.3 establece que el Presidente de la Autoridad Portuaria (o de Puertos del Estado) formulará de manera obligatoria las cuentas anuales del ejercicio en el plazo máximo de tres meses contados desde el cierre social (que coincide con el año natural).",
+      "articulo": "39"
+    },
+    {
+      "id": "lp-t2-b3-019",
+      "enunciado": "De conformidad con el artículo 40.1 del Texto Refundido de la Ley de Puertos, ¿por qué órganos estatales se ejerce el control de las actividades económicas y financieras de los organismos públicos portuarios?",
+      "opciones": {
+        "a": "Por los servicios periféricos de la Agencia Tributaria y las delegaciones de Hacienda provinciales.",
+        "b": "Por el Organismo Público Puertos del Estado de forma exclusiva a través de su control de objetivos.",
+        "c": "Por las Cámaras de Cuentas o de fiscalización locales correspondientes a cada Comunidad Autónoma.",
+        "d": "Por la Intervención General de la Administración del Estado y el Tribunal de Cuentas."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 40.1 prescribe que de conformidad con la Ley General Presupuestaria, la fiscalización y el control externo de las cuentas y operaciones económico-financieras de los puertos estatales corresponden en exclusiva a la Intervención General (IGAE) y al Tribunal de Cuentas.",
+      "articulo": "40"
+    },
+    {
+      "id": "lp-t2-b3-020",
+      "enunciado": "De acuerdo con el artículo 40.3 del Texto Refundido de la Ley de Puertos, ¿a quién corresponde la competencia para ejercer el control de objetivos previsto en la Ley General Presupuestaria sobre las Autoridades Portuarias?",
+      "opciones": {
+        "a": "Al Ministerio de Fomento de forma directa mediante de la Dirección de Puertos.",
+        "b": "A la Intervención General de la Administración del Estado de manera semestral.",
+        "c": "Al Organismo Público Puertos del Estado.",
+        "d": "Al Tribunal de Cuentas en el marco de la fiscalización de las cuentas consolidadas."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 40.3 dispone específicamente que, sin perjuicio de los controles generales de la LGP, la competencia técnica para vigilar y supervisar el cumplimiento del control de objetivos recae en Puertos del Estado respecto a las Autoridades Portuarias.",
+      "articulo": "40"
+    }
+  ]
+}
