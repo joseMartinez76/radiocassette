@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t2-b2-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 2, bloque 1 (arts. 21-30)",
+    "normativa": "RDL 2/2011",
+    "tema": 2,
+    "rango": "21-30",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t2-b2-001",
+      "enunciado": "De conformidad con el artículo 21.1 del Texto Refundido, ¿cómo está compuesto el Consejo Rector del Organismo Público Puertos del Estado?",
+      "opciones": {
+        "a": "Por el Presidente de Puertos del Estado y un mínimo de diez y un máximo de trece miembros designados por el Consejo de Ministros.",
+        "b": "Por el Presidente de Puertos del Estado y un mínimo de doce y un máximo de quince miembros designados por el Ministro de Fomento.",
+        "c": "Por el Ministro de Fomento, que actuará como su Presidente nato, y por dieciséis miembros en representación de las Comunidades Autónomas.",
+        "d": "Por el Secretario de Estado de Transportes y catorce miembros elegidos por el Consejo Consultivo de entre los Presidentes de las Autoridades Portuarias."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 21.1 establece de manera clara que la composición del Consejo Rector está conformada por el Presidente de Puertos del Estado y de doce a quince vocales, cuya designación corresponde directamente al Ministro de Fomento.",
+      "articulo": "21"
+    },
+    {
+      "id": "lp-t2-b2-002",
+      "enunciado": "Según el artículo 21.5 del Texto Refundido de la Ley de Puertos, ¿cuál es el quórum mínimo necesario para la válida constitución del Consejo Rector de Puertos del Estado?",
+      "opciones": {
+        "a": "Se requiere la asistencia de las tres cuartas partes de sus vocales designados, siendo obligatorio el dictamen favorable previo del Abogado del Estado.",
+        "b": "Bastará con la presencia de una tercera parte de los consejeros, siempre que asista el Secretario del Consejo o un vocal debidamente autorizado.",
+        "c": "Es precisa la concurrencia del Presidente y el Secretario, y de la mitad al menos de sus miembros presentes o representados.",
+        "d": "Se exige la asistencia presencial e indelegable de la mayoría absoluta de todos los vocales, sin admitirse representación escrita o telemática."
+      },
+      "correcta": "c",
+      "explicacion": "De conformidad con el artículo 21.5, para la constitución del Consejo Rector es indispensable la asistencia física del Presidente y de la persona que ostente la Secretaría, junto con al menos la mitad de los miembros, admitiéndose para este cómputo la delegación escrita de representación.",
+      "articulo": "21"
+    },
+    {
+      "id": "lp-t2-b2-003",
+      "enunciado": "De conformidad con lo dispuesto en el artículo 22.1 del Texto Refundido, ¿qué órgano ostenta la competencia para nombrar al Presidente de Puertos del Estado y bajo qué forma jurídica se realiza?",
+      "opciones": {
+        "a": "El Gobierno, mediante Real Decreto, a propuesta del Ministro de Fomento.",
+        "b": "El Ministro de Fomento, mediante Orden Ministerial publicada en el Boletín Oficial del Estado.",
+        "c": "El Consejo Rector de Puertos del Estado, mediante acuerdo de su Comisión Ejecutiva aprobado por mayoría absoluta de sus vocales.",
+        "d": "El Secretario de Estado de Transportes, mediante Resolución de la Dirección General de la Marina Mercante previo informe autonómico."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 22.1 asigna en exclusiva el nombramiento del Presidente de Puertos del Estado al Gobierno, exigiéndose que se formalice mediante un Real Decreto y siempre a propuesta del titular del Ministerio de Fomento.",
+      "articulo": "22"
+    },
+    {
+      "id": "lp-t2-b2-004",
+      "enunciado": "Con arreglo al artículo 22.1 del Texto Refundido, ¿puede el Presidente de Puertos del Estado simultanear su cargo con puestos en sociedades mercantiles participadas por dicho Organismo Público?",
+      "opciones": {
+        "a": "No, se prohíbe de forma absoluta la participación del Presidente en el Consejo de Administración de cualquier sociedad participada por razones de transparencia.",
+        "b": "Sí, pero únicamente con el cargo de vocal no retribuido y previa autorización expresa del Consejo Rector aprobada por un quórum de dos tercios.",
+        "c": "Sí, podrá simultanear su cargo con el de Presidente o Vocal del Consejo de Administración de las sociedades participadas por el Organismo Público.",
+        "d": "Sí, siempre que las sociedades participadas tengan su domicilio fiscal en la Comunidad Autónoma de Canarias o Baleares debido al régimen fiscal especial."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 22.1 determina que el Presidente puede compatibilizar su puesto directivo con la presidencia o una vocalía en los consejos de administración de las sociedades mercantiles participadas por la entidad pública, siempre sometido a las limitaciones de retribución de la normativa sobre incompatibilidades.",
+      "articulo": "22"
+    },
+    {
+      "id": "lp-t2-b2-005",
+      "enunciado": "Según el artículo 23 del Texto Refundido de la Ley de Puertos, ¿quiénes integran el Consejo Consultivo como órgano de asistencia del Organismo Público Puertos del Estado?",
+      "opciones": {
+        "a": "El Ministro de Fomento, como Presidente nato del órgano, y los Directores Generales de todas las Autoridades Portuarias del Estado.",
+        "b": "El Presidente de Puertos del Estado y los representantes sindicales electos de cada provincia marítima del litoral español de interés general.",
+        "c": "El Secretario de Estado de Transportes y los Consejeros de Ordenación del Territorio y de Obras Públicas de cada una de las Comunidades Autónomas.",
+        "d": "El Presidente de Puertos del Estado, que lo presidirá, y un representative de cada Autoridad Portuaria, que será su Presidente."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 23 dispone que este órgano asistencial y consultivo estará presidido por el Presidente del organismo estatal y contará con un vocal por cada Autoridad Portuaria, cargo que recae en el respectivo Presidente de cada organismo portuario.",
+      "articulo": "23"
+    },
+    {
+      "id": "lp-t2-b2-006",
+      "enunciado": "De acuerdo con el artículo 23 de la ley, ¿cómo puede ser sustituido el Presidente de una Autoridad Portuaria en las reuniones del Consejo Consultivo de Puertos del Estado?",
+      "opciones": {
+        "a": "Por el Director de la Autoridad Portuaria de forma automática y preferente por razón de su cargo técnico de gestión portuaria.",
+        "b": "Por el Delegado del Gobierno en la Comunidad Autónoma correspondiente o en su defecto por el Capitán Marítimo de la provincia de servicio.",
+        "c": "Por la persona que designe el Consejo de Administración de la Autoridad Portuaria de entre sus demás miembros, a propuesta del Presidente.",
+        "d": "Por cualquier funcionario del Subgrupo A1 de la Autoridad Portuaria que cuente con más de cinco años de experiencia acreditada en el sector."
+      },
+      "correcta": "c",
+      "explicacion": "De conformidad con el artículo 23, cuando el Presidente de una Autoridad Portuaria no pueda asistir al Consejo Consultivo, podrá designarse en su lugar a un vocal del Consejo de Administración de su misma Autoridad Portuaria, nombramiento que requiere la propuesta previa del propio Presidente de la entidad.",
+      "articulo": "23"
+    },
+    {
+      "id": "lp-t2-b2-007",
+      "enunciado": "Según el artículo 24.1 del Texto Refundido de la Ley de Puertos, ¿cuál es la adscripción orgánica y la naturaleza de las Autoridades Portuarias?",
+      "opciones": {
+        "a": "Son organismos públicos de la Ley General Presupuestaria, con personalidad jurídica y patrimonio propios, que dependen de Fomento a través de Puertos del Estado.",
+        "b": "Son organismos autónomos de carácter administrativo y presupuestario limitativo, que dependen jerárquicamente de la Dirección General de la Marina Mercante.",
+        "c": "Son sociedades públicas de responsabilidad mercantil, sin patrimonio propio, adscritas de forma directa a la Secretaría de Estado de Hacienda y Función Pública.",
+        "d": "Son corporaciones de derecho demanial y aduanero, con capacidad de obrar delegada, que dependen orgánicamente de los respectivos Ayuntamientos portuarios locales."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 24.1 define a las Autoridades Portuarias como organismos con personalidad jurídica y patrimonio propios de los previstos en el art. 2.1.g) de la LGP, que dependen orgánicamente del Ministerio de Fomento por mediación del Organismo Público Puertos del Estado.",
+      "articulo": "24"
+    },
+    {
+      "id": "lp-t2-b2-008",
+      "enunciado": "De conformidad con el artículo 24.4 del Texto Refundido, ¿bajo qué condiciones e instrumento legal puede el Gobierno agrupar varios puertos estatales en una única Autoridad Portuaria?",
+      "opciones": {
+        "a": "Mediante Orden del Ministro de Fomento, previo acuerdo del Consejo de Navegación y sin requerir participación de las Comunidades Autónomas.",
+        "b": "Mediante Real Decreto del Consejo de Ministros, a propuesta de Puertos del Estado y previo informe de las Cámaras de Comercio locales.",
+        "c": "Mediante Decreto de la Comunidad Autónoma donde se sitúen las zonas de servicio portuarias, previa ratificación presupuestaria por parte de Puertos del Estado.",
+        "d": "Mediante Real Decreto, a propuesta del Ministro de Fomento y previo informe de la Comunidad Autónoma, para puertos ubicados en una misma Comunidad Autónoma."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 24.4 faculta al Gobierno para realizar agrupaciones de puertos estatales localizados en el territorio de una misma Comunidad Autónoma con el fin de optimizar medios, requiriéndose propuesta de Fomento, Real Decreto e informe previo de la Comunidad afectada.",
+      "articulo": "24"
+    },
+    {
+      "id": "lp-t2-b2-009",
+      "enunciado": "Con arreglo al artículo 25 del Texto Refundido de la Ley de Puertos, ¿cuál de las siguientes materias constituye una competencia atribuida directamente a las Autoridades Portuarias?",
+      "opciones": {
+        "a": "La planificación, proyecto, construcción, conservación y explotación de las obras y servicios del puerto, y el de las señales marítimas encomendadas.",
+        "b": "El despacho de buques, el abanderamiento y el control del registro de todas las empresas navieras que operen de forma regular en aguas exteriores.",
+        "c": "El otorgamiento directo de concesiones mineras y autorizaciones de dragado demanial en aguas del mar territorial que no pertenezcan al demanio portuario.",
+        "d": "La dirección, organización e inspección del Cuerpo de Prácticos de Puerto y de las misiones de salvamento de la vida humana encomendadas a SASEMAR por ley."
+      },
+      "correcta": "a",
+      "explicacion": "De conformidad con el artículo 25.c), la competencia de planificación, redacción de proyectos, ejecución de obras de infraestructura, conservación y explotación recae de manera ordinaria en la Autoridad Portuaria para sus puertos y señalizaciones. Los demás apartados versan sobre competencias reservadas a la Administración Marítima.",
+      "articulo": "25"
+    },
+    {
+      "id": "lp-t2-b2-010",
+      "enunciado": "Según el artículo 25 del Texto Refundido, ¿cuál de las siguientes funciones es una competencia atribuida de forma expresa a las Autoridades Portuarias en relación con los modos de transporte?",
+      "opciones": {
+        "a": "La explotación directa y comercial del servicio ferroviario general de mercancías.",
+        "b": "La fijación de las tarifas del transporte terrestre nacional de contenedores que acceda al muelle.",
+        "c": "La coordinación de las operaciones de los distintos modos de transporte en el espacio portuario.",
+        "d": "La expedición de autorizaciones administrativas para la circulación por carretera de camiones en tránsito."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 25.g) atribuye expresamente a las Autoridades Portuarias la competencia de coordinar las distintas operaciones de transporte marítimo y terrestre dentro de la zona de servicio del puerto, sin conferirles la dirección comercial o tarifas de los medios de transporte de uso común de las redes nacionales.",
+      "articulo": "25"
+    },
+    {
+      "id": "lp-t2-b2-011",
+      "enunciado": "De conformidad con el artículo 26.1.p) del Texto Refundido, ¿bajo qué condiciones financieras puede la Autoridad Portuaria autorizar de forma directa su participación en sociedades mercantiles?",
+      "opciones": {
+        "a": "Siempre que los compromisos no superen el uno por ciento del activo no corriente neto de la entidad y no impliquen adquirir o perder la posición mayoritaria.",
+        "b": "Siempre que la aportación no exceda del cinco por ciento de sus ingresos de explotación anuales, requiriendo informe favorable de la Comunidad Autónoma.",
+        "c": "Únicamente si la sociedad mercantil tiene carácter público y los compromisos financieros cuentan con el aval previo del Consejo Rector de Puertos del Estado.",
+        "d": "En ningún caso se permite el otorgamiento directo, requiriéndose autorización previa del Consejo de Ministros sin importar la cuantía de la participación."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 26.1.p) permite al propio Consejo de Administración del puerto autorizar adquisiciones o enajenaciones de acciones si los compromisos financieros totales son iguales o menores al 1% de su activo no corriente neto, y siempre que no supongan una ganancia o pérdida del carácter mayoritario de su posición.",
+      "articulo": "26"
+    },
+    {
+      "id": "lp-t2-b2-012",
+      "enunciado": "Con arreglo al artículo 26.1.p) del Texto Refundido, ¿qué quórum y condiciones especiales se exigen en el Consejo de Administración de la Autoridad Portuaria para acordar la participación en una sociedad mercantil?",
+      "opciones": {
+        "a": "Unanimidad de todos los vocales que representen a los municipios colindantes y a las Cámaras de Comercio provinciales afectadas.",
+        "b": "Mayoría de representantes de la Administración General del Estado, con el voto favorable obligatorio del vocal de Puertos del Estado.",
+        "c": "Mayoría absoluta de dos tercios de la totalidad de vocales presentes y representados en la sesión, con el dictamen favorable del Abogado del Estado.",
+        "d": "Voto favorable unánime de los representantes de las organizaciones empresariales que dispongan de puestos de representación electivos."
+      },
+      "correcta": "b",
+      "explicacion": "Según determina de forma pormenorizada el artículo 26.1.p), este acuerdo del Consejo de la AP requiere de forma inexcusable la mayoría de votos de los representantes de la Administración General del Estado que se hallen presentes o representados, exigiéndose en todo caso el voto favorable del vocal de Puertos del Estado.",
+      "articulo": "26"
+    },
+    {
+      "id": "lp-t2-b2-013",
+      "enunciado": "De conformidad con el artículo 27.1 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes ingresos integra de forma expresa los recursos económicos de las Autoridades Portuarias?",
+      "opciones": {
+        "a": "Las asignaciones de los presupuestos de gasto limitativo de las Comunidades Autónomas.",
+        "b": "Los tributos locales que exijan los Ayuntamientos sobre las actividades comerciales demaniales.",
+        "c": "Las tasas de ocupación que abonen los buques de la defensa nacional por su estancia temporal.",
+        "d": "El producto íntegro derivado de la aplicación del régimen sancionador de competencia de la Autoridad Portuaria."
+      },
+      "correcta": "d",
+      "explicacion": "De acuerdo con el artículo 27.1.h), el producto derivado de las sanciones que imponga el propio organismo público portuario en ejercicio de sus funciones pasa a integrar legalmente sus recursos económicos propios.",
+      "articulo": "27"
+    },
+    {
+      "id": "lp-t2-b2-014",
+      "enunciado": "Según el artículo 27.1 del Texto Refundido, ¿cuál de los siguientes conceptos tiene el carácter de recurso económico de derecho privado de la Autoridad Portuaria?",
+      "opciones": {
+        "a": "Los ingresos obtenidos en el ejercicio de sus funciones que tengan el carácter de recursos de derecho privado.",
+        "b": "Las tasas de utilización exigibles por la utilización especial de las instalaciones portuarias de carácter civil.",
+        "c": "Las aportaciones de carácter no reintegrable que reciba la Autoridad Portuaria procedentes del Fondo de Compensación Interportuario.",
+        "d": "Las liquidaciones tributarias que practique la Agencia Tributaria como consecuencia de actas de inspección tributaria ordinaria."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 27.1.c) incluye expresamente en su catálogo los ingresos ordinarios de derecho privado resultantes del ejercicio de su tráfico de gestión. Por el contrario, las tasas y cánones constituyen prestaciones patrimoniales tributarias sometidas al derecho público.",
+      "articulo": "27"
+    },
+    {
+      "id": "lp-t2-b2-015",
+      "enunciado": "Con arreglo al artículo 28 del Texto Refundido de la Ley de Puertos, ¿cómo se delimita el ámbito territorial de competencia de una Autoridad Portuaria?",
+      "opciones": {
+        "a": "Al de la zona de servicio del puerto y los espacios afectados al servicio de señalización marítima que tenga asignados.",
+        "b": "Al espacio terrestre coincendente con el término municipal donde radique la sede de la Autoridad.",
+        "c": "Al espacio de agua delimitado por la Zona I interior del puerto y por el mar territorial español medido desde las líneas de base.",
+        "d": "Al conjunto de la provincia marítima correspondiente, incluyendo las rías y los ríos navegables hasta donde no llegue la marea."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 28 delimita la zona de influencia y competencia de las Autoridades Portuarias al espacio geográfico de la zona de servicio del muelle y de las señalizaciones marítimas cuya gestión tengan encomendadas de forma demanial por Fomento.",
+      "articulo": "28"
+    },
+    {
+      "id": "lp-t2-b2-016",
+      "enunciado": "De acuerdo con lo establecido en el artículo 28, en el caso de que una Autoridad Portuaria gestione varios puertos de titularidad estatal, ¿cómo se delimita su ámbito territorial de competencia?",
+      "opciones": {
+        "a": "Se limitará de forma exclusiva a la zona de servicio del puerto principal que dé nombre de origen a la entidad pública.",
+        "b": "Se extenderá a las zonas de servicio de dichos puertos y a los espacios de señalización marítima cuya gestión se le asigne.",
+        "c": "Comprenderá de forma global todo el mar litoral y la zona contigua situados frente al territorio de la respectiva provincia marítima.",
+        "d": "Quedará condicionado en cada muelle de forma independiente a la previa delegación de competencias que autorice el Ayuntamiento respectivo."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 28, en su párrafo segundo, estipula que en supuestos plurportuarios bajo una misma administración, el ámbito de la Autoridad Portuaria comprenderá de forma conjunta todas las zonas de servicio y balizamientos cuya gestión le hubiera sido encomendada.",
+      "articulo": "28"
+    },
+    {
+      "id": "lp-t2-b2-017",
+      "enunciado": "De conformidad con el artículo 29 del Texto Refundido de la Ley de Puertos, ¿cuál es la clasificación y denominación exacta de los órganos que integran las Autoridades Portuarias?",
+      "opciones": {
+        "a": "Órganos de dirección: Presidente y Director. Órganos de fiscalización: Consejo de Administración. Órganos consultivos: Junta de Obras provinciales.",
+        "b": "Órganos de gobierno: Consejo de Administración y Presidente. Órganos de gestión: Director. Órganos de asistencia: Consejo de Navegación y Puerto.",
+        "c": "Órganos de gobierno: Consejo Rector y Presidente. Órganos de gestión: Director General. Órganos de asistencia: Junta de Obras y Comisión de Faros.",
+        "d": "Órganos de gobierno: Presidente y Director. Órganos de gestión: Consejo de Administración. Órganos de asistencia técnica: Comité de Servicios Portuarios."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 29 estructura el organigrama de cada Autoridad Portuaria distinguiendo jerárquicamente entre órganos de gobierno (Presidente y Consejo de Administración), un órgano de gestión ejecutiva (Director) y un órgano consultivo y asistencial (Consejo de Navegación y Puerto).",
+      "articulo": "29"
+    },
+    {
+      "id": "lp-t2-b2-018",
+      "enunciado": "Con arreglo al artículo 29 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes órganos tiene la condición legal y exclusiva de órgano de gestión de una Autoridad Portuaria?",
+      "opciones": {
+        "a": "El Presidente de la entidad portuaria correspondiente.",
+        "b": "El Consejo de Navegación y Puerto de la provincia marítima afectada.",
+        "c": "El Consejo de Administración de la respectiva Autoridad Portuaria estatal.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 29.b) determina que el Director es el único que ostenta la naturaleza y condición de órgano de gestión de las Autoridades Portuarias, de modo que las demás opciones describen órganos de gobierno o de asistencia.",
+      "articulo": "29"
+    },
+    {
+      "id": "lp-t2-b2-019",
+      "enunciado": "Según el artículo 30.1 del Texto Refundido de la Ley de Puertos, ¿cuál es el número ordinario de vocales del Consejo de Administración de una Autoridad Portuaria y cuál es la excepción territorial para los archipiélagos?",
+      "opciones": {
+        "a": "Un número entre doce y quince vocales, ampliándose hasta dieciocho vocales para las Islas Canarias y Baleares.",
+        "b": "Un número comprendido entre diez y trece, pudiendo llegar a dieciséis vocales en las Islas Canarias y Baleares.",
+        "c": "Un número fijo de catorce vocales en todos los puertos, salvo en Ceuta y Melilla donde se reducirá a un total de ocho vocales.",
+        "d": "Un número entre de ocho a once vocales, de conformidad con lo que fije el órgano autonómico competente para la ordenación territorial."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 30.1.c) contempla que los vocales de designación autonómica sumarán entre 10 y 13 miembros, elevando excepcionalmente este rango hasta los 16 miembros en Canarias e Islas Baleares para dar adecuada representación a los Cabildos y Consells insulares.",
+      "articulo": "30"
+    },
+    {
+      "id": "lp-t2-b2-020",
+      "enunciado": "De conformidad con lo dispuesto en el artículo 30.1 del Texto Refundido de la Ley de Puertos, ¿quién ostenta la condición de miembro nato del Consejo de Administración de una Autoridad Portuaria?",
+      "opciones": {
+        "a": "El Abogado del Estado adscrito a la respectiva provincia marítima de servicio.",
+        "b": "El Capitán Marítimo.",
+        "c": "El Alcalde del municipio en cuyo término se localice la mayor parte de la zona de servicio.",
+        "d": "El Director del Organismo Público Puertos del Estado o la persona en quien delegue su voto."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 30.1.b) señala expresamente que el Capitán Marítimo es miembro nato del Consejo de Administración de la Autoridad Portuaria, mientras que los representantes de la abogacía del Estado, del municipio portuario o de Puertos del Estado asisten como vocales ordinarios.",
+      "articulo": "30"
+    }
+  ]
+}
