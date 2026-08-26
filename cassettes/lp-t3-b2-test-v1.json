@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t3-b2-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 3, bloque 2 (arts. 76-85)",
+    "normativa": "RDL 2/2011",
+    "tema": 3,
+    "rango": "76-85",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t3-b2-001",
+      "enunciado": "¿Cómo se puede iniciar el procedimiento para el otorgamiento de las autorizaciones reguladas en la Sección 2.ª del Capítulo III del Título V, de acuerdo con el artículo 76?",
+      "opciones": {
+        "a": "Exclusivamente a solicitud del interesado, previa justificación de la necesidad demanial por razones de interés público.",
+        "b": "A solicitud del interesado o por concurso convocado al efecto por la Autoridad Portuaria.",
+        "c": "Únicamente de oficio por acuerdo motivado del Consejo de Administración, previa consulta con Puertos del Estado.",
+        "d": "Por libre asignación del Presidente de la Autoridad Portuaria en supuestos de urgencia o emergencia costera."
+      },
+      "correcta": "b",
+      "explicacion": "De acuerdo con el artículo 76, el trámite para otorgar estas autorizaciones temporales admite una doble vía de iniciación: a instancia de parte (petición de un interesado) o bien mediante la convocatoria de un concurso público por iniciativa de la propia Autoridad Portuaria.",
+      "articulo": "76"
+    },
+    {
+      "id": "lp-t3-b2-002",
+      "enunciado": "De conformidad con el artículo 76, ¿qué organismo público ostenta de manera expresa la competencia para convocar concursos destinados al otorgamiento de autorizaciones de ocupación demanial?",
+      "opciones": {
+        "a": "El Ministerio de Fomento.",
+        "b": "Puertos del Estado.",
+        "c": "El Consejo Rector demanial.",
+        "d": "La Autoridad Portuaria."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 76 indica que los concursos para otorgar estas autorizaciones sobre el dominio público portuario estatal deben ser convocados específicamente por la Autoridad Portuaria gestora de la zona de servicio.",
+      "articulo": "76"
+    },
+    {
+      "id": "lp-t3-b2-003",
+      "enunciado": "Según el artículo 77.2, ¿qué plazo máximo se establece para archivar, previa audiencia del peticionario, las solicitudes de autorización que se opongan a los instrumentos de planificación portuaria o a la Delimitación de los Espacios y Usos Portuarios?",
+      "opciones": {
+        "a": "Dos meses, sin más trámite que la audiencia previa al peticionario.",
+        "b": "Quince días hábiles desde su presentación en el registro general de la entidad demanial.",
+        "c": "Un mes, requiriéndose en todo caso informe favorable de la Dirección General de Costas.",
+        "d": "Tres meses, transcurridos los cuales se entenderá estimada por silencio positivo."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 77.2 ordena la inadmisión de aquellas solicitudes que contradigan la planificación portuaria en vigor (como la DEUP o planes estratégicos), fijando un periodo máximo de dos meses para tramitar su archivo, bastando con dar audiencia previa al solicitante.",
+      "articulo": "77"
+    },
+    {
+      "id": "lp-t3-b2-004",
+      "enunciado": "Con arreglo al artículo 77.1, ¿cuál de los siguientes documentos o requisitos NO se exige expresamente que acompañe a la solicitud del interesado para tramitar una autorización demanial?",
+      "opciones": {
+        "a": "Una memoria y planos de conjunto o de detalle de los bienes e instalaciones que se vayan a desarrollar.",
+        "b": "El proyecto de ejecución visado por el colegio profesional y el estudio de impacto ambiental de las obras fijas.",
+        "c": "Los datos identificativos del solicitante o de los partícipes en la entidad sin personalidad jurídica.",
+        "d": "La descripción e información económico-financiera de la actividad comercial que se proyecte realizar."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 77.1 regula los requisitos para las solicitudes de autorizaciones (que son para ocupaciones menores de 3 años con bienes muebles o elementos desmontables). Al no tratarse de obras permanentes, no se les exige proyecto visado ni evaluaciones de impacto ambiental, requisitos que sí son propios de las solicitudes de concesiones (artículo 84).",
+      "articulo": "77"
+    },
+    {
+      "id": "lp-t3-b2-005",
+      "enunciado": "De acuerdo con el artículo 78.3, ¿a qué órgano de la Autoridad Portuaria corresponde resolver sobre el otorgamiento o denegación de las autorizaciones que tengan asignado un plazo de vigencia que no supere el año?",
+      "opciones": {
+        "a": "Al Director de la Autoridad Portuaria.",
+        "b": "Al Comité de Servicios Portuarios.",
+        "c": "Al Presidente de la Autoridad Portuaria.",
+        "d": "Al Consejo de Administración."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 78.3 reparte la atribución de otorgar autorizaciones según su duración. Si el plazo solicitado es igual o menor a un año, la competencia recae directamente en el Presidente del organismo; si supera el año, corresponde al Consejo de Administración.",
+      "articulo": "78"
+    },
+    {
+      "id": "lp-t3-b2-006",
+      "enunciado": "De conformidad con el artículo 78.3, ¿a quién corresponde decidir sobre la concesión de autorizaciones demaniales cuyo plazo de vigencia sea superior a un año?",
+      "opciones": {
+        "a": "Al Ministro de Fomento, a propuesta del Presidente de Puertos del Estado.",
+        "b": "Al Presidente de la Autoridad Portuaria, oído el Consejo Consultivo sectorial.",
+        "c": "Al Director del puerto demanial de forma unánime y conjunta con la Dirección de Costas.",
+        "d": "Al Consejo de Administración de la Autoridad Portuaria, previo informe del Director."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 78.3 indica de manera expresa que las autorizaciones por un plazo mayor a un año son competencia del Consejo de Administración de la Autoridad Portuaria, requiriéndose el informe previo del Director y la audiencia del interesado.",
+      "articulo": "78"
+    },
+    {
+      "id": "lp-t3-b2-007",
+      "enunciado": "Según el artículo 79, los concursos que convoque el organismo portuario con el fin de otorgar autorizaciones de ocupación del dominio público portuario se resolverán por:",
+      "opciones": {
+        "a": "El órgano competente para el otorgamiento de la autorización.",
+        "b": "El Director del Puerto demanial correspondiente de la respectiva provincia de servicio marítimo.",
+        "c": "El Consejo Rector de Puertos del Estado.",
+        "d": "El Ministro de Fomento a propuesta de la AP."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 79.4 prevé que la resolución de estos concursos corresponde de forma ordinaria al mismo órgano que tiene la atribución legal de otorgar el título (Presidente o Consejo de Administración, según el plazo de vigencia del concurso).",
+      "articulo": "79"
+    },
+    {
+      "id": "lp-t3-b2-008",
+      "enunciado": "Con arreglo al artículo 79.5 de la ley, ¿a qué trámite posterior deberá someterse la oferta que resulte seleccionada por concurso en materia de autorizaciones demaniales?",
+      "opciones": {
+        "a": "Al procedimiento de información pública por un plazo máximo de demanial de quince días naturales.",
+        "b": "A la tramitación ordinaria prevista para el otorgamiento de la correspondiente autorización.",
+        "c": "A la previa autorización del Consejo de Ministros si el valor de los bienes supera el millón de euros.",
+        "d": "Al dictamen preceptivo y demanial del Comité de Servicios Portuarios."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 79.5 dispone que, tras seleccionarse la mejor propuesta en el concurso, se debe continuar con la tramitación ordinaria regulada en el artículo 78 (informe del Director, comprobación de viabilidad, etc.) para dictar el acuerdo definitivo.",
+      "articulo": "79"
+    },
+    {
+      "id": "lp-t3-b2-009",
+      "enunciado": "Conforme al catálogo mínimo establecido en el artículo 80, ¿cuál de los siguientes extremos NO constituye una de las condiciones obligatorias que deben figurar en el documento de otorgamiento de una autorización?",
+      "opciones": {
+        "a": "La tasa de ocupación y la tasa de actividad.",
+        "b": "El plazo de vigencia y la superficie autorizada.",
+        "c": "Las obras e instalaciones que se autorizan demanialmente para el muelle.",
+        "d": "La fianza medioambiental de explotación de carácter anual."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 80 exige que figuren el objeto, plazo, superficie, obras, balizamiento, tasas y garantías. No contempla la imposición obligatoria de una fianza medioambiental específica anual en el clausulado ordinario de este tipo de autorizaciones demaniales temporales.",
+      "articulo": "80"
+    },
+    {
+      "id": "lp-t3-b2-010",
+      "enunciado": "De acuerdo con el artículo 80.f), en las autorizaciones que se otorguen en los espacios que estén afectados al servicio de ayudas a la navegación, ¿qué condiciones especiales mínimas deben fijarse?",
+      "opciones": {
+        "a": "El abono trimestral anticipado de las tasas de utilización del puerto.",
+        "b": "La exención demanial total del pago de la tasa de actividad por interés social debidamente acaudalado.",
+        "c": "Las que garanticen la eficacia del servicio, accesos y medidas de seguridad.",
+        "d": "Las normas de jornada y descansos del personal de faros del demanio."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 80.f) establece que las autorizaciones en espacios de señalización marítima o de ayudas a la navegación deben incluir condiciones especiales destinadas a asegurar el correcto funcionamiento técnico de las señales, el libre acceso físico a las instalaciones y las medidas de protección oportunas.",
+      "articulo": "80"
+    },
+    {
+      "id": "lp-t3-b2-011",
+      "enunciado": "De conformidad con el artículo 81.1, ¿en qué supuestos de utilización del dominio público portuario se exige de forma inexcusable el otorgamiento previo de una concesión demanial en lugar de una autorización?",
+      "opciones": {
+        "a": "La ocupación con obras o instalaciones no desmontables o usos por plazo superior a tres años.",
+        "b": "La realización de actividades comerciales que superen los sesenta mil euros anuales en el puerto estatal.",
+        "c": "La ocupación temporal con instalaciones desmontables por un plazo de dos años.",
+        "d": "El ejercicio de actividades industriales que afecten a la seguridad de la Zona II exterior."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 81.1 traza la frontera jurídica: se requiere concesión (y no mera autorización) si se pretende realizar una ocupación con carácter estable (obras o instalaciones fijas no desmontables) o si el plazo del uso privativo del dominio público portuario excede los tres años.",
+      "articulo": "81"
+    },
+    {
+      "id": "lp-t3-b2-012",
+      "enunciado": "Según detalla el artículo 81.5, ¿qué espacio físico debe quedar expresamente incorporado en el título de una concesión o autorización destinada a la explotación de instalaciones de atraque?",
+      "opciones": {
+        "a": "La zona geográfica de señalización marítima provincial.",
+        "b": "El canal de acceso marítimo de la Zona II exterior.",
+        "c": "Los espacios terrestres y de agua destinados a la lonja de pesca fresca de ría.",
+        "d": "La correspondiente zona de maniobra."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 81.5 prescribe de forma directa que toda concesión o autorización que tenga por objeto la gestión de infraestructuras de atraque debe integrar en su ámbito geográfico la respectiva zona de maniobra del buque asociada.",
+      "articulo": "81"
+    },
+    {
+      "id": "lp-t3-b2-013",
+      "enunciado": "Con arreglo al artículo 82.1 del Texto Refundido de la Ley de Puertos, el plazo de las concesiones demaniales será el que se determine en su correspondiente título de otorgamiento, no pudiendo superar en ningún caso a:",
+      "opciones": {
+        "a": "Cincuenta años.",
+        "b": "Treinta y cinco años.",
+        "c": "Setenta y cinco años.",
+        "d": "Cuarenta años."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 82.1 limita de manera taxativa la duración máxima de las concesiones de dominio público portuario estatal a un plazo improrrogable de cincuenta años, debiendo ponderarse criterios técnicos y económicos para fijarlo.",
+      "articulo": "82"
+    },
+    {
+      "id": "lp-t3-b2-014",
+      "enunciado": "De acuerdo con el artículo 82.2.b), cuando el concesionario lleve a cabo una inversión relevante no prevista en el título inicial que mejore la competitividad o la eficiencia, ¿qué porcentaje de inversión se exige para poder prorrogar el plazo?",
+      "opciones": {
+        "a": "Que la nueva inversión sea superior al diez por ciento del valor inicial amortizado del muelle estatal.",
+        "b": "Que la nueva inversión sea superior al quince por ciento del valor catastral de la superficie demanial.",
+        "c": "Que la nueva inversión sea superior al veinte por ciento del valor actualizado de la inversión inicialmente prevista.",
+        "d": "Que la nueva inversión alcance al menos el cincuenta por ciento del activo no corriente total del puerto de interés general."
+      },
+      "correcta": "c",
+      "explicacion": "Para autorizar la prórroga extraordinaria del plazo inicial (sin exceder el máximo de 50 años) por la vía del artículo 82.2.b), la nueva inversión de mejora debe representar un desembolso superior al veinte por ciento del valor actualizado de la inversión que se programó originalmente.",
+      "articulo": "82"
+    },
+    {
+      "id": "lp-t3-b2-015",
+      "enunciado": "Según dispone el artículo 83, ¿en qué supuesto concreto puede la Autoridad Portuaria prescindir de los trámites de competencia de proyectos y acordar el otorgamiento directo de concesiones demaniales?",
+      "opciones": {
+        "a": "Siempre que el objeto de la concesión esté relacionado de forma directa con la estiba y desestiba mercante.",
+        "b": "En todo caso de solicitud de concesión demanial náutico-deportiva promovida por un club con fines de lucro.",
+        "c": "Cuando el solicitante demanial oferte en concurso público un incremento del cincuenta por ciento en el pago de la tasa de ocupación de las aguas.",
+        "d": "Cuando el solicitante sea otra Administración pública o persona jurídica del sector público para sus competencias."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 83.2.a) faculta a la AP para el otorgamiento directo (sin competencia de proyectos) cuando el peticionario pertenezca al sector público (Administraciones o sociedades mayoritariamente públicas) y los bienes se destinen a tareas de su competencia, siempre que no operen en concurrencia con el sector privado.",
+      "articulo": "83"
+    },
+    {
+      "id": "lp-t3-b2-016",
+      "enunciado": "De conformidad con el artículo 83.2.a) del Texto Refundido de la Ley de Puertos, ¿se permite acordar el otorgamiento directo de una concesión demanial si su objeto está relacionado con la prestación de servicios portuarios?",
+      "opciones": {
+        "a": "No, salvo que se den los casos de ausencia o insuficiencia de iniciativa privada previstos en la ley.",
+        "b": "Sí, siempre que se apruebe previamente por Orden demanial del Ministerio de Fomento y de Puertos del Estado.",
+        "c": "Sí, con carácter ordinario y a discreción del Presidente de la Autoridad Portuaria.",
+        "d": "No, estando prohibido de forma absoluta en todo caso por directivas de la competencia."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 83.2.a) prohíbe explícitamente el otorgamiento directo de concesiones ligadas a servicios portuarios ordinarios, salvo en supuestos excepcionales donde se declare formalmente la ausencia o insuficiencia de operadores privados en el puerto.",
+      "articulo": "83"
+    },
+    {
+      "id": "lp-t3-b2-017",
+      "enunciado": "Con arreglo al artículo 84.1.f) de la ley, ¿cuál es el porcentaje que se exige en concepto de fianza o garantía provisional al presentar una solicitud de concesión demanial sobre el dominio público portuario?",
+      "opciones": {
+        "a": "Un cinco por ciento del presupuesto total del proyecto básico de obras presentado al demanio de la Autoridad Portuaria.",
+        "b": "Un dos por ciento del presupuesto de las obras e instalaciones, no inferior a 3.000 euros.",
+        "c": "Un uno por ciento del valor catastral de los terrenos demaniales que se pretenda ocupar.",
+        "d": "Un tres por ciento del activo no corriente neto de la Autoridad Portuaria solicitada."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 84.1.f) exige acompañar la solicitud con el justificante de la garantía provisional. El artículo 93.1 concreta que su importe equivale al dos por ciento del presupuesto de las obras e instalaciones proyectadas, fijando un suelo mínimo de 3.000 euros.",
+      "articulo": "84"
+    },
+    {
+      "id": "lp-t3-b2-018",
+      "enunciado": "De acuerdo con el artículo 84.2, ¿cuál de las siguientes causas obliga a la Autoridad Portuaria a inadmitir de plano y archivar una solicitud de concesión, dándose un plazo de dos meses previo trámite de audiencia?",
+      "opciones": {
+        "a": "Que las tarifas de los servicios que se pretendan cobrar excedan de los precios demaniales de la Autoridad Portuaria.",
+        "b": "Que el presupuesto estimado de las obras a ejecutar sea inferior a la cuantía fija de tres millones de euros estatales.",
+        "c": "Que se oponga a la DEUP, o que pueda originar situaciones de monopolio que afecten a la libre competencia.",
+        "d": "Que el solicitante no se encuentre inscrito en el Registro General de empresas prestadoras de Puertos."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 84.2 impone la inadmisión de solicitudes contrarias a la DEUP, a la ley, o que generen una posición de dominio que limite o distorsione de forma desleal la libre competencia en las actividades del puerto.",
+      "articulo": "84"
+    },
+    {
+      "id": "lp-t3-b2-019",
+      "enunciado": "De conformidad con el artículo 85.1 de la ley, en la tramitación del procedimiento de competencia de proyectos, ¿cuál es el plazo que se otorga para la presentación de solicitudes alternativas tras publicarse el anuncio en el BOE?",
+      "opciones": {
+        "a": "Quince días hábiles contados a partir de la inserción oficial demanial del anuncio en el Boletín Oficial del Estado.",
+        "b": "Cuarenta y cinco días naturales improrrogables de exposición en el tablón de anuncios de la Autoridad Portuaria.",
+        "c": "Dos meses, transcurrido el cual continuará el procedimiento administrativo ordinario regulado para las concesiones.",
+        "d": "Un mes para la presentación de otras solicitudes."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 85.1 determina que tras publicarse la iniciativa en el Boletín Oficial del Estado (BOE), la Autoridad Portuaria debe abrir un plazo de un mes para que otros interesados puedan presentar propuestas concurrentes.",
+      "articulo": "85"
+    },
+    {
+      "id": "lp-t3-b2-020",
+      "enunciado": "Según establece el artículo 85.4, ¿en qué supuesto concreto de concesión demanial portuaria se permite por ley prescindir del trámite de información pública ordinario?",
+      "opciones": {
+        "a": "Para concesiones de uso total o parcial de edificaciones existentes sin alterar su arquitectura exterior.",
+        "b": "Para concesiones de dársenas pesqueras o lonjas estatales demaniales cuando no haya oposición de la cofradía de pescadores local.",
+        "c": "En supuestos de urgencia o demanial declarada judicialmente por un plazo no superior a cinco años.",
+        "d": "En el caso de que la superficie demanial a ocupar sea inferior a media hectárea en la Zona II."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 85.4 prevé de forma expresa que se puede omitir el trámite de información pública cuando el objeto de la concesión consista en ocupar edificaciones ya construidas en el puerto, siempre que no se modifique su volumen o fachada y encajen en los usos autorizados por la DEUP.",
+      "articulo": "85"
+    }
+  ]
+}

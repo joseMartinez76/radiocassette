@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t3-b3-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 3, bloque 3 (arts. 86-100)",
+    "normativa": "RDL 2/2011",
+    "tema": 3,
+    "rango": "86-100",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t3-b3-001",
+      "enunciado": "De conformidad con el artículo 86.1 del Texto Refundido de la Ley de Puertos, ¿en cuál de los siguientes supuestos debe convocarse obligatoriamente un concurso para el otorgamiento de concesiones demaniales?",
+      "opciones": {
+        "a": "Concesiones de terminales de pasajeros o de manipulación de mercancías dedicadas a usos particulares, cuando haya varias solicitudes de interés portuario o proyectos alternativos de similar interés.",
+        "b": "Concesiones de dársenas e instalaciones náutico-deportivas en todo caso, incluso si el solicitante es un club deportivo sin fines lucrativos y el límite de atraques de eslora mayor de 12 metros es del 10 por ciento.",
+        "c": "Concesiones de lonjas pesqueras, construidas o no por particulares.",
+        "d": "Concesiones para el desarrollo de actividades industriales pesadas en la zona de servidumbre de protección demanial."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 86.1.d) del Texto Refundido establece que se deben convocar concursos para el otorgamiento de concesiones de lonjas pesqueras, independientemente de que hayan sido construidas por particulares o no. Las otras opciones contemplan supuestos excepcionales u organizativos donde la convocatoria puede eludirse o modificarse.",
+      "articulo": "86"
+    },
+    {
+      "id": "lp-t3-b3-002",
+      "enunciado": "Con arreglo al artículo 86.2 del Texto Refundido de la Ley de Puertos, ¿qué derecho se reconoce al solicitante de una concesión demanial en tramitación si esta se archiva debido a la convocatoria de un concurso?",
+      "opciones": {
+        "a": "El derecho preferente de tanteo y retracto sobre la adjudicación definitiva que se realice a favor de terceros, siempre que iguale la mejor oferta económica presentada.",
+        "b": "El derecho a una indemnización de carácter excepcional equivalente al dos por ciento de la fianza provisional depositada en el muelle de servicio.",
+        "c": "El derecho a la prórroga de cualquier otra autorización que tenga vigente en la zona de servicio del puerto por un plazo de tres años.",
+        "d": "El derecho al cobro de los gastos del proyecto si no resultase adjudicatario del concurso."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 86.2 de la ley determina que la convocatoria del concurso comporta el archivo de los expedientes individuales de concesión afectados, confiriendo expresamente al solicitante el derecho a cobrar los gastos del proyecto si finalmente no se adjudica la concesión convocada.",
+      "articulo": "86"
+    },
+    {
+      "id": "lp-t3-b3-003",
+      "enunciado": "De conformidad con el artículo 87.1 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes extremos NO figura obligatoriamente entre las condiciones mínimas que debe incluir el título de otorgamiento de una concesión demanial?",
+      "opciones": {
+        "a": "Las condiciones de protección del medio ambiente y medidas correctoras que procedan, incluyendo las prescripciones de la resolución ambiental.",
+        "b": "Las tarifas de autoprestación.",
+        "c": "El proyecto básico de las obras o instalaciones autorizadas con inclusión, en su caso, del balizamiento si hay ocupación de espacios de agua.",
+        "d": "Las condiciones especiales que deban establecerse para asegurar la eficacia, accesos e independencia en espacios de ayudas a la navegación."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 87.1 detalla de forma exhaustiva los demaniales del contenido mínimo de una concesión. Las tarifas aplicables a la autoprestación no forman parte de este catálogo obligatorio mínimo del título concesional común. Las opciones a, c y d sí se enumeran expresamente en dicho artículo.",
+      "articulo": "87"
+    },
+    {
+      "id": "lp-t3-b3-004",
+      "enunciado": "De conformidad con el artículo 87.2 del Texto Refundido de la Ley de Puertos, ¿cómo se deben ejecutar las obras de una concesión demanial en relación con los proyectos correspondientes?",
+      "opciones": {
+        "a": "De acuerdo con el plan especial de ordenación aprobado por la Comunidad Autónoma, previo informe de la Comisión de Faros.",
+        "b": "Siguiendo el proyecto de ejecución visado de forma provisional por Puertos del Estado y ratificado de manera expresa por el correspondiente Ministerio de Costas.",
+        "c": "Conforme al proyecto de construcción que apruebe la Autoridad Portuaria, que completará el proyecto básico.",
+        "d": "Conforme a las determinaciones técnicas provisionales fijadas en el Pliego de Bases del concurso y que apruebe el Consejo Rector demanial estatal."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 87.2 prevé que la ejecución material de las obras que se lleven a cabo dentro de la concesión demanial debe ajustarse a un proyecto de construcción aprobado expresamente por la Autoridad Portuaria, cuya función técnica consiste en desarrollar y completar el proyecto básico aportado inicialmente.",
+      "articulo": "87"
+    },
+    {
+      "id": "lp-t3-b3-005",
+      "enunciado": "Según el artículo 88.2 del Texto Refundido de la Ley de Puertos, ¿cuál de las siguientes modificaciones de una concesión demanial tiene de forma expresa el carácter de modificación sustancial?",
+      "opciones": {
+        "a": "El cambio de la denominación social de la sociedad mercantil que sea titular de la concesión demanial.",
+        "b": "La ampliación de la superficie de la concesión en un porcentaje inferior al cinco por ciento de la de origen.",
+        "c": "La modificación de la ubicación de la concesión.",
+        "d": "La ampliación del volumen o superficie construida e inicialmente autorizada en un ocho por ciento del valor del proyecto."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 88.2.e) califica expresamente como modificación sustancial a cualquier cambio que afecte a la ubicación física de la concesión. Por contra, los cambios de denominación social, las ampliaciones de superficie o volumen de hasta el 10% no reúnen esta naturaleza demanial.",
+      "articulo": "88"
+    },
+    {
+      "id": "lp-t3-b3-006",
+      "enunciado": "Con arreglo al artículo 88.1 del Texto Refundido de la Ley de Puertos, ¿qué trámites e informes específicos se requieren para aprobar una modificación de una concesión que NO tenga el carácter de sustancial?",
+      "opciones": {
+        "a": "Requiere la aprobación expresa y demanial del Ministro de Fomento, previo informe del Consejo Rector de Puertos del Estado.",
+        "b": "Requiere informe del Director, elevado por el Presidente al Consejo de Administración.",
+        "c": "Exclusivamente la resolución demanial del Director de la Autoridad Portuaria, previa audiencia por diez días de los titulares demaniales colindantes.",
+        "d": "Requiere el dictamen de la Comisión de Faros y de la Dirección General de Costas, elevado por el Director al Consejo de la provincia marítima."
+      },
+      "correcta": "b",
+      "explicacion": "Según establece el artículo 88.1, si la alteración no reúne los requisitos de modificación sustancial, se simplifica el trámite ordinario demanial, bastando con recabar el informe previo del Director del puerto para que el Presidente someta el expediente al Consejo de Administración.",
+      "articulo": "88"
+    },
+    {
+      "id": "lp-t3-b3-007",
+      "enunciado": "De conformidad con el artículo 89.1 de la Ley de Puertos, ¿cuál de las siguientes circunstancias faculta a la Autoridad Portuaria para revisar de oficio las condiciones de una concesión demanial vigente?",
+      "opciones": {
+        "a": "Cuando el concesionario solicite de forma temporal la reducción de sus tasas de ocupación por causas de la competencia desleal del mercado.",
+        "b": "En caso de que se produzca una vacante imprevista en el cargo del Capitán Marítimo o en la Presidencia de la respectiva Autoridad Portuaria estatal.",
+        "c": "Cuando la cifra de negocio anual del concesionario sea inferior al cincuenta por ciento de la inversión inicial estimada en el título demanial.",
+        "d": "Cuando lo exija su adecuación a la Delimitación de los Espacios y Usos Portuarios o al plan especial."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 89.1.c) faculta a la administración portuaria para revisar unilateralmente las condiciones del título con el fin de adaptarlo obligatoriamente a los nuevos instrumentos de planificación que se aprueben, tales como la DEUP o los planes especiales portuarios.",
+      "articulo": "89"
+    },
+    {
+      "id": "lp-t3-b3-008",
+      "enunciado": "Según el artículo 89.1 de la Ley de Puertos, ¿bajo qué condiciones tiene derecho a indemnización el concesionario en los supuestos de revisión de oficio por interés general, adecuación a la DEUP o diques de los Planes Directores?",
+      "opciones": {
+        "a": "El cálculo descuenta los beneficios futuros estimados durante el periodo restante de vigencia.",
+        "b": "Tendrá derecho a percibir una indemnización de carácter excepcional equivalente al cien por ciento de las obras pendientes de revertir.",
+        "c": "No tendrá derecho a indemnización de ningún tipo bajo la normativa portuaria, por considerarse que el interés general extingue toda responsabilidad.",
+        "d": "Tendrá derecho a una compensación calculada en función de la rentabilidad anual de los últimos cinco ejercicios de la respectiva Autoridad."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 89.1 especifica que, en los supuestos de revisión obligada por planificación, el concesionario perjudicado tiene derecho al cobro de una indemnización económica calculada conforme a las reglas generales de rescate, descontando los beneficios futuros estimados.",
+      "articulo": "89"
+    },
+    {
+      "id": "lp-t3-b3-009",
+      "enunciado": "Con arreglo al artículo 90.1 del Texto Refundido de la Ley de Puertos, ¿quién puede ser el destinatario de las nuevas concesiones demaniales resultantes de la división de una concesión demanial originaria autorizada por la Autoridad Portuaria?",
+      "opciones": {
+        "a": "Cualquier operador logístico que disponga de licencia de servicios demaniales vigente en el muelle del puerto.",
+        "b": "Exclusivamente el titular de la primitiva concesión.",
+        "c": "El titular de la primitiva concesión o las sociedades pertenecientes a su mismo grupo de empresas que asuman la fianza solidaria de explotación.",
+        "d": "La corporación pública municipal o autonómica que asuma demanialmente la titularidad de los espacios comunes del muelle de servicio."
+      },
+      "correcta": "b",
+      "explicacion": "De conformidad con el artículo 90.1 de la ley portuaria, el único destinatario posible de los nuevos títulos habilitantes demaniales que resulten de autorizarse un proceso de fragmentación o división es el propio y exclusivo titular que ostentaba la concesión originaria.",
+      "articulo": "90"
+    },
+    {
+      "id": "lp-t3-b3-010",
+      "enunciado": "De conformidad con el artículo 91.1 del Texto Refundido, si una concesión de dominio público se extingue por transcurso del plazo pero su objeto es una actividad de extracción de recursos, energética o industrial amparada en otro título estatal superior de mayor duración, ¿cuál es el plazo demanial máximo por el que se puede otorgar la nueva concesión?",
+      "opciones": {
+        "a": "Por un plazo equivalente al otorgado inicialmente, con un límite demanial máximo de cincuenta años demaniales del muelle.",
+        "b": "Por un plazo de quince años demaniales prorrogables por periodos sucesivos de cinco años a propuesta del Ministerio de Fomento.",
+        "c": "Por un plazo que determine de forma discrecional el Consejo de Administración sin someterse a límites temporales ni de demanio.",
+        "d": "Por un plazo máximo de treinta y cinco años."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 91.1 estipula que en supuestos en que la actividad portuaria sirva de soporte a otra amparada por un título estatal de mayor vigencia (minera o energética), cabe instar una nueva concesión por el tiempo restante de aquella con un tope de 35 años, renovable demanialmente.",
+      "articulo": "91"
+    },
+    {
+      "id": "lp-t3-b3-011",
+      "enunciado": "De acuerdo con el artículo 92.1 del Texto Refundido de la Ley de Puertos, en caso de fallecimiento del concesionario, ¿de qué plazo disponen sus causahabientes para manifestar su voluntad de subrogarse en los derechos y obligaciones de la concesión antes de que se entienda que renuncian a ella?",
+      "opciones": {
+        "a": "Un plazo de un año.",
+        "b": "Un plazo de tres meses contados a partir de la declaración judicial de herederos.",
+        "c": "Un plazo de seis meses a contar desde la fecha del fallecimiento del causante.",
+        "d": "Un plazo de dos años demaniales bajo el demanio del puerto de interés general."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 92.1 regula la transmisión mortis causa estableciendo un plazo de caducidad de un año para que los herederos o legatarios formalicen su subrogación en los derechos del fallecido. El transcurso del año sin manifestación demanial equivale a una renuncia tácita.",
+      "articulo": "92"
+    },
+    {
+      "id": "lp-t3-b3-012",
+      "enunciado": "Con arreglo al artículo 92.8 del Texto Refundido de la Ley de Puertos, si los herederos o el adjudicatario de una concesión por remate judicial no cumplen los requisitos demaniales legales exigidos, ¿en qué plazo están obligados a transferir la concesión a un nuevo titular?",
+      "opciones": {
+        "a": "En el plazo de seis meses contados desde la fecha de adjudicación firme del muelle de servicio por el Juzgado de lo Mercantil.",
+        "b": "En el plazo de veinticuatro meses, ampliable por un periodo adicional de seis meses si se duplica la fianza de explotación.",
+        "c": "En el plazo de doce meses.",
+        "d": "En el plazo de tres meses a partir del requerimiento de subsanación formulado por el Consejo de Administración de la AP."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 92.8 dispone que si un heredero o rematante judicial es incapaz de asumir la concesión por no reunir los requisitos específicos de explotación exigidos por ley, se le impone la obligación de enajenarla a un tercero idóneo en el plazo de 12 meses.",
+      "articulo": "92"
+    },
+    {
+      "id": "lp-t3-b3-013",
+      "enunciado": "Según el artículo 93 del Texto Refundido de la Ley de Puertos, ¿cuál es el porcentaje del presupuesto total de las obras e instalaciones que se exige constituir en concepto de garantía definitiva o de construcción una vez otorgada la concesión?",
+      "opciones": {
+        "a": "El dos por ciento, que no podrá ser inferior en ningún caso a la cuantía demanial mínima de tres mil euros.",
+        "b": "El tres por ciento de la valoración económica demanial aprobada para los terrenos portuarios objeto de ocupación de muelle.",
+        "c": "El diez por ciento del presupuesto de las obras de abrigo que se localicen en la Zona I o de agua interior.",
+        "d": "El cinco por ciento."
+      },
+      "correcta": "d",
+      "explicacion": "Conforme al artículo 93.2, la garantía de construcción o fianza definitiva que avala el desarrollo de las obras proyectadas dentro del espacio demanial concedido se fija en un tipo exacto equivalente al cinco por ciento del coste de presupuesto del proyecto.",
+      "articulo": "93"
+    },
+    {
+      "id": "lp-t3-b3-014",
+      "enunciado": "De conformidad con el artículo 94.2 del Texto Refundido de la Ley de Puertos, ¿cómo se determina la cuantía de la garantía de explotación que debe constituir el titular de una concesión demanial portuaria?",
+      "opciones": {
+        "a": "Entre la mitad y el total del importe anual de las tasas.",
+        "b": "Se fija de forma voluntaria en función de los ratios de endeudamiento del demanio estatal y del volumen de tráfico.",
+        "c": "Se determina en función de las tasas de ocupación y actividad devengadas por la Autoridad Portuaria en el ejercicio social anterior.",
+        "d": "Se determina en función de la tasa de ocupación del muelle demanial, no pudiendo ser inferior al diez por ciento de la misma."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 94.2 establece que la fianza de explotación responde del cumplimiento general del título. Su valor se calcula sobre las liquidaciones de tasas del deudor, oscilando obligatoriamente entre la mitad y el total de su importe anual.",
+      "articulo": "94"
+    },
+    {
+      "id": "lp-t3-b3-015",
+      "enunciado": "Con arreglo al artículo 95.2 del Texto Refundido de la Ley de Puertos, ¿de qué plazo dispone el concesionario para completar o reponer la garantía de explotación si la Autoridad Portuaria ejecuta total o parcialmente las mismas?",
+      "opciones": {
+        "a": "Un plazo de quince días hábiles a contar desde la recepción de la demanial notificación de ejecución de la fianza.",
+        "b": "Un plazo de un mes.",
+        "c": "Un plazo de diez días naturales contados desde el acuerdo demanial adoptado por el Presidente de la entidad.",
+        "d": "Un plazo de dos meses demaniales bajo el demanio del puerto de interés general."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 95.2 establece la obligatoriedad de recomponer las garantías para mantener el título demanial habilitante. Si se detrae saldo de la fianza por cobros o penalizaciones, el concesionario debe reponer el importe original en el plazo de un mes.",
+      "articulo": "95"
+    },
+    {
+      "id": "lp-t3-b3-016",
+      "enunciado": "De conformidad con el artículo 96 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes supuestos constituye una causa legal de extinción de las concesiones demaniales?",
+      "opciones": {
+        "a": "La jubilación o incapacidad laboral del práctico que preste los demaniales servicios de practicaje en la dársena de servicio.",
+        "b": "La reestructuración de la masa salarial agregada anual del personal laboral sujeta a convenio sectorial de la respectiva Autoridad.",
+        "c": "La disolución o extinción de la sociedad, salvo fusión o escisión.",
+        "d": "La modificación no sustancial de la Delimitación de los Espacios y Usos Portuarios aprobada por Puertos del Estado."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 96.e) enumera explícitamente entre las causas generales de extinción de los títulos la disolución o fallecimiento de la entidad jurídica de explotación, salvaguardando los procesos lícitos de reestructuración corporativa como fusiones o escisiones.",
+      "articulo": "96"
+    },
+    {
+      "id": "lp-t3-b3-017",
+      "enunciado": "Según el artículo 97.1 del Texto Refundido de la Ley de Puertos, ¿bajo qué condiciones pueden ser revocadas unilateralmente las autorizaciones demaniales por parte de la Autoridad Portuaria?",
+      "opciones": {
+        "a": "En cualquier momento y sin derecho a indemnización si son incompatibles con nuevos planes.",
+        "b": "Únicamente tras el transcurso de la mitad del plazo de vigencia inicial otorgado y previo pago del cincuenta por ciento de la fianza.",
+        "c": "Requiriendo la previa demanial autorización expresa del Ministro de Fomento y el demanial abono de una indemnización por beneficios.",
+        "d": "Siempre que se declare de forma judicial la utilidad pública urgente y se justifique por variaciones en las tasas comerciales."
+      },
+      "correcta": "a",
+      "explicacion": "De acuerdo con el artículo 97.1, las autorizaciones temporales (máximo de 3 años) tienen naturaleza precaria, lo que faculta a la Autoridad Portuaria para revocarlas unilateralmente en cualquier instante sin abono de indemnizaciones si interfieren con nuevos planeamientos.",
+      "articulo": "97"
+    },
+    {
+      "id": "lp-t3-b3-018",
+      "enunciado": "Con arreglo al artículo 98.1.b) del Texto Refundido de la Ley de Puertos, ¿cuál es el plazo de impago de una liquidación por tasas giradas por la Autoridad Portuaria que constituye causa de caducidad en el caso de las autorizaciones y de las concesiones, respectivamente?",
+      "opciones": {
+        "a": "Un plazo de tres meses en las autorizaciones, y de seis meses en las concesiones demaniales.",
+        "b": "Un plazo de seis meses en las autorizaciones, y de 12 meses en las concesiones.",
+        "c": "Un plazo de un mes para las autorizaciones, y de tres meses en las concesiones, contados desde el fin de voluntario.",
+        "d": "Un plazo de dos meses en las autorizaciones, y de seis meses en las concesiones, previo requerimiento formal de pago."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 98.1.b) tipifica el impago de tasas como causa grave de caducidad de los títulos, diferenciando plazos según la estabilidad: seis meses de demanial demora acumulada en autorizaciones y de doce meses en títulos de concesión demanial.",
+      "articulo": "98"
+    },
+    {
+      "id": "lp-t3-b3-019",
+      "enunciado": "De conformidad con el artículo 99.2 del Texto Refundido de la Ley de Puertos, ¿a qué órganos corresponde declarar la necesidad de rescate de una concesión por razones de interés general o portuario, y el acuerdo de necesidad de ocupación, respectivamente?",
+      "opciones": {
+        "a": "Al Consejo de Administración la de interés general, y al Presidente el acuerdo de ocupación.",
+        "b": "Al Presidente de Puertos del Estado las declaraciones de interés, y al Ministro de Fomento la demanial necesidad de ocupación.",
+        "c": "Al Consejo de Ministros las declaraciones de interés general, y al Director del puerto la necesidad de ocupación de las obras.",
+        "d": "Al Ministro de Fomento las declaraciones de interés, y al Consejo de Administración la orden urgente de ocupación forzosa."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 99.2 distribuye de forma pormenorizada estas competencias organizativas: otorga las declaraciones de interés (general o portuario) al Consejo de Administración, y delega en el Presidente del puerto la adopción del acuerdo de necesidad de ocupación.",
+      "articulo": "99"
+    },
+    {
+      "id": "lp-t3-b3-020",
+      "enunciado": "Según establece el artículo 100.2 del Texto Refundido de la Ley de Puertos, si al extinguirse una concesión la Autoridad Portuaria NO se pronuncia expresamente sobre el destino de las obras e instalaciones no desmontables, ¿cuál es el efecto jurídico aplicable por defecto?",
+      "opciones": {
+        "a": "El concesionario queda obligado legalmente a proceder a su completo levantamiento, demolición y retirada física fuera del dominio público portuario estatal a sus expensas.",
+        "b": "Las obras pasan de forma demanial y de pleno derecho a ser consideradas demanio patrimonial común adscrito al ayuntamiento de la zona de servicio.",
+        "c": "Se suspende provisionalmente la declaración de extinción en tanto no se apruebe de forma demanial un plan de demolición por el Consejo.",
+        "d": "Se opta por su mantenimiento por defecto."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 100.2 determina que el silencio o falta de resolución expresa de la administración a la fecha de vencimiento de la concesión se interpreta como una opción legal tácita por conservar y mantener las instalaciones fijas, las cuales revierten gratis al demanio.",
+      "articulo": "100"
+    }
+  ]
+}

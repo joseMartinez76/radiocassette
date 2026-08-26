@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t4-b1-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 4, bloque 1 (arts. 104-115)",
+    "normativa": "RDL 2/2011",
+    "tema": 4,
+    "rango": "104-115",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t4-b1-001",
+      "enunciado": "De conformidad con el artículo 104.1 del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, ¿a qué órgano u organismos públicos corresponde la función específica de promover la competencia en la actividad portuaria?",
+      "opciones": {
+        "a": "Al Organismo Público Puertos del Estado en el conjunto del sistema portuario y a las Autoridades Portuarias en sus respectivos ámbitos.",
+        "b": "En exclusiva a la Comisión Nacional de los Mercados y la Competencia, tras informe demanial no vinculante de Puertos del Estado.",
+        "c": "Al Ministerio de Fomento en el ámbito estatal, delegando las funciones demaniales de control en el Consejo de cada puerto.",
+        "d": "De forma concurrente a la Dirección General de la Marina Mercante y a las Comunidades Autónomas del litoral marítimo español."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 104.1 determina de forma expresa que la labor de promover las condiciones de competencia en el sistema general se atribuye al organismo estatal de coordinación, mientras que cada Autoridad Portuaria asume esta responsabilidad reguladora dentro de su correspondiente término geográfico y funcional.",
+      "articulo": "104"
+    },
+    {
+      "id": "lp-t4-b1-002",
+      "enunciado": "Según la clasificación de servicios que realiza el artículo 104.3 del Texto Refundido, ¿cuáles son las categorías de servicios prestados en los puertos de interés general?",
+      "opciones": {
+        "a": "Servicios demaniales, servicios comerciales, servicios públicos portuarios y servicios de auxilio y salvamento marítimo.",
+        "b": "Servicios de explotación comercial, servicios administrativos de policía, servicios portuarios ordinarios y de balizamiento.",
+        "c": "Servicios públicos básicos, servicios comerciales generales, servicios técnico-náuticos y servicios de seguridad pública.",
+        "d": "Servicios generales, servicios portuarios, servicios comerciales y servicio de señalización marítima."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 104.3 ofrece un catálogo cerrado y preciso que divide los servicios del recinto portuario en cuatro categorías claramente diferenciadas: generales, portuarios, comerciales y el servicio de señalización marítima.",
+      "articulo": "104"
+    },
+    {
+      "id": "lp-t4-b1-003",
+      "enunciado": "Según el artículo 106 del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, ¿cómo se definen de manera legal los servicios generales del puerto?",
+      "opciones": {
+        "a": "Aquellos servicios de los que se benefician los usuarios sin necesidad de solicitud, y los necesarios para las funciones de las AP.",
+        "b": "Aquellos servicios de explotación de los que se benefician los usuarios del muelle previa solicitud por escrito y abono de las tarifas.",
+        "c": "Los servicios comunes de titularidad pública de naturaleza demanial que se prestan obligatoriamente por Puertos del Estado en monopolio.",
+        "d": "Las actividades comerciales de libre concurrencia destinadas al avituallamiento que se autorizan administrativamente por la policía."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 106 conceptualiza los servicios generales basándose en que los usuarios reciben su utilidad de forma automática sin mediar requerimiento expreso, incluyéndose en esta clase aquellos servicios instrumentales indispensables para el funcionamiento y ejercicio de competencias de las Autoridades Portuarias.",
+      "articulo": "106"
+    },
+    {
+      "id": "lp-t4-b1-004",
+      "enunciado": "De acuerdo con el artículo 106 del Texto Refundido, ¿cuál de los siguientes supuestos constituye un rasgo definitorio de un servicio general a diferencia de un servicio portuario común?",
+      "opciones": {
+        "a": "Requiere la obtención previa de una licencia de actividad específica otorgada por el Consejo de Administración portuario.",
+        "b": "Su utilización es facultativa y se devenga únicamente tras la solicitud formal del consignatario o del capitán del buque.",
+        "c": "Está sujeto al pago de una tarifa comercial de derecho privado aprobada por el Director de la Autoridad Portuaria afectada.",
+        "d": "No requiere solicitud expresa para beneficiar al usuario y apoya el cumplimiento de las funciones de la Autoridad Portuaria."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 106 diferencia sustancialmente ambos conceptos al eximir a los servicios generales de la exigencia de una solicitud previa de uso, ligándolos directamente al soporte operativo y cumplimiento de las misiones administrativas propias del organismo portuario demanial.",
+      "articulo": "106"
+    },
+    {
+      "id": "lp-t4-b1-005",
+      "enunciado": "De conformidad con el artículo 107.1 del Texto Refundido de la Ley de Puertos, ¿bajo qué circunstancias puede la Autoridad Portuaria encomendar a terceros la gestión de un servicio general?",
+      "opciones": {
+        "a": "Siempre que la encomienda se realice mediante concesión demanial y cuente con el informe favorable de Puertos del Estado.",
+        "b": "Únicamente cuando no se ponga en riesgo la seguridad del puerto o la actividad no implique el ejercicio de funciones de autoridad.",
+        "c": "En ningún caso, dado que la prestación de los servicios generales corresponde en exclusiva e indelegablemente a las Autoridades Portuarias.",
+        "d": "Cuando se trate de servicios técnico-náuticos que hayan sido declarados desiertos en los concursos de licencias de libre concurrencia."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 107.1 habilita la gestión indirecta de los servicios generales mediante encomiendas o contratos a operadores externos, pero impone dos límites infranqueables: que la delegación no comprometa la seguridad portuaria y que las tareas no conlleven el uso directo de prerrogativas de potestad pública.",
+      "articulo": "107"
+    },
+    {
+      "id": "lp-t4-b1-006",
+      "enunciado": "Según el artículo 107.2 del Texto Refundido, ¿cuáles son los instrumentos normativos que regulan las condiciones y criterios técnicos bajo los cuales se deben prestar los servicios generales en un puerto estatal?",
+      "opciones": {
+        "a": "Los demaniales convenios de normalización y los planes de autoprotección aprobados por el Ministerio del Interior.",
+        "b": "Los Pliegos de Prescripciones Particulares de cada servicio y los demaniales acuerdos de empresa sobre productividad laboral.",
+        "c": "El Reglamento de Explotación y Policía de los puertos y las correspondientes Ordenanzas del Puerto.",
+        "d": "Las directrices sectoriales de la Dirección General de la Marina Mercante y las leyes presupuestarias de cada año."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 107.2 determina que el marco de exigencia técnica y operativa para la realización de estos servicios generales queda supeditado a los dictados de las Ordenanzas de cada puerto y a las disposiciones comunes del Reglamento de Explotación y Policía de ámbito nacional.",
+      "articulo": "107"
+    },
+    {
+      "id": "lp-t4-b1-007",
+      "enunciado": "De conformidad con el artículo 108.1 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes supuestos NO constituye uno de los principios bajo los cuales deben desarrollarse las actividades de prestación de los servicios portuarios?",
+      "opciones": {
+        "a": "Regularidad y continuidad en la realización de las operaciones asociadas al tráfico marítimo.",
+        "b": "No discriminación de ningún tipo entre los usuarios que soliciten las demaniales actividades del muelle.",
+        "c": "Seguridad y eficiencia en el desarrollo de las maniobras y la explotación de las demaniales dársenas.",
+        "d": "Exclusividad demanial y exención tarifaria de pabellón."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 108.1 consagra los principios de seguridad, eficiencia, regularidad, continuidad y no discriminación. El otorgamiento de monopolios de explotación o exenciones por pabellón contradice de plano el marco de libre competencia del sistema.",
+      "articulo": "108"
+    },
+    {
+      "id": "lp-t4-b1-008",
+      "enunciado": "Según el catálogo establecido en el artículo 108.2 del Texto Refundido, ¿cuál de los siguientes servicios portuarios está clasificado de forma expresa como un servicio técnico-náutico?",
+      "opciones": {
+        "a": "El servicio de amarre y desamarre de buques civiles en los muelles o demaniales de la zona de servicio.",
+        "b": "El servicio de manipulación de mercancías que consiste en la carga, estiba, descarga y desestiba de buques.",
+        "c": "El servicio de recepción de desechos generados por buques regulado por los convenios internacionales MARPOL.",
+        "d": "El servicio de embarque, desembarque, carga y descarga de equipajes y de vehículos en régimen de pasaje."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 108.2.a) agrupa bajo la naturaleza técnica y náutica únicamente tres actividades instrumentales del buque: el practicaje, el remolque portuario y las tareas de amarre/desamarre de las embarcaciones.",
+      "articulo": "108"
+    },
+    {
+      "id": "lp-t4-b1-009",
+      "enunciado": "De conformidad con el artículo 109 del Texto Refundido de la Ley de Puertos, ¿cuál es la regla general sobre quién debe llevar a cabo la prestación de los servicios portuarios y bajo qué principio rector?",
+      "opciones": {
+        "a": "Corresponde en exclusiva a Puertos del Estado bajo el principio de monopolio público de fomento.",
+        "b": "Se prestará de forma mixta mediante consorcios obligatorios integrados por los Ayuntamientos costeros.",
+        "c": "Se llevará a cabo por la iniciativa privada, rigiéndose por el principio de libre concurrencia.",
+        "d": "Corresponde a las cofradías de pescadores locales bajo el régimen de exención demanial mutua."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 109.1 asienta como pilar del sistema que la prestación de estos servicios comerciales corre a cargo de operadores de la iniciativa privada en régimen de libre concurrencia, limitando la intervención administrativa a controles reglados.",
+      "articulo": "109"
+    },
+    {
+      "id": "lp-t4-b1-010",
+      "enunciado": "Según el artículo 109.3 del Texto Refundido, ¿bajo qué condiciones extraordinarias puede una Autoridad Portuaria asumir la prestación directa o indirecta de un servicio portuario?",
+      "opciones": {
+        "a": "Por razones de urgencia catastrófica nacional, previa Orden del Ministerio de Defensa o del Capitán Marítimo.",
+        "b": "Por ausencia o insuficiencia de iniciativa privada, previo informe favorable de Puertos del Estado.",
+        "c": "De forma discrecional, siempre que se apruebe por mayoría de dos tercios de los vocales del Consejo de Administración.",
+        "d": "Únicamente cuando la cifra de negocio anual acumulada del puerto de interés general sea negativa en el ejercicio."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 109.3 impone al organismo portuario el deber de velar por la disponibilidad del servicio. Si el mercado privado no concurre o resulta deficitario, la AP puede asumir la gestión provisionalmente, requiriéndose informe favorable previo de Puertos del Estado.",
+      "articulo": "109"
+    },
+    {
+      "id": "lp-t4-b1-011",
+      "enunciado": "Con arreglo al artículo 110 del Texto Refundido de la Ley de Puertos, ¿cómo deben aplicarse las obligaciones de servicio público impuestas a los prestadores de servicios portuarios?",
+      "opciones": {
+        "a": "Deberán aplicarse con preferencia para las empresas navieras de bandera española en régimen de cabotaje regular.",
+        "b": "Se aplicarán de forma que sus efectos sean neutrales en relación con la competencia entre los prestadores de servicios.",
+        "c": "Se exigirán de manera proporcional al volumen de activos demaniales desafectados de los que disponga cada demanial.",
+        "d": "Supondrán en todo caso el derecho del prestador al cobro de una subvención estatal del Fondo de Compensación."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 110 estipula que para salvaguardar la equidad del mercado, la imposición de estas cargas públicas obligatorias no debe beneficiar ni perjudicar de forma selectiva a ningún operador, debiendo ser sus efectos comerciales neutrales.",
+      "articulo": "110"
+    },
+    {
+      "id": "lp-t4-b1-012",
+      "enunciado": "De acuerdo con las obligaciones de servicio público enumeradas en el artículo 110 de la ley, ¿cuál de los siguientes supuestos constituye una exigencia obligatoria para todos los operadores?",
+      "opciones": {
+        "a": "El sometimiento a la potestad demanial de la Autoridad Portuaria en los términos fijados en las prescripciones.",
+        "b": "La asunción del pasivo laboral que mantengan los licenciatarios concurrentes declarados judicialmente en concurso.",
+        "c": "El pago anual anticipado del canon de ocupación de las aguas correspondientes a la Zona II o exterior de muelle.",
+        "d": "La cesión gratuita de sus equipos mecánicos móviles a la Capitanía Marítima en supuestos de alerta declarada."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 110.e) determina que los operadores deben aceptar someterse a la potestad de fijación de tarifas máximas por parte de la Autoridad Portuaria, cláusula de obligada inserción en el clausulado de sus títulos habilitantes.",
+      "articulo": "110"
+    },
+    {
+      "id": "lp-t4-b1-013",
+      "enunciado": "De conformidad con el artículo 111.1 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes motivos constituye una causa de legalidad válida para que una Autoridad Portuaria limite el número de prestadores de un servicio?",
+      "opciones": {
+        "a": "La conveniencia de garantizar la rentabilidad económica de los operadores que ya cuenten con licencia en la zona.",
+        "b": "La concurrencia de ofertas técnicas que propongan una rebaja de tarifas inferior al dos por ciento de la de fomento.",
+        "c": "Razones de disponibilidad de espacios, capacidad de las instalaciones, seguridad o normas medioambientales.",
+        "d": "La solicitud unánime formulada por el Comité de Distribución del Fondo de Compensación en el Plan de Empresa."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 111.1 tasa las causas de limitación, impidiendo que se acuda a ella por motivos proteccionistas o arbitrarios, reservándola a insuficiencia espacial, límites de capacidad física, protección ambiental o seguridad.",
+      "articulo": "111"
+    },
+    {
+      "id": "lp-t4-b1-014",
+      "enunciado": "Con arreglo al artículo 111.2 del Texto Refundido, ¿cuál de las siguientes opciones describe correctamente los trámites exigidos para adoptar un acuerdo de limitación del número de prestadores de un servicio portuario?",
+      "opciones": {
+        "a": "Aprobado por el Ministerio de Fomento previo informe de la Comisión de Faros y dictamen de la Abogacía del Estado.",
+        "b": "Acordado por unanimidad del Consejo Rector de Puertos del Estado, tras consulta vinculante a las organizaciones.",
+        "c": "Adoptado por el Consejo de Administración de la AP, previa consulta al Comité e informe de Puertos del Estado.",
+        "d": "Dictado por el Director del puerto, previa demanial de diez días de los demaniales y con informe de Costas."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 111.2 atribuye la potestad de acordar la limitación de operadores demaniales al Consejo de Administración de cada Autoridad Portuaria, requiriéndose la consulta formal al Comité de Servicios Portuarios e informe de Puertos del Estado.",
+      "articulo": "111"
+    },
+    {
+      "id": "lp-t4-b1-015",
+      "enunciado": "De conformidad con el artículo 113.1 del Texto Refundido de la Ley de Puertos, ¿cuál es el procedimiento exigido para la aprobación definitiva de los Pliegos de Prescripciones Particulares de los servicios portuarios?",
+      "opciones": {
+        "a": "Se elaboran por Puertos del Estado, oído el Consejo Consultivo, y los aprueba el demanio mediante Orden.",
+        "b": "Se redactan de forma conjunta por el Director del puerto y el Capitán Marítimo, requiriéndose la demanial.",
+        "c": "Se aprueban provisionalmente por el Consejo de la AP, requiriéndose informe de la Comisión de la Competencia.",
+        "d": "Se aprueban por la AP, oído el Comité de Servicios Portuarios, e informe vinculante de Puertos del Estado."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 113.1 reparte competencias demaniales exigiendo que los pliegos reguladores locales sean aprobados por la propia Autoridad Portuaria, recabando el criterio del Comité de servicios y con la exigencia esencial del informe previo favorable vinculante de Puertos del Estado.",
+      "articulo": "113"
+    },
+    {
+      "id": "lp-t4-b1-016",
+      "enunciado": "Con arreglo al artículo 113.4.g) del Texto Refundido, ¿cómo se deben determinar en el Pliego de Prescripciones Particulares los medios humanos y materiales mínimos exigidos para prestar el servicio?",
+      "opciones": {
+        "a": "Serán los estrictamente necesarios para realizar las operaciones unitarias normalmente esperadas en el puerto, para no alterar la competencia.",
+        "b": "Deben superar en un cincuenta por ciento la capacidad media del ejercicio anterior, garantizando así la cobertura en festivos.",
+        "c": "Se fijarán de mutuo acuerdo de forma trimestral entre los representantes sindicales y el Presidente de la Autoridad Portuaria.",
+        "d": "Coincidirán de manera obligatoria con las dotaciones de personal que dispongan los demaniales de uso particular de la dársena."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 113.4.g) de la ley prohíbe de manera tajante la imposición de sobredotaciones de recursos que actúen de facto como barreras de entrada al mercado, limitando las exigencias de medios materiales y personales a lo estrictamente necesario para la operativa unitaria común del muelle.",
+      "articulo": "113"
+    },
+    {
+      "id": "lp-t4-b1-017",
+      "enunciado": "De acuerdo con el artículo 114.1 del Texto Refundido de la Ley de Puertos, ¿cuál es el plazo máximo de vigencia establecido por ley para las licencias de prestación de los servicios de amarre y desamarre, y de remolque portuario, respectivamente?",
+      "opciones": {
+        "a": "Diez años para el servicio de amarre y desamarre, y demaniales de quince años para el de remolque, sin admitir prórrogas.",
+        "b": "Seis años para el servicio de amarre y desamarre, y de diez años para el servicio de remolque portuario.",
+        "c": "Cinco años de forma general para ambos servicios técnico-náuticos, prorrogables por la mitad del demanio inicial.",
+        "d": "Ocho años para el de amarre, y doce años para el remolque portuario, previo informe de la Administración."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 114.1, en sus letras b) y c), define con carácter temporal estricto el límite del título administrativo: autoriza un plazo máximo de 6 años para amarre/desamarre y un máximo de 10 años para el servicio de remolcadores.",
+      "articulo": "114"
+    },
+    {
+      "id": "lp-t4-b1-018",
+      "enunciado": "Según el artículo 114.1 del Texto Refundido, si el número de prestadores de un servicio portuario se encuentra limitado, ¿qué reducción se aplica de manera obligatoria sobre el plazo máximo ordinario de la licencia, salvo para el servicio de practicaje?",
+      "opciones": {
+        "a": "El plazo máximo de vigencia de la licencia será, al menos, un cincuenta por ciento inferior al establecido de forma general.",
+        "b": "Se reduce el plazo a un tercio del inicial, prohibiéndose además el demanial otorgamiento de prórrogas contractuales.",
+        "c": "El plazo máximo de la licencia será, al menos, un veinticinco por ciento inferior al ordinario general.",
+        "d": "No se aplica ninguna reducción, pero la licencia queda condicionada a la revisión de tarifas por Puertos del Estado."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 114.1 impone que, para fomentar la rotación y evitar la consolidación de posiciones monopolísticas, si existe un límite al número de operadores autorizados, sus licencias deben expirar al menos un 25% antes que el límite ordinario común (salvo practicaje).",
+      "articulo": "114"
+    },
+    {
+      "id": "lp-t4-b1-019",
+      "enunciado": "De conformidad con el artículo 115.1 del Texto Refundido de la Ley de Puertos, cuando NO esté limitado el número de prestadores en un puerto comercial, ¿cuál es el plazo máximo para resolver las solicitudes de licencia y qué sentido tiene el silencio administrativo?",
+      "opciones": {
+        "a": "Un plazo de tres meses, transcurrido el cual la solicitud se entenderá desestimada por demanial de Costas.",
+        "b": "Un plazo de tres meses, transcurrido el cual se entenderá estimada la solicitud por silencio positivo.",
+        "c": "Un plazo de un mes, transcurrido el cual el expediente se archivará provisionalmente requiriendo solicitud.",
+        "d": "Un plazo de seis meses, prorrogable demanialmente por un periodo de tres meses tras informe de la Comisión."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 115.1 establece que ante la falta de limitación de operadores, rige el principio del fomento de la actividad: la AP debe contestar en un plazo máximo de tres meses, operando el silencio administrativo en sentido estimatorio si no recae resolución expresa.",
+      "articulo": "115"
+    },
+    {
+      "id": "lp-t4-b1-020",
+      "enunciado": "Con arreglo al artículo 115.4 del Texto Refundido, si la licencia solicitada está vinculada de manera indisoluble al uso privativo de una superficie portuaria (tramitándose como expediente único), ¿cuál es el plazo para resolver y qué sentido tiene el silencio?",
+      "opciones": {
+        "a": "El plazo de resolución es de tres meses, transcurrido el cual opera el demanial sobre la licencia de servicios.",
+        "b": "El plazo máximo es de doce meses, produciéndose el silencio positivo por fomento de la actividad de muelle.",
+        "c": "El plazo máximo demanial es de seis meses, suspendiéndose el demanio transcurrido el mismo sin mediar fianza.",
+        "d": "El plazo para resolver será de ocho meses, transcurrido el cual se entenderá desestimada la solicitud."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 115.4 estipula que en expedientes acumulados donde se une la licencia demanial y la concesión física del suelo, el plazo total de resolución se extiende hasta un límite máximo de ocho meses, determinándose que el silencio tiene efectos de desestimación (silencio negativo).",
+      "articulo": "115"
+    }
+  ]
+}

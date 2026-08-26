@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t4-b2-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 4, bloque 2 (arts. 116-130)",
+    "normativa": "RDL 2/2011",
+    "tema": 4,
+    "rango": "116-130",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t4-b2-001",
+      "enunciado": "Según el artículo 116.1 del Texto Refundido de la Ley de Puertos, ¿de qué cláusulas de los Pliegos de Prescripciones Particulares se exceptúa a las licencias de servicios portuarios en estaciones marítimas de pasajeros o terminales de mercancías de uso particular?",
+      "opciones": {
+        "a": "De las relativas a cobertura universal, estructura tarifaria, tarifas máximas y regularidad según la demanda.",
+        "b": "De las obligaciones de protección ambiental y de las relativas a la fianza mínima de construcción.",
+        "c": "De las relativas a solvencia económico-financiera y de la titularidad de los activos fijos del muelle.",
+        "d": "De las condiciones de seguridad en las maniobras y de los medios de prevención de la contaminación accidental."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 116.1 establece expresamente que estas licencias de uso particular quedan exceptuadas de las cláusulas referentes a la cobertura universal, estructura tarifaria y tarifas máximas, así como de la regularidad y continuidad ligadas a la demanda general del puerto.",
+      "articulo": "116"
+    },
+    {
+      "id": "lp-t4-b2-002",
+      "enunciado": "Con arreglo al artículo 116.2 de la Ley de Puertos, ¿qué requisito físico se impone de forma obligatoria a las terminales de mercancías dedicadas a uso particular?",
+      "opciones": {
+        "a": "Que se sitúen en la Zona II o exterior de las aguas portuarias para evitar interferir en el tráfico común del puerto.",
+        "b": "Que se ubiquen a una distancia mínima de cien metros de la ribera del mar o del dominio público terrestre estatal.",
+        "c": "Que dispongan de espacio en los muelles otorgado en concesión o autorización dentro de la zona de servicio del puerto.",
+        "d": "Que estén exentas de la exacción de la tasa de actividad y de la de ocupación si pertenecen a consorcios públicos locales."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 116.2 determina que las terminales de uso particular deben disponer obligatoriamente de espacio en los muelles otorgado en régimen de concesión o autorización dentro del puerto, regulando supuestos especiales de plantas de transformación conectadas por viles fijos.",
+      "articulo": "116"
+    },
+    {
+      "id": "lp-t4-b2-003",
+      "enunciado": "De conformidad con el artículo 117.1 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes extremos forma parte del contenido regulado como obligatorio que debe incluir la licencia de prestación de un servicio portuario?",
+      "opciones": {
+        "a": "La designación del Director de Explotación y del personal directivo bajo el régimen de libre designación del puerto.",
+        "b": "Los coeficientes correctores de las tasas del buque (T-1) aplicables a las escalas realizadas por la naviera demanial.",
+        "c": "El plan especial de ordenación urbana del municipio o la Delimitación de los Espacios y Usos demaniales portuarios.",
+        "d": "El ámbito geográfico al que se extiende la prestación, la clase de licencia otorgada y los medios humanos mínimos."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 117.1 enumera los contenidos mínimos obligatorios que deben constar en la licencia, figurando de manera expresa el ámbito geográfico, la clase de licencia (general o específica) y las exigencias de plantillas de medios humanos mínimos.",
+      "articulo": "117"
+    },
+    {
+      "id": "lp-t4-b2-004",
+      "enunciado": "Según el artículo 117.2 de la ley, ¿qué consecuencia jurídica se prevé si un titular de una licencia de prestación de servicios portuarios no se adapta en el plazo establecido a las modificaciones de su título derivadas de la aprobación de nuevas prescripciones particulares?",
+      "opciones": {
+        "a": "La licencia quedará sin efecto.",
+        "b": "La suspensión de la fianza provisional de explotación demanial exigida para las obras hidráulicas del muelle.",
+        "c": "Se le impondrá una multa coercitiva demanial del veinte por ciento de su tasa de actividad devengada en el ejercicio.",
+        "d": "Se procederá de forma automática a la incautación de sus garantías de explotación en favor del Tesoro Público estatal."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 117.2 prevé que ante cambios en las prescripciones particulares, el puerto modificará las licencias otorgando un plazo de adaptación. Si el titular no realiza dicha adecuación en plazo, su título habilitante perderá vigencia, quedando sin efecto.",
+      "articulo": "117"
+    },
+    {
+      "id": "lp-t4-b2-005",
+      "enunciado": "De conformidad con lo establecido en el artículo 118.1 del Texto Refundido de la Ley de Puertos, para que una licencia de prestación de servicio portuario pueda transmitirse a favor de un nuevo titular se exige que:",
+      "opciones": {
+        "a": "Haya transcurrido al menos la mitad del plazo de vigencia inicial otorgado y se dupliquen las fianzas ante la Autoridad.",
+        "b": "El adquirente obtenga previamente el dictamen favorable unánime de los representantes sindicales y patronales del puerto.",
+        "c": "Se cumplan conjuntamente los requisitos de acceso y de las prescripciones sobre transmisión del título.",
+        "d": "El transmitente acredite una cifra de negocios anual acumulada superior al activo demanial no corriente consolidado del puerto."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 118.1 supedita la transmisión de la licencia a que el adquirente reúna los requisitos generales de acceso del artículo 109.2 y que transmitente y adquirente cumplan conjuntamente las reglas particulares que el Pliego de Prescripciones fije al respecto.",
+      "articulo": "118"
+    },
+    {
+      "id": "lp-t4-b2-006",
+      "enunciado": "Con arreglo al artículo 118.2 del Texto Refundido, ¿a qué condicionante y control administrativo específico queda subordinada en todo caso la validez de la transmisión de una licencia portuaria?",
+      "opciones": {
+        "a": "El demanial otorgamiento de exenciones por la Comisión de Faros o el Ministerio de Hacienda de forma provisional.",
+        "b": "El informe favorable emitido por la Comisión de Faros, previa audiencia del Ministro de Economía y de Puertos del Estado.",
+        "c": "A la ratificación del Ministerio de Fomento mediante Orden Ministerial que será objeto de publicación en el BOE estatal.",
+        "d": "A la previa conformidad de la Autoridad Portuaria y, en su caso, a la de las autoridades de competencia."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 118.2 determina de manera taxativa que toda transmisión de licencias portuarias requiere, como condición previa obligatoria de validez, la conformidad expresa de la Autoridad Portuaria, además de la autorización de competencia si fuera pertinente.",
+      "articulo": "118"
+    },
+    {
+      "id": "lp-t4-b2-007",
+      "enunciado": "Con arreglo al artículo 119.1 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes supuestos constituye una causa expresa de extinción de las licencias de prestación de servicios portuarios?",
+      "opciones": {
+        "a": "Por extinción de la concesión o rescisión del contrato al que se refiere el artículo 115.4 de la ley.",
+        "b": "La vacante permanente en el cargo del Capitán Marítimo o del Director General del Organismo Público Puertos del Estado.",
+        "c": "El impago de las tasas de ocupación por un plazo acumulado que sea superior a los tres meses demaniales ordinarios.",
+        "d": "La modificación no sustancial de la Delimitación de los Espacios y Usos Portuarios aprobada por Puertos del Estado."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 119.1.d) sitúa como causa de extinción del título de la licencia la pérdida de vigencia de la concesión, autorización o rescisión del contrato asociado de uso privativo del suelo portuario regulado por el artículo 115.4.",
+      "articulo": "119"
+    },
+    {
+      "id": "lp-t4-b2-008",
+      "enunciado": "De conformidad con el artículo 119.2 del Texto Refundido de la Ley de Puertos, ¿qué órgano tiene atribuida de forma ordinaria la competencia para acordar la extinción de una licencia de prestación tras instruirse el oportuno expediente con audiencia del interesado?",
+      "opciones": {
+        "a": "El Presidente de la correspondiente Autoridad Portuaria.",
+        "b": "El Consejo de Administración de la Autoridad Portuaria.",
+        "c": "El Consejo Rector del Organismo Público Puertos del Estado.",
+        "d": "El Ministro de Fomento, previo dictamen del Consejo de Estado."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 119.2 atribuye la potestad resolutoria para declarar extinguidos los títulos de licencia de servicios portuarios al Consejo de Administración de la Autoridad Portuaria, exceptuando únicamente el vencimiento del plazo, que opera de forma automática.",
+      "articulo": "119"
+    },
+    {
+      "id": "lp-t4-b2-009",
+      "enunciado": "Según establece de forma imperativa el artículo 120.4 del Texto Refundido de la Ley de Puertos, ¿bajo qué condiciones de uso se regulan la inscripción o la ausencia de ella en el Registro General de empresas prestadoras de servicios portuarios?",
+      "opciones": {
+        "a": "Servirá como mérito preferente en caso de empate en los concursos públicos para limitar el número de licenciatarios autorizados.",
+        "b": "En ningún caso podrá ser utilizada como ventaja para acceder al servicio, ni su ausencia como causa de exclusión.",
+        "c": "Constituye un requisito de solvencia habilitante e indispensable cuya carencia apareja la nulidad de las concesiones otorgadas.",
+        "d": "Estará condicionada al previo abono anual de una tasa de mantenimiento registral exenta para las corporaciones de derecho público."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 120.4 preserva la neutralidad del registro de operadores demaniales prohibiendo expresamente que la inscripción actúe como un elemento de ventaja competitiva para acceder al mercado o que su ausencia fundamente una exclusión.",
+      "articulo": "120"
+    },
+    {
+      "id": "lp-t4-b2-010",
+      "enunciado": "De acuerdo con el artículo 120.1 y 120.2 de la ley, ¿cómo se realizan las inscripciones de las empresas en los Registros correspondientes de cada Autoridad Portuaria y en el de Puertos del Estado?",
+      "opciones": {
+        "a": "A solicitud de parte, mediante impreso oficial abonando las correspondientes tarifas de registro demanial mercantil.",
+        "b": "Se practicarán de oficio por las correspondientes Autoridades Portuarias y por Puertos del Estado.",
+        "c": "De forma rogada ante el Ministerio de Fomento tras acreditarse los requisitos de solvencia y fianza de explotación.",
+        "d": "De manera provisional por el Director del puerto, requiriéndose la ratificación semestral de la Comisión de Faros."
+      },
+      "correcta": "b",
+      "explicacion": "De conformidad con el artículo 120, la formalización de las inscripciones registrales de los licenciatarios se llevará a cabo obligatoriamente de oficio tanto en los registros locales por cada Autoridad Portuaria como en el Registro General por parte de Puertos del Estado.",
+      "articulo": "120"
+    },
+    {
+      "id": "lp-t4-b2-011",
+      "enunciado": "De conformidad con el artículo 121.1 del Texto Refundido de la Ley de Puertos, ¿cuándo se entiende legalmente que una empresa titular de una licencia de servicios portuarios ostenta una influencia efectiva en la gestión de otra licenciataria concurrente en el mismo puerto?",
+      "opciones": {
+        "a": "Cuando la cifra de negocios anual acumulada de la empresa exceda el presupuesto consolidado del sistema general demanial de coordinación.",
+        "b": "Cuando disponga de un puesto representativo con derecho a voto de calidad en el correspondiente Consejo de Administración portuario.",
+        "c": "Cuando ostente una cuota de mercado superior al 50 por ciento de la actividad relacionada con el servicio.",
+        "d": "Cuando asuma de forma mancomunada la fianza provisional de explotación demanial exigida para las obras hidráulicas del muelle."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 121.1.a) establece que se presume que existe influencia efectiva de gestión si el operador alcanza en ese puerto una cuota de mercado superior al cincuenta por ciento de la actividad (toneladas, pasaje, servicios prestados o GT de buques).",
+      "articulo": "121"
+    },
+    {
+      "id": "lp-t4-b2-012",
+      "enunciado": "Según el artículo 121.2 de la ley, ¿de qué plazo dispone un licenciatario portuario para ejecutar un plan de enajenación de participaciones si incurre de manera sobrevenida en una situación de incompatibilidad por fusiones o adquisiciones societarias?",
+      "opciones": {
+        "a": "Un plazo de un mano, computado desde la finalización del correspondiente ejercicio social demanial de la entidad portuaria.",
+        "b": "Un plazo de seis meses, prorrogable demanialmente por tres meses tras informe de la Comisión de Faros o Marina Civil.",
+        "c": "Un plazo de tres meses, transcurrido el cual la fianza demanial de construcción se duplicará de forma consolidada.",
+        "d": "Un plazo máximo de doce meses."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 121.2 establece que ante una situación de incompatibilidad de carácter sobrevenido por reestructuración mercantil, el operador está obligado a presentar un plan desinversor para enajenar sus acciones en un plazo máximo de doce meses.",
+      "articulo": "121"
+    },
+    {
+      "id": "lp-t4-b2-013",
+      "enunciado": "Con arreglo al artículo 122.1 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes entes u operadores está obligado legalmente a llevar una estricta separación contable respecto de los servicios portuarios que preste?",
+      "opciones": {
+        "a": "Los titulares de licencias y también la propia Autoridad Portuaria si presta directamente un servicio portuario.",
+        "b": "Exclusivamente las sociedades mercantiles que operen terminales de pasaje en régimen de monopolio o de limitación de la competencia.",
+        "c": "Únicamente los operadores de servicios técnico-náuticos cuyas licencias cuenten con un plazo de vigencia superior a seis años.",
+        "d": "Las cofradías de pescadores locales y los clubes deportivos que disfruten de exenciones en el pago de la tasa de actividad."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 122.1 impone la obligación de mantener una estricta contabilidad separada para cada servicio portuario a todos los licenciatarios, extendiendo la misma obligación a las Autoridades Portuarias si asumen la gestión directa de la actividad.",
+      "articulo": "122"
+    },
+    {
+      "id": "lp-t4-b2-014",
+      "enunciado": "Según el artículo 122.2, ¿de qué plazo disponen los titulares de licencias que realicen varias actividades portuarias para presentar ante la Autoridad Portuaria sus cuentas anuales auditadas y el correspondiente informe de auditoría?",
+      "opciones": {
+        "a": "Un plazo de un mes computado desde la finalización del correspondiente ejercicio social demanial de la entidad portuaria.",
+        "b": "Un plazo de treinta días hábiles contados a partir de su formulación por el Presidente de la respectiva Autoridad.",
+        "c": "Un plazo de tres meses a contar desde la publicación de las auditorías agregadas por el Organismo Puertos del Estado.",
+        "d": "Un plazo de quince días desde su aprobación."
+      },
+      "correcta": "d",
+      "explicacion": "De conformidad con el artículo 122.2, las empresas obligadas a auditar cuentas por concurrencia de servicios o actividades deben entregar copia de las cuentas anuales aprobadas y del preceptivo informe de auditoría al puerto en el plazo de quince días.",
+      "articulo": "122"
+    },
+    {
+      "id": "lp-t4-b2-015",
+      "enunciado": "De conformidad con el artículo 123.1 del Texto Refundido de la Ley de Puertos, ¿cuál es el organismo de adscripción y la finalidad primordial del Observatorio Permanente del Mercado de los Servicios Portuarios?",
+      "opciones": {
+        "a": "Adscrito al Ministerio de Economía, con la finalidad de liquidar y fiscalizar el canon de ocupación del demanio portuario estatal.",
+        "b": "Adscrito a la Comisión de la Competencia, con la finalidad de arbitrar conflictos entre los concesionarios y prácticos del demanio.",
+        "c": "Adscrito a Puertos del Estado, para analizar precios y calidad y establecer recomendaciones.",
+        "d": "Adscrito al Consejo Consultivo, con el fin de unificar las tarifas máximas y las plantillas de personal en los muelles demaniales."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 123.1 crea el Observatorio Permanente del Mercado de los Servicios Portuarios bajo la adscripción del organismo público Puertos del Estado, encomendándole vigilar la competitividad, calidad y precios, y acordar recomendaciones de mejora.",
+      "articulo": "123"
+    },
+    {
+      "id": "lp-t4-b2-016",
+      "enunciado": "De conformidad con el artículo 123.2 de la ley, ¿qué documento técnico debe elaborar anualmente Puertos del Estado basándose en las conclusiones del Observatorio Permanente de servicios portuarios, y ante qué órgano debe elevarse?",
+      "opciones": {
+        "a": "Una propuesta de coeficientes correctores, elevada ante la Dirección General de Costas o del Ministerio de Hacienda.",
+        "b": "Un informe de competitividad anual, que será elevado al Ministerio de Fomento.",
+        "c": "Una memoria agregada de masa salarial sectorial, que se elevará ante la Secretaría de Hacienda de forma anual consolidada.",
+        "d": "El Reglamento de Explotación y Policía de los puertos, que se someterá de forma preceptiva al Consejo para su aprobación."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 123.2 estipula de forma explícita que Puertos del Estado debe confeccionar un informe anual de competitividad sustentado en los datos del Observatorio, el cual tiene como destinatario directo para su elevación al Ministerio de Fomento.",
+      "articulo": "123"
+    },
+    {
+      "id": "lp-t4-b2-017",
+      "enunciado": "Con arreglo al artículo 124 del Texto Refundido de la Ley de Puertos, ¿dónde debe constituirse el Comité de Servicios Portuarios como foro consultivo sectorial del recinto portuario?",
+      "opciones": {
+        "a": "En el seno del Consejo Rector de Puertos del Estado de forma demanial agregada para todos los puertos de interés general.",
+        "b": "En la junta de obras e interacción puerto-ciudad de cada municipio costero o provincia marítima de servicio demanial.",
+        "c": "En el correspondiente Consejo de Navegación y Puerto.",
+        "d": "En la Comisión de Faros, bajo la dirección técnica del Director de la respectiva Autoridad Portuaria en el muelle."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 124 ordena que en cada puerto estatal de interés general se constituya un Comité de Servicios Portuarios integrado orgánicamente dentro del correspondiente Consejo de Navegación y Puerto para agrupar a usuarios, trabajadores y prestadores.",
+      "articulo": "124"
+    },
+    {
+      "id": "lp-t4-b2-018",
+      "enunciado": "De conformidad con el artículo 124 de la ley, ¿con qué frecuencia mínima obligatoria debe realizar consultas la Autoridad Portuaria al Comité de Servicios Portuarios sobre materias como las tarifas máximas y la organización de los servicios?",
+      "opciones": {
+        "a": "Al menos una vez al año.",
+        "b": "Con periodicidad trimestral, previa aprobación del Plan de Empresa por el Consejo Rector del demanio portuaria general.",
+        "c": "De forma semestral, coincidiendo con la liquidación consolidada del Fondo de Compensación Interportuario ordinario.",
+        "d": "Con carácter mensual, previo informe favorable vinculante del Director de la respectiva Autoridad Portuaria de muelle."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 124 determina que la Autoridad Portuaria de muelle debe convocar y consultar al Comité de Servicios Portuarios al menos una vez al año, debiendo versar los debates sobre tarifas generales, calidad de la explotación y acuerdos de limitación.",
+      "articulo": "124"
+    },
+    {
+      "id": "lp-t4-b2-019",
+      "enunciado": "Con arreglo al artículo 125.1.c) del Texto Refundido de la Ley de Puertos, ¿bajo qué requisito formal adquieren carácter vinculante las circulares emitidas por Puertos del Estado con objeto de corregir prácticas contrarias a la libre competencia?",
+      "opciones": {
+        "a": "Su ratificación unánime por el Consejo de Administración de cada puerto de interés general y del Ministerio de Hacienda.",
+        "b": "Tras ser aprobadas por Decreto de la Comunidad Autónoma de ubicación de las dársenas o demanios marítimo-terrestres.",
+        "c": "Requiriéndose el informe favorable previo del correspondiente Abogado del Estado y del Consejo de la provincia marítima.",
+        "d": "Una vez que se publiquen en el «Boletín Oficial del Estado»."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 125.1.c) habilita a Puertos del Estado para dictar circulares destinadas a impedir o subsanar conductas abusivas o restrictivas de la competencia, determinando que serán obligatorias y vinculantes desde su publicación en el Boletín Oficial del Estado (BOE).",
+      "articulo": "125"
+    },
+    {
+      "id": "lp-t4-b2-020",
+      "enunciado": "De conformidad con el artículo 125.2.d) de la ley, ¿cuándo corresponde en exclusiva a la Autoridad Portuaria la competencia para fijar y aprobar las tarifas máximas de un servicio portuario para evitar perjuicios a los usuarios?",
+      "opciones": {
+        "a": "Únicamente para las estaciones marítimas y terminales de mercancías dedicadas a uso particular demanial en el puerto.",
+        "b": "Siempre que el volumen anual consolidado de tráficos sea inferior a la cuantía básica fijada de forma anual por Fomento.",
+        "c": "Cuando el número de prestadores esté limitado o sea insuficiente para garantizar la competencia.",
+        "d": "Cuando las empresas licenciatarias disfruten de un demanial régimen especial exento del pago de las tasas de actividad."
+      },
+      "correcta": "c",
+      "explicacion": "De acuerdo con el artículo 125.2.d), corresponde de forma obligatoria a la Autoridad Portuaria fijar las tarifas máximas aplicables a los servicios comunes abiertos al uso general cuando concurra limitación del número de licenciatarios o insuficiencia real del mercado.",
+      "articulo": "125"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "cassette": {
+    "id": "lp-t4-b3-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 4, bloque 3 (arts. 131-141)",
+    "normativa": "RDL 2/2011",
+    "tema": 4,
+    "rango": "131-141",
+    "fecha": "2026-08-26",
+    "num_preguntas": 22
+  },
+  "preguntas": [
+    {
+      "id": "lp-t4-b3-001",
+      "enunciado": "Con arreglo al artículo 131 del Texto Refundido de la Ley de Puertos, ¿qué ministerio de la Administración General del Estado es competente para aprobar las Instrucciones Técnicas sobre maquinaria específica para la prestación del servicio portuario de manipulación de mercancías?",
+      "opciones": {
+        "a": "El Ministerio de Fomento y Ordenación del Territorio.",
+        "b": "El Ministerio de Industria, Turismo y Comercio.",
+        "c": "El Ministerio de Trabajo e Inmigración del Estado.",
+        "d": "El Ministerio de Ciencia, Innovación y Universidades."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 131 atribuye expresamente al Ministerio de Industria, Turismo y Comercio la competencia para dictar estas Instrucciones Técnicas, previa consulta e informe de Puertos del Estado.",
+      "articulo": "131"
+    },
+    {
+      "id": "lp-t4-b3-002",
+      "enunciado": "Conforme al artículo 131 del Texto Refundido, con carácter previo a la aprobación de las Instrucciones Técnicas de maquinaria, ¿a qué demanio u organismo se debe oír y a quiénes se les debe dar trámite de audiencia?",
+      "opciones": {
+        "a": "Oído Puertos del Estado y audiencia de organizaciones sectoriales representativas.",
+        "b": "Oída la Comisión de Faros y audiencia de los servicios técnicos de los muelles.",
+        "c": "Oída la Capitanía Marítima y audiencia del Comité de Servicios Portuarios del puerto.",
+        "d": "Oído el Consejo Consultivo de Puertos y audiencia de las Juntas de Obras estatales."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 131 exige oír a Puertos del Estado y dar audiencia a las organizaciones sindicales y empresariales más representativas del sector.",
+      "articulo": "131"
+    },
+    {
+      "id": "lp-t4-b3-003",
+      "enunciado": "Según establece el artículo 132.2 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes anexos del Convenio internacional MARPOL 73/78 NO se menciona expresamente como integrante del servicio portuario de recepción de desechos generados por buques?",
+      "opciones": {
+        "a": "El Anexo I y el Anexo IV.",
+        "b": "El Anexo V y el Anexo VI.",
+        "c": "El Anexo II y el Anexo III.",
+        "d": "El Anexo I y el Anexo V."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 132.2 limita el servicio de recepción de desechos generados por buques a los regulados en los anexos I, IV, V y VI del Convenio MARPOL 73/78, quedando excluidos de esta clasificación específica los anexos II y III.",
+      "articulo": "132"
+    },
+    {
+      "id": "lp-t4-b3-004",
+      "enunciado": "De conformidad con el artículo 132.5 del Texto Refundido de la Ley de Puertos, ¿qué requisitos conjuntos deben reunir las empresas que pretendan prestar el servicio de recepción de desechos generados por buques?",
+      "opciones": {
+        "a": "Licencia de la Autoridad Portuaria y aval solidario del Ministerio de Fomento demanial.",
+        "b": "Autorización medioambiental de la Comunidad Autónoma e informe de la Comisión de Faros.",
+        "c": "Certificado técnico de SASEMAR y fianza provisional de explotación demanial de muelle.",
+        "d": "Licencia de la Autoridad Portuaria y autorización del órgano medioambiental competente."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 132.5 exige que la empresa obtenga la licencia de la Autoridad Portuaria y, además, la correspondiente autorización del órgano de gestión medioambiental competente para realizar el tratamiento de los residuos.",
+      "articulo": "132"
+    },
+    {
+      "id": "lp-t4-b3-005",
+      "enunciado": "Con arreglo al artículo 133.1 del Texto Refundido de la Ley de Puertos, ¿cuál de las siguientes situaciones se define legalmente como régimen de autoprestación de servicios portuarios?",
+      "opciones": {
+        "a": "Cuando un operador privado presta un servicio comercial a otro concesionario del puerto estatal.",
+        "b": "Cuando una terminal de uso particular se presta a sí misma servicios de pasaje o mercancías.",
+        "c": "Cuando la Autoridad Portuaria gestiona directamente el servicio ante la falta de iniciativa privada.",
+        "d": "Cuando varias empresas navieras firman un convenio de ayuda mutua para las tareas de remolque."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 133.1 establece que existe autoprestación cuando el concesionario o titular de una terminal dedicada a uso particular realiza por sí mismo los servicios al pasaje o de manipulación de mercancías de sus propios tráficos.",
+      "articulo": "133"
+    },
+    {
+      "id": "lp-t4-b3-006",
+      "enunciado": "Según el artículo 133.1 del Texto Refundido de la Ley de Puertos, ¿para qué buques civiles mercantes queda totalmente prohibido autorizar el régimen de autoprestación de servicios portuarios?",
+      "opciones": {
+        "a": "Buques de pabellón extranjero que naveguen sin un representante fiscal en España.",
+        "b": "Buques que cuenten con una antigüedad superior a los quince años de explotación demanial.",
+        "c": "Buques con bandera de Estados de la lista negra del Memorándum de París o de alto riesgo.",
+        "d": "Buques que realicen navegación interior con tripulaciones formadas por terceros países."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 133.1 veta expresamente el régimen de autoprestación para aquellos buques que enarbolen el pabellón de un Estado de la lista negra del Memorándum de París o que estén calificados como de alto o muy alto riesgo.",
+      "articulo": "133"
+    },
+    {
+      "id": "lp-t4-b3-007",
+      "enunciado": "De conformidad con el artículo 133.1 del Texto Refundido de la Ley de Puertos, ¿en qué navegación o servicios especiales se permite que la compañía naviera se autopreste servicios de pasaje y manipulación de mercancías utilizando también su propio personal en tierra?",
+      "opciones": {
+        "a": "En el transporte marítimo de corta distancia regular y las autopistas del mar.",
+        "b": "Únicamente en el cabotaje de mercancías interinsular en archipiélagos estatales.",
+        "c": "En la navegación de línea regular de pasaje común que conecte con Ceuta o Melilla.",
+        "d": "En los servicios turísticos internacionales de cruceros con base en puertos españoles."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 133.1 prevé que en los servicios de corta distancia (TMCD) y autopistas del mar operados por buques tipo ro-ro, ro-pax, con-ro o ferries, la naviera pueda emplear su propio personal de tierra para la autoprestación.",
+      "articulo": "133"
+    },
+    {
+      "id": "lp-t4-b3-008",
+      "enunciado": "Con arreglo al artículo 134.1 del Texto Refundido de la Ley de Puertos, ¿en qué consiste de forma específica la figura jurídica de la integración de servicios portuarios?",
+      "opciones": {
+        "a": "En la asunción por la Autoridad Portuaria de todas las actividades comerciales del muelle.",
+        "b": "En la unificación de las licencias de amarre y remolque portuario bajo un único operador.",
+        "c": "En la fusión de empresas estibadoras independientes para prestar servicios abiertos de uso general.",
+        "d": "En que una terminal particular preste a sus buques servicios técnico-náuticos con medios propios."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 134.1 define la integración de servicios como la facultad del concesionario de una terminal de uso particular de prestar a los barcos que operen en ella servicios técnico-náuticos (practicaje, remolque, amarre) con personal y medios propios, sin contratar a terceros.",
+      "articulo": "134"
+    },
+    {
+      "id": "lp-t4-b3-009",
+      "enunciado": "Según el artículo 134.2 del Texto Refundido, si en una terminal autorizada para la integración de servicios la Autoridad Portuaria impone operar buques de terceros, ¿cómo deben prestarse los servicios técnico-náuticos a dichos tráficos?",
+      "opciones": {
+        "a": "Deberán prestarse obligatoriamente por empresas que cuenten con licencia abierta al uso general.",
+        "b": "Se realizarán de forma exclusiva por los propios medios técnicos integrados de la terminal.",
+        "c": "Se encomendarán provisionalmente al personal directivo y de policía de la Autoridad Portuaria.",
+        "d": "Requerirán la previa autorización expresa por escrito dictada por la Capitanía Marítima."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 134.2 determina que si se obliga a la terminal integrada a operar tráficos ajenos o de terceros, los servicios técnico-náuticos correspondientes deberán ser prestados por operadores ordinarios del puerto con licencia de servicios portuarios abiertos al uso general.",
+      "articulo": "134"
+    },
+    {
+      "id": "lp-t4-b3-010",
+      "enunciado": "De conformidad con el artículo 135.1 del Texto Refundido de la Ley de Puertos, ¿qué informe sectorial tiene carácter vinculante y en qué plazo debe emitirse para que la Autoridad Portuaria autorice el régimen de autoprestación o integración?",
+      "opciones": {
+        "a": "El informe de Puertos del Estado, que deberá ser emitido en el plazo de quince días hábiles comunes.",
+        "b": "El informe de la Administración marítima en materia de seguridad, emitido en el plazo de un mes.",
+        "c": "El informe de la respectiva Comunidad Autónoma, emitido en el plazo de dos meses demaniales ordinarios.",
+        "d": "El informe del Ministerio de Defensa sobre adscripción naval, emitido en el plazo de veinte días."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 135.1 exige el informe vinculante de la Administración marítima, circunscrito a la seguridad marítima, el cual debe emitirse en el plazo de un mes, entendiéndose en sentido favorable si transcurre dicho plazo sin emitirse de forma expresa.",
+      "articulo": "135"
+    },
+    {
+      "id": "lp-t4-b3-011",
+      "enunciado": "Según dispone el artículo 135.2 del Texto Refundido de la Ley de Puertos, ¿cuál es la regla de aplicación general respecto de los servicios de practicaje en relación con la autoprestación y la integración de servicios?",
+      "opciones": {
+        "a": "Se permite la autoprestación con tripulación habilitada, pero se prohíbe la integración en todo caso.",
+        "b": "Se autorizan de forma ordinaria ambas figuras en terminales de mercancías y de pasajeros.",
+        "c": "Quedan sujetas a la exención tributaria de la tasa de actividad y de utilización del demanio.",
+        "d": "No se autorizará la autoprestación, ni la integración salvo casos excepcionales fuera de los límites."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 135.2 prohíbe de manera general autorizar el régimen de autoprestación para el servicio de practicaje (sin perjuicio de obtener exenciones), y veta la integración de este servicio salvo terminales o muelles situados fuera de los límites de prestación del servicio.",
+      "articulo": "135"
+    },
+    {
+      "id": "lp-t4-b3-012",
+      "enunciado": "De conformidad con lo establecido en el artículo 136.1 del Texto Refundido de la Ley de Puertos, ¿con qué finalidad deben abonar una compensación económica los titulares de licencias de autoprestación o integración de servicios?",
+      "opciones": {
+        "a": "Para sufragar las de ayudas a la navegación que ejecute Puertos del Estado.",
+        "b": "Para compensar los menores ingresos demaniales de los puertos insulares por el Fondo de Compensación.",
+        "c": "Para sostener los gastos ordinarios de funcionamiento registral de las empresas prestadoras de muelle.",
+        "d": "Para contribuir a que los prestadores de uso general puedan atender las obligaciones de servicio público."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 136.1 impone esta aportación económica como contribución para asegurar la viabilidad de las obligaciones de servicio público (cobertura universal, regularidad, continuidad) que asumen las empresas con licencias abiertas al uso general.",
+      "articulo": "136"
+    },
+    {
+      "id": "lp-t4-b3-013",
+      "enunciado": "Con arreglo al artículo 136.2 del Texto Refundido de la Ley de Puertos, ¿sobre qué parámetros y con qué límite se calcula el valor de la compensación económica que se impone a los regímenes de autoprestación o integración?",
+      "opciones": {
+        "a": "Un porcentaje de los costes fijos de un prestador de uso general, sin superar su proporción de actividad.",
+        "b": "Una tasa fija del tres por ciento de los ingresos de explotación anuales declarados por la naviera demanial.",
+        "c": "Un porcentaje de las tasas de utilización devengadas, que no podrá exceder del diez por ciento de la fianza.",
+        "d": "Un precio privado por escala del buque, fijado discrecionalmente por el Presidente de la Autoridad."
+      },
+      "correcta": "a",
+      "explicacion": "Según el artículo 136.2, la compensación se establece como un porcentaje de los costes fijos del prestador abierto al uso general, teniendo como límite máximo el peso relativo de la actividad de la terminal autoprestadora sobre la actividad anual total de ese servicio.",
+      "articulo": "136"
+    },
+    {
+      "id": "lp-t4-b3-014",
+      "enunciado": "Conforme al artículo 137.1 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes supuestos de balizamiento o ayudas a la navegación se encuentra expresamente EXCLUIDO del servicio de señalización marítima estatal?",
+      "opciones": {
+        "a": "El balizamiento interior de las aguas abrigadas pertenecientes a la Zona I de la zona de servicio demanial.",
+        "b": "El balizamiento de instalaciones otorgadas en concesión, incluidos los cultivos marinos y emisarios.",
+        "c": "Los dispositivos que sirvan para marcar los canales de acceso marítimo de la Zona II del recinto de interés.",
+        "d": "Las ayudas visuales o radioeléctricas destinadas a los tráficos mercantiles que acceden al muelle común."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 137.1 excluye del servicio general de señalización marítima (debiendo ser costeados por sus promotores o concesionarios) los balizamientos de instalaciones concesionadas, tales como bateas de acuicultura, emisarios submarinos u otros obstáculos artificiales.",
+      "articulo": "137"
+    },
+    {
+      "id": "lp-t4-b3-015",
+      "enunciado": "Según el artículo 137.2 del Texto Refundido de la Ley de Puertos, ¿a qué demanio u organismo estatal corresponde determinar la procedencia de los balizamientos, sus características técnicas y su ubicación, y previo dictamen de qué órgano?",
+      "opciones": {
+        "a": "Al Ministerio de Fomento, previo dictamen de la Dirección General de la Marina Mercante.",
+        "b": "Al Organismo Público Puertos del Estado, previo dictamen de la Comisión de Faros.",
+        "c": "A cada Autoridad Portuaria en su muelle, previo dictamen de su respectivo Consejo de Navegación.",
+        "d": "Al Consejo de Ministros, previo dictamen de la Abogacía General del Estado y de Costas sectorial."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 137.2 encomienda en exclusiva a Puertos del Estado decidir sobre la idoneidad e implantación de las ayudas a la navegación, requiriéndose con carácter previo el dictamen técnico de la Comisión de Faros.",
+      "articulo": "137"
+    },
+    {
+      "id": "lp-t4-b3-016",
+      "enunciado": "De conformidad con el artículo 138.1 del Texto Refundido de la Ley de Puertos, ¿cómo se definen legalmente los servicios comerciales en el demanio de los puertos de interés general?",
+      "opciones": {
+        "a": "Actividades comerciales portuarias que, sin tener el carácter de servicios portuarios, estén vinculadas a la actividad portuaria.",
+        "b": "Aquellas actividades de explotación de libre concurrencia destinadas al avituallamiento de las tripulaciones de buques.",
+        "c": "Servicios técnico-náuticos que prestan los operadores privados bajo el control policial de la Autoridad Portuaria demanial.",
+        "d": "Actividades de derecho privado destinadas en exclusiva al fomento del turismo y deporte de recreo en la ría."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 138.1 define los servicios comerciales por exclusión: son aquellas prestaciones mercantiles vinculadas con el tráfico o actividad portuaria que carecen del carácter y calificación legal de servicios portuarios ordinarios.",
+      "articulo": "138"
+    },
+    {
+      "id": "lp-t4-b3-017",
+      "enunciado": "Con arreglo al artículo 138.2 de la ley, ¿a qué régimen jurídico queda sometido el desarrollo de actividades industriales, comerciales o de servicios en el dominio público portuario?",
+      "opciones": {
+        "a": "Al régimen jurídico de las autorizaciones especiales demaniales marítimo-terrestres.",
+        "b": "Al régimen general de fomento de la actividad comercial de los municipios costeros.",
+        "c": "Al régimen de autorizaciones demaniales de corta duración previsto por Costas.",
+        "d": "Al régimen jurídico previsto en esta ley para los servicios comerciales."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 138.2 determina de forma clara que todo desarrollo de actividades industriales, de servicios o comerciales dentro de la zona de servicio portuaria se rige por las normas de los servicios comerciales.",
+      "articulo": "138"
+    },
+    {
+      "id": "lp-t4-b3-018",
+      "enunciado": "Según establece el artículo 139.4 del Texto Refundido de la Ley de Puertos, ¿cuál es el plazo máximo para notificar la resolución de otorgamiento de la autorización de servicios comerciales y qué efecto tiene el silencio, salvo que requiera ocupación demanial?",
+      "opciones": {
+        "a": "Un plazo de un mes demanial, transcurrido el cual la solicitud se entenderá desestimada por silencio demanial general.",
+        "b": "Un plazo de seis meses, transcurrido el cual la solicitud se considerará estimada por silencio demanial.",
+        "c": "Un plazo de dos meses ordinarios, operando el silencio administrativo en sentido negativo para proteger el dominio público.",
+        "d": "Un plazo de tres meses, transcurrido el cual la solicitud se entenderá otorgada por silencio positivo."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 139.4 regula el procedimiento de autorización fijando un plazo máximo de tres meses para resolver y notificar, disponiendo que el transcurso del mismo sin resolución expresa equivale a una estimación por silencio administrativo positivo, salvo si media uso privativo de suelo.",
+      "articulo": "139"
+    },
+    {
+      "id": "lp-t4-b3-019",
+      "enunciado": "Con arreglo al artículo 139.5 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes contenidos mínimos de obligada inclusión figura en el título habilitante de prestación de un servicio comercial?",
+      "opciones": {
+        "a": "Las tarifas máximas por servicios públicos y las misiones de policía portuaria de control aduanero.",
+        "b": "Las retribuciones mínimas de la plantilla laboral adscrita y las de ayudas a la navegación estatales.",
+        "c": "El objeto, el plazo, las garantías (incluidas las medioambientales) y la tasa de actividad.",
+        "d": "Las condiciones de balizamiento exterior dictadas por la correspondiente Comisión de Faros."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 139.5 establece el catálogo de contenidos mínimos del título de servicios comerciales, señalando de forma expresa el objeto, el plazo, las garantías oportunas (con mención a los riesgos medioambientales) y la tasa de actividad aplicable.",
+      "articulo": "139"
+    },
+    {
+      "id": "lp-t4-b3-020",
+      "enunciado": "De conformidad con lo establecido en el artículo 140 del Texto Refundido de la Ley de Puertos, ¿bajo qué condicionantes específicos y de qué naturaleza económica pueden las Autoridades Portuarias prestar servicios comerciales?",
+      "opciones": {
+        "a": "Con carácter ordinario y a discreción del Presidente, exigiendo tasas portuarias de derecho demanial público.",
+        "b": "Limitado a atender deficiencias de la iniciativa privada, percibiendo tarifas de precios privados.",
+        "c": "De forma ilimitada para garantizar la competitividad, cobrando precios públicos con fianza provisional.",
+        "d": "En régimen de monopolio concertado con los municipios locales, exigiendo cánones de actividad demanial."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 140 restringe la prestación de servicios comerciales por la Autoridad Portuaria al carácter subsidiario (ante la insuficiencia de operadores privados), determinando que las contraprestaciones que perciba se regirán por el derecho privado como precios privados.",
+      "articulo": "140"
+    },
+    {
+      "id": "lp-t4-b3-021",
+      "enunciado": "Con arreglo al artículo 140 del Texto Refundido de la Ley de Puertos, ¿qué naturaleza jurídica y régimen económico tienen las tarifas que exigen las Autoridades Portuarias en contraprestación por los servicios comerciales que presten?",
+      "opciones": {
+        "a": "Tienen el carácter de precios privados y deberán contribuir a lograr el objetivo de autofinanciación.",
+        "b": "Tienen naturaleza de tasas portuarias por utilización especial del dominio de muelle.",
+        "c": "Tienen la consideración de precios públicos sujetos a fianza de explotación trimestral.",
+        "d": "Tienen carácter tributario y se liquidarán de forma anticipada y mensual por el demanio."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 140 (así como el artículo 246) determina que las tarifas aplicadas por la prestación directa de servicios comerciales por parte de la AP se calificarán como precios privados, orientados al principio de autosuficiencia.",
+      "articulo": "140"
+    },
+    {
+      "id": "lp-t4-b3-022",
+      "enunciado": "De acuerdo con el artículo 141 del Texto Refundido de la Ley de Puertos, ¿cómo se clasifican jurídicamente las operaciones de entrega, recepción, depósito, remoción o traslado de mercancías que no estén integradas en el servicio portuario de manipulación?",
+      "opciones": {
+        "a": "Se consideran servicios portuarios básicos sujetos al régimen de licencias específicas de libre concurrencia.",
+        "b": "Constituyen servicios generales del puerto prestados en régimen de monopolio por la policía portuaria.",
+        "c": "Tendrán la consideración de servicios comerciales, y precisarán de autorización.",
+        "d": "Se asimilan a las actividades demaniales de uso común, exentas de la exacción de tasas de actividad."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 141 clasifica estas operaciones complementarias de mercancías (que queden fuera de la estiba o desestiba estricta demanial del art 130) como servicios comerciales, estando condicionadas a la previa autorización de la Autoridad Portuaria.",
+      "articulo": "141"
+    },
+    {
+      "id": "lp-t4-b3-023",
+      "enunciado": "Con arreglo al artículo 141 de la Ley de Puertos, para el ejercicio de operaciones de remoción, depósito o traslado de mercancías no incluidas en el servicio portuario de manipulación de mercancías, ¿qué título habilitante se exige de manera indispensable?",
+      "opciones": {
+        "a": "Una licencia específica de servicios portuarios con un plazo máximo de vigencia demanial de seis años.",
+        "b": "Contar con la oportuna autorización de la Autoridad Portuaria.",
+        "c": "Una concesión de dominio público portuario estatal otorgada por el Consejo de Administración.",
+        "d": "Un certificado de idoneidad técnica visado de forma provisional por el Ministerio de Fomento."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 141 exige que cualquier operador que pretenda realizar estas tareas comerciales de entrega, recepción o remoción de mercancías obtenga previamente la correspondiente autorización de la Autoridad Portuaria.",
+      "articulo": "141"
+    }
+  ]
+}
