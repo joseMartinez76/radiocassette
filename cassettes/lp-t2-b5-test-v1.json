@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t2-b5-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 2, bloque 5 (arts. 51-65)",
+    "normativa": "RDL 2/2011",
+    "tema": 2,
+    "rango": "51-65",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t2-b5-001",
+      "enunciado": "Según el artículo 51 del Texto Refundido de la Ley de Puertos, ¿a propuesta de quién corresponde al Consejo de Administración de las Autoridades Portuarias nombrar y separar al personal directivo de la entidad y aprobar su régimen retributivo?",
+      "opciones": {
+        "a": "Del Director de la Autoridad Portuaria correspondiente.",
+        "b": "Del Presidente de la correspondiente Autoridad Portuaria.",
+        "c": "Del Consejo Rector del Organismo Público Puertos del Estado.",
+        "d": "Del Ministerio de Fomento, previo dictamen de Puertos del Estado."
+      },
+      "correcta": "b",
+      "explicacion": "De acuerdo con el artículo 51.b), corresponde a los Consejos de Administración el nombramiento y separación de los directivos, así como la fijación de sus salarios, debiendo actuar en todo caso a propuesta del Presidente de la entidad.",
+      "articulo": "51"
+    },
+    {
+      "id": "lp-t2-b5-002",
+      "enunciado": "De conformidad con el artículo 51 de la Ley de Puertos, ¿a iniciativa de quién corresponde al Consejo Rector de Puertos del Estado y al Consejo de Administración de las Autoridades Portuarias aprobar la organización de la entidad y sus modificaciones?",
+      "opciones": {
+        "a": "Del Presidente de la respectiva entidad pública portuaria.",
+        "b": "Del Director General o del Director de Explotación portuaria.",
+        "c": "Del Ministerio de Hacienda y Función Pública de forma agregada.",
+        "d": "Del Comité de Distribución del Fondo de Compensación Interportuario."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 51.a) establece que el diseño y reestructuración organizativa de estos entes es competencia de los órganos colegiados de gobierno, requiriéndose la iniciativa del Presidente correspondiente.",
+      "articulo": "51"
+    },
+    {
+      "id": "lp-t2-b5-003",
+      "enunciado": "Con arreglo al artículo 52.1 del Texto Refundido, ¿quién elabora el Marco Estratégico del sistema portuario de interés general y qué órgano lo aprueba definitivamente?",
+      "opciones": {
+        "a": "Lo elabora el Ministerio de Fomento y lo aprueba el demanio estatal mediante Real Decreto.",
+        "b": "Lo redacta el Comité de Distribución del FCI y lo aprueba de forma agregada el Secretario de Estado.",
+        "c": "Lo elabora Puertos del Estado con las Autoridades Portuarias y lo aprueba el Ministro de Fomento.",
+        "d": "Lo diseña el Consejo Consultivo del sistema portuario y lo aprueba el Consejo de cada puerto."
+      },
+      "correcta": "c",
+      "explicacion": "Según el artículo 52.1, Puertos del Estado redacta esta planificación estratégica en colaboración con los puertos individuales. Tras la ratificación de su Consejo Rector, se eleva al Ministro de Fomento para su aprobación.",
+      "articulo": "52"
+    },
+    {
+      "id": "lp-t2-b5-004",
+      "enunciado": "Según el artículo 52.3 del Texto Refundido de la Ley de Puertos, en el caso de que no se alcance un acuerdo entre las Autoridades Portuarias y Puertos del Estado sobre el contenido de los proyectos de los Planes Directores de Infraestructuras y de Empresa, ¿a quién corresponde resolver la discrepancia?",
+      "opciones": {
+        "a": "Al Presidente del Organismo Público Puertos del Estado.",
+        "b": "Al Consejo de Administración de la Autoridad Portuaria afectada.",
+        "c": "Al Consejo de Ministros, a propuesta de la Abogacía General demanial.",
+        "d": "Al Ministro de Fomento."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 52.3 prevé que si surgen divergencias insalvables en la negociación técnica de estos planes entre el puerto y el ente coordinador, la decisión final dirimente corresponderá al Ministro de Fomento.",
+      "articulo": "52"
+    },
+    {
+      "id": "lp-t2-b5-005",
+      "enunciado": "De conformidad con el artículo 54.1 de la ley, ¿cuál es el horizonte temporal mínimo de planificación que debe contemplar el Plan Director de Infraestructuras del Puerto para definir las necesidades de desarrollo del puerto?",
+      "opciones": {
+        "a": "Un horizonte de al menos diez años contados desde su redacción.",
+        "b": "Un horizonte de al menos cinco años contados desde su aprobación técnica.",
+        "c": "Un horizonte temporal máximo de quince años, prorrogable por periodos demaniales consolidados.",
+        "d": "Un periodo de veinte años adaptado al Plan General de Ordenación Urbana de exacción municipal."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 54.1 detalla que el proyecto de Plan Director debe estimar el crecimiento y expansión portuaria proyectando la capacidad técnica del muelle para un periodo mínimo de diez años.",
+      "articulo": "54"
+    },
+    {
+      "id": "lp-t2-b5-006",
+      "enunciado": "De acuerdo con el artículo 54.1 del Texto Refundido, ¿cómo se define el límite físico exterior en el lado marítimo del puerto a efectos de exigir la aprobación previa de un Plan Director de Infraestructuras?",
+      "opciones": {
+        "a": "El definido por el límite exterior del mar territorial medido desde las líneas de base del demanio.",
+        "b": "El delimitado por la Zona II o exterior de las aguas portuarias estatales o rías autonómicas.",
+        "c": "El definido por la Zona I de las aguas portuarias.",
+        "d": "El fijado por el deslinde definitivo del dominio público marítimo-terrestre del Ministerio de Costas."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 54.1, en su párrafo segundo, concreta técnicamente que la referencia geográfica en el lado marítimo para determinar la modificación sustancial de límites es la Zona I o aguas interiores de abrigo.",
+      "articulo": "54"
+    },
+    {
+      "id": "lp-t2-b5-007",
+      "enunciado": "Según el artículo 55.1 de la Ley de Puertos, ¿cuál de los siguientes contenidos mínimos NO se exige expresamente que figure en el proyecto de Plan de Empresa que elaboran anualmente las Autoridades Portuarias?",
+      "opciones": {
+        "a": "Los objetivos de rentabilidad anual y coeficientes correctores de las tasas portuarias exigibles.",
+        "b": "Las previsiones de tráfico portuario y las previsiones económico-financieras consolidadas del año.",
+        "c": "La estructura de personal, la oferta de empleo y las estimaciones agregadas de inversiones demaniales.",
+        "d": "Las directrices sobre el régimen de jornada y descansos del personal laboral de practicaje marítimo."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 55.1 recoge los elementos mínimos del Plan de Empresa (tráfico, ratios, inversiones, rentabilidad, etc.), pero las normas de jornada de los prácticos están sujetas a regulación sectorial de derecho laboral y de Marina Mercante.",
+      "articulo": "55"
+    },
+    {
+      "id": "lp-t2-b5-008",
+      "enunciado": "Con arreglo al artículo 55.4 del Texto Refundido de la Ley de Puertos, el proyecto de Plan de Empresa anual de la Autoridad Portuaria debe ir acompañado de una memoria de sostenibilidad. ¿A quién corresponde aprobar la metodología e indicadores de dicha memoria?",
+      "opciones": {
+        "a": "Al Organismo Público Puertos del Estado, previa audiencia a las Autoridades Portuarias.",
+        "b": "Al Ministerio de Medio Ambiente, de manera conjunta con la Dirección General de Costas.",
+        "c": "Al Consejo de Administración de cada puerto de forma independiente en su Plan de Empresa.",
+        "d": "Al Ministerio de Fomento, a propuesta del Consejo de Gobierno de la respectiva Comunidad Autónoma."
+      },
+      "correcta": "a",
+      "explicacion": "De conformidad con el artículo 55.4, es competencia del organismo estatal de coordinación unificar la metodología y los ratios medioambientales de la memoria, debiendo dar trámite de audiencia previo a los puertos.",
+      "articulo": "55"
+    },
+    {
+      "id": "lp-t2-b5-009",
+      "enunciado": "De conformidad con el artículo 56.1 del Texto Refundido, ¿cómo deben calificar la zona de servicio de los puertos estatales los planes generales y demás instrumentos de ordenación urbanística?",
+      "opciones": {
+        "a": "Como suelo urbano de especial protección costera e interacción de la defensa nacional del Estado.",
+        "b": "Como sistema general portuario.",
+        "c": "Como equipamiento demanial de interés comercial y aduanero exento de consolidación autonómica.",
+        "d": "Como dominio público portuario industrial dotado de reserva para usos logísticos no portuarios."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 56.1 impone que el planeamiento urbanístico local eche mano de la calificación de sistema general portuario para preservar el espacio de explotación y demanio del puerto frente a interferencias.",
+      "articulo": "56"
+    },
+    {
+      "id": "lp-t2-b5-010",
+      "enunciado": "Según el artículo 56.1 de la Ley de Puertos, ¿de quién se requiere informe previo y de qué órgano dictamen para aquellas actuaciones urbanísticas fuera del espacio portuario que puedan afectar al servicio de señalización marítima?",
+      "opciones": {
+        "a": "De la Dirección General de Costas, previo dictamen sectorial vinculante del Ministerio de Defensa.",
+        "b": "De la Autoridad Portuaria de ubicación, previo dictamen técnico emitido por la Capitanía Marítima.",
+        "c": "De Puertos del Estado, previo dictamen de la Comisión de Faros.",
+        "d": "Del Ministerio de Fomento, previo dictamen vinculante de la Comisión Nacional de la Competencia."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 56.1 protege el servicio de balizamiento y ayudas exteriores exigiendo un informe de Puertos del Estado, elaborado tras analizar el criterio técnico emitido por la Comisión de Faros.",
+      "articulo": "56"
+    },
+    {
+      "id": "lp-t2-b5-011",
+      "enunciado": "De conformidad con el artículo 57.2 del Texto Refundido de la Ley de Puertos, ¿a qué departamentos ministeriales se someterán los proyectos de construcción de un nuevo puerto comercial para que informen sobre sus respectivas competencias sectoriales?",
+      "opciones": {
+        "a": "A los Ministerios del Interior, de Política Territorial y de Medio Ambiente y Sostenibilidad Costera.",
+        "b": "A los Ministerios de Fomento, de Hacienda y del Interior de forma agregada para el muelle estatal.",
+        "c": "A los Ministerios de Defensa, del Interior y de Trabajo para el control e inspección ordinaria de obras.",
+        "d": "A los Ministerios de Defensa, de Economía y Hacienda, y de Industria, Comercio y Turismo."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 57.2 enumera estas tres carteras del Gobierno como las que deben emitir informe sectorial de control sobre el proyecto constructivo portuario básico. El de Medio Ambiente informa si hay pesca.",
+      "articulo": "57"
+    },
+    {
+      "id": "lp-t2-b5-012",
+      "enunciado": "Con arreglo al artículo 57.2 del Texto Refundido de la Ley de Puertos, ¿cuál es el plazo para emitir informes por parte de las Administraciones sobre los proyectos de construcción de nuevos puertos, transcurrido el cual se entenderán favorables?",
+      "opciones": {
+        "a": "Un mes desde la recepción de la documentación correspondiente.",
+        "b": "Quince días hábiles contados a partir de la notificación del proyecto técnico de obras.",
+        "c": "Dos meses a contar desde el término definitivo del trámite de información pública demanial.",
+        "d": "Tres meses bajo el apercibimiento de resolución expresa de Costas u otro órgano periférico estatal."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 57.2, en su párrafo último, fija el plazo común de un mes para la emisión de estos informes sectoriales, estableciendo que el transcurso del mismo sin respuesta expresa equivale a conformidad.",
+      "articulo": "57"
+    },
+    {
+      "id": "lp-t2-b5-013",
+      "enunciado": "Según dispone el artículo 58.1 del Texto Refundido de la Ley de Puertos, ¿qué administración competente debe emitir informe previo a la aprobación de obras nuevas o modificación de las existentes que supongan la construcción de nuevos diques o escolleras fuera de la zona interior de las aguas?",
+      "opciones": {
+        "a": "La Administración competente en materia de costas y de ordenación general de playas demaniales.",
+        "b": "La Administración competente en materia de pesca.",
+        "c": "La Administración urbanística de la Comunidad Autónoma correspondiente de la provincia marítima.",
+        "d": "La Dirección General de la Marina Mercante en materia de salvamento de la vida en la mar del puerto."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 58.1 exige salvaguardar el caladero y la actividad extractiva mediante informe obligatorio de la autoridad pesquera cuando se proyecten diques o escolleras en aguas abiertas exteriores.",
+      "articulo": "58"
+    },
+    {
+      "id": "lp-t2-b5-014",
+      "enunciado": "De conformidad con el artículo 58.2 del Texto Refundido de la Ley de Puertos, ¿qué requisito demanial específico se exige para la realización de obras de relleno en el dominio público portuario?",
+      "opciones": {
+        "a": "Requerirán informe previo de carácter vinculante del Ministerio de Medio Ambiente y Sostenibilidad.",
+        "b": "Estarán sujetas a previa concesión del Ministerio de Economía para el uso privativo de los rellenos.",
+        "c": "Requerirán autorización de la correspondiente Autoridad Portuaria.",
+        "d": "Estarán exentas de título habilitante, requiriéndose mera comunicación previa de la empresa contratista."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 58.2 especifica que todo relleno de tierra en el demanio portuario (viales, explanadas o muelles) está condicionado a la previa y expresa autorización emitida por la Autoridad Portuaria.",
+      "articulo": "58"
+    },
+    {
+      "id": "lp-t2-b5-015",
+      "enunciado": "De acuerdo con el artículo 59.1 del Texto Refundido de la Ley de Puertos, las obras que realicen las Autoridades Portuarias en el dominio público portuario deben someterse a informe de la Administración urbanística competente. ¿Cuál es el plazo de emisión de este informe y qué sentido tiene el silencio?",
+      "opciones": {
+        "a": "Quince días hábiles, transcurridos los cuales se entenderá en sentido desfavorable a la obra portuaria.",
+        "b": "Dos meses, transcurridos los cuales se considerará suspendida la aprobación del proyecto en el Ayuntamiento.",
+        "c": "Tres meses, transcurridos los cuales se producirá el silencio demanial positivo autonómico consolidado.",
+        "d": "Un mes, transcurrido el cual se entenderá emitido en sentido favorable."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 59.1 prevé el control de compatibilidad urbanística fijando un mes para que el Ayuntamiento o ente urbanístico informe, entendiéndose conforme (silencio positivo) una vez vencido dicho periodo sin comunicación escrita.",
+      "articulo": "59"
+    },
+    {
+      "id": "lp-t2-b5-016",
+      "enunciado": "De conformidad con el artículo 59.3 del Texto Refundido de la Ley de Puertos, si una obra pública portuaria por sus características no es susceptible de explotación económica por un concesionario, ¿qué tipo de contraprestación demanial puede otorgar la Autoridad Portuaria al contratista a cambio de la construcción y conservación de la obra?",
+      "opciones": {
+        "a": "Una concesión de dominio público portuario.",
+        "b": "Una autorización demanial por un plazo máximo de tres años para la instalación desmontable.",
+        "c": "Una licencia de servicios portuarios exenta del pago de tasas de utilización de la zona de servicio.",
+        "d": "Una adscripción provisional sin canon demanial sujeta al régimen urbanístico municipal de edificación."
+      },
+      "correcta": "a",
+      "explicacion": "Según el artículo 59.3, para financiar obras de infraestructura que no generen tarifas comerciales directas, la Autoridad Portuaria puede retribuir la construcción/mantenimiento otorgando al contratista una concesión demanial de bienes portuarios vinculados.",
+      "articulo": "59"
+    },
+    {
+      "id": "lp-t2-b5-017",
+      "enunciado": "Según el artículo 61.1 de la Ley de Puertos, ¿qué efecto jurídico tiene implícito la aprobación por el órgano competente de los proyectos de obras portuarias respecto a los demanios y derechos afectados no incluidos en el dominio público?",
+      "opciones": {
+        "a": "La desafectación de pleno derecho y exención del impuesto municipal de transmisiones de los activos.",
+        "b": "La declaración de utilidad pública y la necesidad de ocupación.",
+        "c": "La transferencia automática de titularidad dominical en favor del ayuntamiento costero de la localidad.",
+        "d": "La suspensión temporal del planeamiento urbanístico general y de licencias locales de Costas sectoriales."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 61.1 determina que el visto bueno del proyecto por la administración competente activa directamente la declaración de utilidad pública y necesidad de ocupación, abriendo la vía para expropiaciones y ocupaciones forzosas.",
+      "articulo": "61"
+    },
+    {
+      "id": "lp-t2-b5-018",
+      "enunciado": "Con arreglo al artículo 61.3 del Texto Refundido de la Ley de Puertos, en los puertos de competencia estatal, ¿a qué órgano corresponde declarar la urgencia para la ocupación de los bienes y derechos afectados por obras de las Autoridades Portuarias?",
+      "opciones": {
+        "a": "Al Presidente del Organismo Público Puertos del Estado.",
+        "b": "Al Consejo de Administración de la Autoridad Portuaria.",
+        "c": "Al Ministro de Fomento.",
+        "d": "Al Consejo de Ministros, a propuesta del titular del Ministerio de Justicia demanial del Estado."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 61.3 reserva esta competencia de fomento de la actividad pública constructora al Ministro de Fomento, encargándole emitir la orden urgente de ocupación de las parcelas de propiedad privada que resulten afectadas.",
+      "articulo": "61"
+    },
+    {
+      "id": "lp-t2-b5-019",
+      "enunciado": "De conformidad con el artículo 62.2 del Texto Refundido de la Ley de Puertos, ¿qué instrumento de planificación de emergencias de las instalaciones industriales o de manipulación de mercancías debe ser tenido en cuenta por la Autoridad Portuaria para elaborar el Plan Interior de Contingencias?",
+      "opciones": {
+        "a": "El plan de autoprotección municipal coordinado por la Comunidad Autónoma y la Delegación de Gobierno.",
+        "b": "El reglamento interior de policía y explotación comercial redactado de forma conjunta por el consignatario.",
+        "c": "La fianza medioambiental de explotación autorizada previamente por el Consejo Rector de Puertos del Estado.",
+        "d": "Un plan de contingencias por contaminación accidental de la propia instalación."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 62.2 obliga a las empresas autorizadas o concesionarias a disponer de un plan sectorial de contaminación accidental. El muelle debe incorporar dicho documento al Plan Interior de Contingencias general del puerto.",
+      "articulo": "62"
+    },
+    {
+      "id": "lp-t2-b5-020",
+      "enunciado": "De acuerdo con lo establecido en el artículo 62.3 del Texto Refundido de la Ley de Puertos, ¿cuál es el organismo competente en la prevención y control de las emergencias por contaminación en la zona de servicio del puerto, así como de la limpieza de las mismas?",
+      "opciones": {
+        "a": "Las Autoridades Portuarias.",
+        "b": "La Sociedad de Salvamento y Seguridad Marítima (SASEMAR).",
+        "c": "La Capitanía Marítima de la provincia marítima correspondiente.",
+        "d": "El Ministerio de Medio Ambiente y Sostenibilidad Costera autonómico."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 62.3 otorga la dirección ejecutiva y competencia técnica para mitigar derrames o contaminaciones dentro de los espacios terrestres o de agua de la zona de servicio del puerto a la respectiva Autoridad Portuaria.",
+      "articulo": "62"
+    }
+  ]
+}

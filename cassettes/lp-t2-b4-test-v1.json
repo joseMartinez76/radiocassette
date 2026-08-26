@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t2-b4-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 2, bloque 4 (arts. 41-50)",
+    "normativa": "RDL 2/2011",
+    "tema": 2,
+    "rango": "41-50",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t2-b4-001",
+      "enunciado": "De conformidad con el artículo 41 de la Ley de Puertos, ¿bajo qué régimen tributario específico del Impuesto sobre Sociedades se encuentran sometidos los organismos portuarios estatales?",
+      "opciones": {
+        "a": "Las Autoridades Portuarias en el régimen general y Puertos del Estado en el de entidades parcialmente exentas.",
+        "b": "Las Autoridades Portuarias tributan por el régimen general y Puertos del Estado por el régimen de consolidación.",
+        "c": "Las Autoridades Portuarias en régimen de exención parcial y Puertos del Estado en el de exención plena estatal.",
+        "d": "Las Autoridades Portuarias en régimen general y Puertos del Estado en el régimen especial de fundaciones públicas."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 41 de la Ley establece de forma expresa que las Autoridades Portuarias tributan bajo el régimen general del Impuesto sobre Sociedades, mientras que Puertos del Estado lo hace en el régimen de entidades parcialmente exentas en dicho impuesto.",
+      "articulo": "41"
+    },
+    {
+      "id": "lp-t2-b4-002",
+      "enunciado": "Según el artículo 41 de la Ley de Puertos, ¿cómo se califica la tributación del dominio público portuario y los ingresos por la prestación de servicios comerciales?",
+      "opciones": {
+        "a": "El demanio portuario tributa de forma asimilada al aduanero, considerándose sus ingresos de derecho público exentos.",
+        "b": "El demanio portuario tributa bajo el régimen general de bienes inmuebles, considerándose sus ingresos corrientes.",
+        "c": "El demanio portuario tributa como el marítimo-terrestre y los servicios comerciales como explotación económica.",
+        "d": "El demanio portuario está exento de todo tributo estatal, considerándose sus ingresos corrientes como tasas privadas."
+      },
+      "correcta": "c",
+      "explicacion": "Conforme al artículo 41, el demanio portuario se sujeta al régimen tributario previsto para el dominio público marítimo-terrestre, y los ingresos derivados de la prestación de servicios comerciales se califican expresamente como procedentes de explotaciones económicas.",
+      "articulo": "41"
+    },
+    {
+      "id": "lp-t2-b4-003",
+      "enunciado": "Con arreglo al artículo 42 de la ley, ¿cómo se constituye legalmente el patrimonio propio de las Autoridades Portuarias y de Puertos del Estado?",
+      "opciones": {
+        "a": "Por los bienes atribuidos por el Estado, los adquiridos por cualquier título o los que les sean cedidos o donados.",
+        "b": "Exclusivamente por las aportaciones financieras demaniales consignadas anualmente en las leyes de presupuestos del Estado.",
+        "c": "Por el conjunto de bienes inmuebles demaniales que les transfiera la Comunidad Autónoma para su explotación ordinaria.",
+        "d": "Únicamente por los activos demaniales resultantes del deslinde de la zona de servicio que apruebe el Consejo Rector."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 42 de la ley determina de manera expresa que el patrimonio de estos organismos se compone por los bienes y derechos atribuidos inicialmente por el Estado, los adquiridos en el desarrollo de su actividad a cualquier título y los cedidos o donados por terceros.",
+      "articulo": "42"
+    },
+    {
+      "id": "lp-t2-b4-004",
+      "enunciado": "De acuerdo con lo establecido en el artículo 42 de la Ley de Puertos, ¿cuál de las siguientes afirmaciones sobre el patrimonio de los organismos portuarios estatales es la correcta?",
+      "opciones": {
+        "a": "Las Autoridades Portuarias disponen de patrimonio propio y Puertos del Estado carece de él, al depender directamente de Fomento.",
+        "b": "Ambos organismos carecen de patrimonio propio, siendo todos sus activos parte del Patrimonio del Estado no adscrito.",
+        "c": "Las Autoridades Portuarias y Puertos del Estado disponen de patrimonio propio para el cumplimiento de sus fines.",
+        "d": "Ambos organismos comparten un patrimonio demanial indisponible e inalienable regulado por ley urbanística autonómica."
+      },
+      "correcta": "c",
+      "explicacion": "De conformidad con el artículo 42, para llevar a cabo de manera efectiva el cumplimiento de sus fines, tanto las Autoridades Portuarias como Puertos del Estado disponen por ley de un patrimonio propio.",
+      "articulo": "42"
+    },
+    {
+      "id": "lp-t2-b4-005",
+      "enunciado": "Según dispone el artículo 43.1 de la ley, ¿qué facultades especiales pueden ejercer en cualquier momento las Autoridades Portuarias y Puertos del Estado sobre los bienes demaniales del Estado que les sean adscritos?",
+      "opciones": {
+        "a": "La venta directa en pública subasta, la desafectación provisional y la expropiación urgente de parcelas urbanas colindantes.",
+        "b": "El arrendamiento a casco desnudo, el embargo preventivo judicial y la liquidación del canon de adscripción demanial.",
+        "c": "La concesión de hipotecas demaniales sobre la lámina de agua de la Zona I interior sin requerir autorización previa de Fomento.",
+        "d": "Administración, defensa, policía, investigación, deslinde y recuperación posesoria otorgadas por la Ley de Costas."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 43.1 faculta expresamente a los organismos públicos portuarios para ejercer respecto a los bienes adscritos las prerrogativas de administración, defensa, policía, investigación, deslinde y recuperación de la posesión que corresponden al Estado en la legislación de costas.",
+      "articulo": "43"
+    },
+    {
+      "id": "lp-t2-b4-006",
+      "enunciado": "De conformidad con el artículo 43.2 de la ley, ¿qué ministerio estatal es el encargado de efectuar singularmente el cambio de afectación de bienes de dominio público estatal o la adscripción de nuevos bienes patrimoniales, y a propuesta de quién?",
+      "opciones": {
+        "a": "El Ministerio de Fomento, a propuesta de la Comunidad Autónoma correspondiente.",
+        "b": "El Ministerio de Política Territorial y Administración Pública, a propuesta de Puertos del Estado.",
+        "c": "El Ministerio de Medio Ambiente, y Medio Rural y Marino, a propuesta de la Autoridad Portuaria.",
+        "d": "El Ministerio de Economía y Hacienda, a propuesta del Ministerio de Fomento."
+      },
+      "correcta": "d",
+      "explicacion": "De acuerdo con el artículo 43.2, con la salvedad de los supuestos especiales de obras, actividades propias o deslindes de la DEUP, estas afectaciones singulares demaniales corresponden al Ministerio de Economía y Hacienda, a propuesta formulada por el Ministerio de Fomento.",
+      "articulo": "43"
+    },
+    {
+      "id": "lp-t2-b4-007",
+      "enunciado": "Con arreglo al artículo 44.1, si la Autoridad Portuaria decide enajenar un bien de dominio público portuario previamente desafectado, ¿cuándo requiere el acuerdo de enajenación la autorización del Gobierno (Consejo de Ministros)?",
+      "opciones": {
+        "a": "Siempre que el valor venal del bien, tasado de forma independiente, supere los 18.000.000 de euros.",
+        "b": "Cuando el valor de tasación catastral municipal supere la cuantía de 3.000.000 de euros fijada para Puertos del Estado.",
+        "c": "Únicamente si el bien cuenta con un presupuesto de obras de infraestructura de abrigo que exceda los 10.000.000 de euros.",
+        "d": "En todo caso de enajenación demanial de terrenos, con independencia del valor venal fijado por los técnicos portuarios."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 44.1 prevé que la enajenación de bienes desafectados de la AP cuya tasación supere los 18 millones de euros debe ser autorizada por el Consejo de Ministros (el Gobierno). Si se sitúa entre 3 y 18 millones de euros, la competencia de autorizar recae en Puertos del Estado.",
+      "articulo": "44"
+    },
+    {
+      "id": "lp-t2-b4-008",
+      "enunciado": "Según el artículo 44.1 de la Ley de Puertos, ¿bajo qué condiciones e informes se puede tramitar y aprobar la cesión gratuita de los bienes demaniales desafectados de una Autoridad Portuaria?",
+      "opciones": {
+        "a": "A favor de cualquier entidad privada o corporación sin fines de lucro, previo informe de los servicios vecinales municipales de servicio.",
+        "b": "A favor de clubes deportivos o corporaciones de derecho demanial, autorizada por Fomento previo dictamen sectorial de Costas.",
+        "c": "A favor de las Administraciones públicas, autorizada por PE previo informe de la Dirección General de Patrimonio.",
+        "d": "A favor de los Ayuntamientos costeros locales colindantes, autorizada directamente por la AP previa consulta general de información pública."
+      },
+      "correcta": "c",
+      "explicacion": "Conforme al artículo 44.1, las cesiones gratuitas sólo proceden para fines de utilidad pública o interés social en favor de Administraciones Públicas. Requieren el visto bueno de Puertos del Estado, tras emitirse el informe vinculante de la Dirección General de Patrimonio del Estado (entendido como positivo si pasa un mes sin respuesta).",
+      "articulo": "44"
+    },
+    {
+      "id": "lp-t2-b4-009",
+      "enunciado": "De conformidad con el artículo 45 del Texto Refundido de la Ley de Puertos, ¿qué órgano ostenta la competencia para desafectar los bienes de dominio público de Puertos del Estado que no sean precisos para el cumplimiento de sus fines?",
+      "opciones": {
+        "a": "El Organismo Público Puertos del Estado, mediante resolución de su Presidente previo informe favorable de Costas.",
+        "b": "El Consejo Rector de Puertos del Estado, previa audiencia de la Comunidad Autónoma donde radiquen los demanios.",
+        "c": "El Ministro de Fomento, previa declaración de innecesariedad por el Consejo Rector de Puertos del Estado.",
+        "d": "El Consejo de Ministros, a propuesta exclusiva del titular del Ministerio de Economía y Hacienda."
+      },
+      "correcta": "c",
+      "explicacion": "De acuerdo con el artículo 45.1, la competencia para la desafectación formal de los bienes correspondientes al Organismo Público Puertos del Estado se atribuye al Ministro de Fomento, requiriéndose la previa declaración de innecesariedad acordada por el propio Consejo Rector.",
+      "articulo": "45"
+    },
+    {
+      "id": "lp-t2-b4-010",
+      "enunciado": "Con arreglo al artículo 45.1 de la ley, ¿cuándo requerirá la enajenación y las condiciones de la misma de los bienes desafectados de Puertos del Estado la autorización adicional del Gobierno?",
+      "opciones": {
+        "a": "En todo caso de venta de terrenos o inmuebles patrimoniales, sin que sea admisible la enajenación demanial directa.",
+        "b": "Cuando la superficie total del bien objeto de la enajenación demanial de Puertos del Estado sea superior a media hectárea.",
+        "c": "Si el bien contiene instalaciones fijas que no hayan sido amortizadas en un porcentaje superior al cincuenta por ciento.",
+        "d": "Cuando el valor venal del bien, determinado mediante tasación independiente, sea superior a 18.000.000 de euros."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 45.1 dispone expresamente que si el valor de tasación del bien demanial desafectado del organismo estatal sobrepasa los 18.000.000 de euros, la venta del mismo y las condiciones del contrato de enajenación deberán autorizarse por acuerdo del Gobierno, a propuesta de Fomento.",
+      "articulo": "45"
+    },
+    {
+      "id": "lp-t2-b4-011",
+      "enunciado": "Según lo establecido en el artículo 46.1 de la ley, ¿en qué tipo de sociedades comerciales les está prohibido participar a Puertos del Estado y a las Autoridades Portuarias con carácter general?",
+      "opciones": {
+        "a": "En sociedades logísticas o de transporte que promuevan la competitividad de los tráficos, salvo si superan el uno por ciento de su activo.",
+        "b": "En sociedades mercantiles tecnológicas cuya actividad esté vinculada directamente con las señalizaciones o las ayudas de la navegación.",
+        "c": "En sociedades que presten servicios portuarios o tengan influencia en ellas, salvo excepciones de insuficiencia de iniciativa.",
+        "d": "En sociedades públicas que dispongan de concesión demanial de interacción puerto-ciudad destinadas a equipamientos colectivos."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 46.1 prohíbe de manera tajante la participación en sociedades que presten servicios portuarios o que dominen y tengan influencia efectiva en ellas, permitiéndose únicamente de manera excepcional por motivos de ausencia o insuficiencia contrastada de iniciativa privada en dicho puerto.",
+      "articulo": "46"
+    },
+    {
+      "id": "lp-t2-b4-012",
+      "enunciado": "Con arreglo al artículo 46.1 de la Ley de Puertos, ¿qué límite financiero determina que la adquisición o enajenación de acciones por una Autoridad Portuaria requiera la previa autorización de Puertos del Estado, en lugar de bastar con la de su propio Consejo de Administración?",
+      "opciones": {
+        "a": "Que los compromisos financieros superen el uno por ciento del activo no corriente neto de la Autoridad Portuaria.",
+        "b": "Que los compromisos económicos contraídos en la sociedad superen el dos por ciento del inmovilizado material neto anual.",
+        "c": "Que la participación suponga un desembolso de fondos propios que exceda el cinco por ciento de sus ingresos corrientes.",
+        "d": "Que la operación suponga un compromiso presupuestario acumulado que sobrepase la cifra fija de 3.000.000 de euros."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 46.1 determina que el Consejo de Administración de la Autoridad Portuaria puede autorizar estas operaciones de acciones directamente sólo si los compromisos financieros totales son iguales o inferiores al 1% del activo no corriente neto del puerto. En caso contrario, se requiere autorización previa de Puertos del Estado.",
+      "articulo": "46"
+    },
+    {
+      "id": "lp-t2-b4-013",
+      "enunciado": "De conformidad con lo dispuesto en el artículo 47.1 del Texto Refundido de la Ley de Puertos, ¿cuál es el régimen jurídico que vincula, con carácter general, al personal al servicio de las Autoridades Portuarias y de Puertos del Estado?",
+      "opciones": {
+        "a": "Una relación de carácter estrictamente funcionarial regulada por las normas y convenios del Estatuto Básico del Empleado Público.",
+        "b": "Una relación sujeta a las normas del derecho laboral, sin perjuicio de las de derecho civil o mercantil aplicables.",
+        "c": "Una relación estatutaria de derecho público propia de los funcionarios integrados en el Cuerpo de Técnicos Mecánicos estatales.",
+        "d": "Un contrato civil de arrendamiento de servicios profesionales sometido de forma demanial a las directrices técnicas de Costas."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 47.1 regula que las relaciones laborales de estos entes públicos portuarios se rigen, con carácter general, por las normas comunes del derecho laboral, sin menoscabo de poder acudir de forma justificada a contratos civiles o mercantiles para actividades concretas donde resulte procedente.",
+      "articulo": "47"
+    },
+    {
+      "id": "lp-t2-b4-014",
+      "enunciado": "Según establece el artículo 47.2 de la ley, ¿cómo se ejercerán las competencias de control en materia de personal sobre el sistema portuario que correspondan a los Ministerios de Economía y Hacienda y de Administraciones Públicas?",
+      "opciones": {
+        "a": "De forma individual sobre cada Autoridad Portuaria mediante auditoría directa de la Intervención General.",
+        "b": "De forma agregada para el sistema portuario, a través de Puertos del Estado.",
+        "c": "Por delegación autonómica en favor de los servicios de control del Consejo de Gobierno de la Comunidad.",
+        "d": "Mediante fiscalización previa trimestral del Presupuesto de explotación por parte de la Abogacía del Estado."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 47.2 estipula de forma pormenorizada que para garantizar un control centralizado coherente con la política económica estatal, estos controles ministeriales sobre personal se ejecutarán agregadamente para todo el sistema, canalizándose a través de Puertos del Estado.",
+      "articulo": "47"
+    },
+    {
+      "id": "lp-t2-b4-015",
+      "enunciado": "De acuerdo con el artículo 48.3 de la ley, ¿qué ámbito de negociación colectiva se establece con carácter normativo obligatorio para regular las relaciones laborales del personal no directivo ni técnico del conjunto del sistema portuario?",
+      "opciones": {
+        "a": "Un convenio colectivo para el conjunto del sistema portuario y acuerdos de empresa en materia de productividad.",
+        "b": "Un acuerdo marco de la función pública estatal y planes de empleo de carácter especial aprobados por los Ayuntamientos.",
+        "c": "Un convenio sectorial general de marina civil de recreo y directrices de productividad del Ministerio de Defensa de forma demanial.",
+        "d": "Un convenio colectivo por cada puerto de interés general negociado de manera independiente por su Consejo de Administración."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 48.3 ordena de manera imperativa la negociación de un único convenio colectivo nacional y general aplicable al personal del sistema portuario estatal de interés general, complementado en cada puerto individual con sus respectivos acuerdos particulares de empresa.",
+      "articulo": "48"
+    },
+    {
+      "id": "lp-t2-b4-016",
+      "enunciado": "Con arreglo al artículo 48.1 de la ley, ¿qué retribuciones de personal del sistema portuario estatal serán propuestas conjuntamente por las Autoridades Portuarias y Puertos del Estado?",
+      "opciones": {
+        "a": "Únicamente los complementos de productividad ligados al volumen de tráfico anual y las gratificaciones de policía portuaria.",
+        "b": "Las retribuciones de directores y personal técnico sin convenio y las bases de negociación del personal sujeto a convenio.",
+        "c": "Los haberes salariales básicos del personal directivo y de confianza de Puertos del Estado y los de las cofradías de pescadores.",
+        "d": "Las escalas salariales de los prácticos de puerto y del personal de rescate marítimo adscrito de forma provisional a SASEMAR."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 48.1 dispone que estos organismos públicos propondrán los criterios retributivos generales del personal directivo (directores) y del personal técnico fuera de convenio, así como los criterios generales que habrán de orientar la negociación colectiva del personal que sí esté bajo convenio.",
+      "articulo": "48"
+    },
+    {
+      "id": "lp-t2-b4-017",
+      "enunciado": "Según lo establecido en el artículo 49.2 de la ley, ¿a qué organismo o demanio estatal corresponde la competencia exclusiva para aprobar la estructura de personal agregada del sistema portuario, la de cada Autoridad Portuaria y la oferta anual de empleo?",
+      "opciones": {
+        "a": "Al Ministerio de Fomento, previo informe favorable de la Secretaría de Estado de Hacienda y Función Pública.",
+        "b": "Al Organismo Público Puertos del Estado.",
+        "c": "Al Consejo de Administración de cada Autoridad Portuaria en coordinación con las organizaciones sindicales más representativas.",
+        "d": "Al Ministerio de Economía y Hacienda, a propuesta del Consejo Consultivo portuario de la respectiva provincia de servicio."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 49.2 centraliza esta competencia organizativa de primer orden en el Organismo Público Puertos del Estado, encargándole la aprobación de las plantillas y estructuras (agregada del sistema e individual de cada puerto) y de las correspondientes ofertas anuales de empleo.",
+      "articulo": "49"
+    },
+    {
+      "id": "lp-t2-b4-018",
+      "enunciado": "De conformidad con el artículo 49.3 de la ley, ¿qué funciones específicas tiene asignadas de manera expresa Puertos del Estado sobre la contratación de recursos humanos del sistema portuario?",
+      "opciones": {
+        "a": "La aprobación de los despidos objetivos colectivos de carácter estructural y la fiscalización ordinaria de las sanciones laborales.",
+        "b": "La coordinación de la contratación temporal y fija de todo el sistema y la distribución de la oferta de empleo anual.",
+        "c": "La designación directa de todos los tribunales de selección de personal y la homologación técnica de los títulos extranjeros de estiba.",
+        "d": "El control contable y presupuestario mensual de la nómina líquida del personal de confianza y las demaniales de la Autoridad Portuaria."
+      },
+      "correcta": "b",
+      "explicacion": "De acuerdo con el artículo 49.3, Puertos del Estado ostenta la atribución específica de coordinar la política laboral y de contratación (sea con carácter fijo o temporal) de todo el sistema y realizar el reparto global de la oferta de empleo del ejercicio.",
+      "articulo": "49"
+    },
+    {
+      "id": "lp-t2-b4-019",
+      "enunciado": "De acuerdo con lo establecido en el artículo 50 de la ley, ¿cuál de las siguientes opciones describe correctamente los principios de selección de personal y las exclusiones de la convocatoria pública en el sistema portuario estatal?",
+      "opciones": {
+        "a": "Selección demanial en régimen de monopolio estatal ordinario, requiriéndose convocatoria pública rigurosa para todo el personal.",
+        "b": "Selección basada en la libre designación por el Consejo de Administración, eximiendo de convocatoria al personal de policía especial.",
+        "c": "Selección de personal sujeta a turnos de rotación sindical sectorial, con exclusión obligatoria para los cargos de carácter administrativo.",
+        "d": "Selección basada en la igualdad, mérito y capacidad, sin convocatoria pública para directivos y de confianza."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 50 consagra los principios constitucionales generales de igualdad, mérito y capacidad a través del régimen común de convocatoria pública de empleo, pero prevé expresamente que se exceptúe de este requisito de convocatoria al personal directivo y de confianza del organismo.",
+      "articulo": "50"
+    },
+    {
+      "id": "lp-t2-b4-020",
+      "enunciado": "Con arreglo al artículo 50 del Texto Refundido de la Ley de Puertos, ¿a qué demanio u organismo corresponde la competencia de elaborar directrices y procedimientos en materia de selección del personal para garantizar los principios constitucionales?",
+      "opciones": {
+        "a": "A cada una de las Autoridades Portuarias de forma demanial individualizada para sus respectivos puertos de interés general.",
+        "b": "Al correspondiente Tribunal de Cuentas, en el marco de la fiscalización del empleo de las entidades de derecho público.",
+        "c": "Al Ministerio de Fomento, previo informe vinculante del Ministerio de Política Territorial y Administraciones Públicas.",
+        "d": "Al Organismo Público Puertos del Estado."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 50 asigna al Organismo Público Puertos del Estado la elaboración homogénea de directrices y procedimientos reguladores de la selección de personal en todo el sistema estatal, asegurando la aplicación real de las pautas constitucionales de acceso.",
+      "articulo": "50"
+    }
+  ]
+}
