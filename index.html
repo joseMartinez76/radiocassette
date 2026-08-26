@@ -371,6 +371,23 @@ const CINTA_DEMO = {
   ]
 };
 
+/* ---------- sonidos ---------- */
+const SONIDOS = {
+  insert: new Audio("sounds/insert.mp3"),
+  eject: new Audio("sounds/eject.mp3"),
+  rewind: new Audio("sounds/rewind.mp3"),
+};
+Object.values(SONIDOS).forEach(a => { a.preload = "auto"; });
+
+function sonar(nombre){
+  const base = SONIDOS[nombre];
+  if (!base) return;
+  // clonar el nodo permite reproducir el mismo sonido varias veces seguidas
+  // sin esperar a que termine (p. ej. dos clics rápidos de eject)
+  const copia = base.cloneNode();
+  copia.play().catch(() => {}); // el navegador puede bloquear autoplay sin gesto; se ignora
+}
+
 /* ---------- estado ---------- */
 const estado = {
   cintas: [],
@@ -476,6 +493,7 @@ function pintarEstanteria(){
 
 /* ---------- reproducción ---------- */
 function play(cinta, listaPreguntas){
+  sonar(listaPreguntas ? "rewind" : "insert");
   estado.cinta = cinta;
   estado.rebobinando = Boolean(listaPreguntas);
   const base = listaPreguntas || cinta.preguntas;
@@ -606,9 +624,14 @@ function finalizar(){
 }
 
 /* ---------- controles ---------- */
+function eject(){
+  sonar("eject");
+  vista("estanteria");
+}
+
 $("btn-siguiente").addEventListener("click", siguiente);
-$("btn-eject").addEventListener("click", () => vista("estanteria"));
-$("btn-f-eject").addEventListener("click", () => vista("estanteria"));
+$("btn-eject").addEventListener("click", eject);
+$("btn-f-eject").addEventListener("click", eject);
 $("btn-f-repetir").addEventListener("click", () => play(estado.cinta));
 $("btn-f-rew").addEventListener("click", () => {
   if (estado.falladas.length) play(estado.cinta, estado.falladas);
