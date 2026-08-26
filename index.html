@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#141416">
+<title>RADIOCASSETTE · OPO APV</title>
+<style>
+  :root{
+    --tinta:#141416;
+    --panel:#1d1e24;
+    --panel-hueco:#101014;
+    --linea:#33343c;
+    --crema:#efe5cd;
+    --crema-borde:#d8cba9;
+    --tinta-label:#2b2620;
+    --naranja:#e8671f;
+    --texto:#e8e6df;
+    --texto-suave:#97969f;
+    --ok:#3f9e6e;
+    --mal:#d8503f;
+    --radio:10px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+  html,body{background:var(--tinta);color:var(--texto);
+    font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    min-height:100%;}
+  body{display:flex;justify-content:center;padding:14px 12px 40px;}
+  .app{width:100%;max-width:480px;}
+  button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
+  button:focus-visible,.cinta:focus-visible{outline:3px solid var(--naranja);outline-offset:2px}
+
+  /* ---------- placa superior ---------- */
+  .placa{
+    border:2px solid var(--linea);border-radius:var(--radio);
+    background:linear-gradient(180deg,#232430,#191a20);
+    padding:14px 16px 12px;margin-bottom:18px;text-align:center;
+  }
+  .placa h1{
+    font-size:1.35rem;font-weight:900;letter-spacing:.42em;text-indent:.42em;
+    color:var(--crema);
+  }
+  .placa .sub{
+    font-family:ui-monospace,"Courier New",monospace;
+    font-size:.72rem;color:var(--texto-suave);margin-top:6px;letter-spacing:.08em;
+  }
+  .placa .led{display:inline-block;width:8px;height:8px;border-radius:50%;
+    background:var(--naranja);margin-right:6px;vertical-align:1px;
+    box-shadow:0 0 6px var(--naranja);}
+
+  /* ---------- estantería ---------- */
+  .estanteria{display:flex;flex-direction:column;gap:14px}
+  .cinta{
+    position:relative;display:block;width:100%;text-align:left;
+    background:var(--crema);color:var(--tinta-label);
+    border:2px solid var(--crema-borde);border-radius:8px;
+    padding:12px 14px 14px;
+    box-shadow:0 3px 0 rgba(0,0,0,.55);
+    transition:transform .08s ease;
+  }
+  .cinta:active{transform:translateY(2px);box-shadow:0 1px 0 rgba(0,0,0,.55)}
+  .cinta .franja{
+    height:8px;border-radius:4px;margin-bottom:9px;
+    background:var(--franja,var(--naranja));
+  }
+  .cinta h2{
+    font-family:ui-monospace,"Courier New",monospace;
+    font-size:.92rem;font-weight:700;line-height:1.3;
+    text-transform:uppercase;letter-spacing:.02em;
+  }
+  .cinta .meta{
+    font-family:ui-monospace,"Courier New",monospace;
+    font-size:.7rem;margin-top:7px;color:#5a5244;letter-spacing:.03em;
+  }
+  .cinta .ventana{
+    position:absolute;right:12px;top:50%;transform:translateY(-50%);
+    width:64px;height:26px;border-radius:13px;
+    background:#3a352c;border:2px solid #24211b;
+    display:flex;align-items:center;justify-content:space-between;padding:0 5px;
+  }
+  .cinta .ventana i{width:14px;height:14px;border-radius:50%;
+    background:radial-gradient(circle at center,#efe5cd 0 30%,#111 32% 100%);}
+  .cinta.con-ventana{padding-right:92px}
+  .vacio{
+    border:2px dashed var(--linea);border-radius:var(--radio);
+    padding:26px 18px;text-align:center;color:var(--texto-suave);
+    font-family:ui-monospace,"Courier New",monospace;font-size:.8rem;line-height:1.6;
+  }
+
+  /* ---------- pletina (player) ---------- */
+  .pletina{
+    border:2px solid var(--linea);border-radius:var(--radio);
+    background:linear-gradient(180deg,#22232c,#17181d);
+    padding:14px;margin-bottom:16px;
+  }
+  .pletina .titulo-cinta{
+    font-family:ui-monospace,"Courier New",monospace;
+    font-size:.72rem;color:var(--texto-suave);letter-spacing:.05em;
+    margin-bottom:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+  }
+  .mecanismo{
+    background:var(--panel-hueco);border-radius:8px;border:1px solid #000;
+    display:flex;align-items:center;justify-content:space-between;
+    padding:12px 18px;
+  }
+  .bobina{position:relative;width:74px;height:74px;flex:none}
+  .carrete{
+    position:absolute;inset:0;margin:auto;border-radius:50%;
+    background:#3a3325;transition:width .35s ease,height .35s ease;
+  }
+  .eje{
+    position:absolute;inset:0;margin:auto;width:34px;height:34px;border-radius:50%;
+    background:
+      repeating-conic-gradient(from 0deg,#e8e6df 0deg 14deg,#55565f 14deg 60deg);
+    border:4px solid #55565f;
+    animation:girar 2.4s linear infinite;
+  }
+  .pausado .eje{animation-play-state:paused}
+  @keyframes girar{to{transform:rotate(360deg)}}
+  @media (prefers-reduced-motion: reduce){.eje{animation:none}}
+  .contador{
+    font-family:ui-monospace,"Courier New",monospace;
+    background:#0a0a0c;border:1px solid #000;border-radius:6px;
+    color:var(--naranja);font-size:1.05rem;font-weight:700;
+    padding:7px 10px;letter-spacing:.12em;text-shadow:0 0 8px rgba(232,103,31,.6);
+  }
+  .marcadores{
+    display:flex;justify-content:space-between;margin-top:10px;
+    font-family:ui-monospace,"Courier New",monospace;font-size:.72rem;
+    color:var(--texto-suave);letter-spacing:.05em;
+  }
+  .marcadores .ok{color:var(--ok)} .marcadores .mal{color:var(--mal)}
+
+  /* ---------- pregunta ---------- */
+  .tarjeta{
+    background:var(--panel);border:2px solid var(--linea);border-radius:var(--radio);
+    padding:16px;
+  }
+  .tarjeta .art{
+    font-family:ui-monospace,"Courier New",monospace;font-size:.7rem;
+    color:var(--naranja);letter-spacing:.08em;margin-bottom:8px;
+  }
+  .enunciado{font-size:1.02rem;line-height:1.45;font-weight:600;margin-bottom:14px}
+  .opciones{display:flex;flex-direction:column;gap:9px}
+  .opcion{
+    display:flex;gap:11px;align-items:flex-start;width:100%;text-align:left;
+    background:#26272f;border:2px solid var(--linea);border-radius:8px;
+    padding:11px 12px;font-size:.94rem;line-height:1.4;color:var(--texto);
+    transition:border-color .12s ease;
+  }
+  .opcion .letra{
+    font-family:ui-monospace,"Courier New",monospace;font-weight:700;
+    color:var(--texto-suave);flex:none;
+  }
+  .opcion:not(:disabled):active{border-color:var(--naranja)}
+  .opcion.correcta{border-color:var(--ok);background:rgba(63,158,110,.14)}
+  .opcion.correcta .letra{color:var(--ok)}
+  .opcion.fallada{border-color:var(--mal);background:rgba(216,80,63,.14)}
+  .opcion.fallada .letra{color:var(--mal)}
+  .opcion:disabled{cursor:default}
+
+  .feedback{
+    margin-top:13px;border-radius:8px;padding:12px 13px;
+    font-size:.88rem;line-height:1.5;display:none;
+  }
+  .feedback.visible{display:block}
+  .feedback.bien{background:rgba(63,158,110,.12);border:1px solid var(--ok)}
+  .feedback.mal{background:rgba(216,80,63,.12);border:1px solid var(--mal)}
+  .feedback .veredicto{
+    font-family:ui-monospace,"Courier New",monospace;font-weight:700;
+    letter-spacing:.06em;margin-bottom:5px;
+  }
+
+  /* ---------- botonera ---------- */
+  .botonera{display:flex;gap:10px;margin-top:14px}
+  .tecla{
+    flex:1;background:linear-gradient(180deg,#2c2d37,#1c1d24);
+    border:2px solid var(--linea);border-radius:8px;
+    padding:13px 8px;font-weight:700;font-size:.86rem;letter-spacing:.06em;
+    color:var(--texto);box-shadow:0 3px 0 rgba(0,0,0,.5);
+  }
+  .tecla:active{transform:translateY(2px);box-shadow:0 1px 0 rgba(0,0,0,.5)}
+  .tecla.principal{color:var(--naranja);border-color:var(--naranja)}
+  .tecla:disabled{opacity:.35;cursor:default;transform:none}
+  .tecla .sim{font-family:ui-monospace,"Courier New",monospace}
+
+  /* ---------- final ---------- */
+  .final{
+    background:var(--panel);border:2px solid var(--linea);border-radius:var(--radio);
+    padding:22px 18px;text-align:center;
+  }
+  .final .fin-titulo{
+    font-family:ui-monospace,"Courier New",monospace;letter-spacing:.2em;
+    color:var(--texto-suave);font-size:.75rem;margin-bottom:12px;
+  }
+  .final .nota{font-size:2.4rem;font-weight:900;color:var(--crema)}
+  .final .detalle{
+    font-family:ui-monospace,"Courier New",monospace;font-size:.8rem;
+    color:var(--texto-suave);margin-top:8px;line-height:1.7;
+  }
+  .final .detalle .ok{color:var(--ok)} .final .detalle .mal{color:var(--mal)}
+  .oculto{display:none !important}
+</style>
+</head>
+<body>
+<div class="app">
+
+  <header class="placa">
+    <h1>RADIOCASSETTE</h1>
+    <div class="sub"><span class="led"></span><span id="sub-texto">OPO · APV — elige una cinta y dale al play</span></div>
+  </header>
+
+  <!-- ESTANTERÍA -->
+  <main id="vista-estanteria" class="estanteria" aria-label="Estantería de cintas"></main>
+
+  <!-- PLETINA -->
+  <main id="vista-player" class="oculto">
+    <section class="pletina">
+      <div class="titulo-cinta" id="p-titulo">—</div>
+      <div class="mecanismo" id="mecanismo">
+        <div class="bobina">
+          <div class="carrete" id="carrete-izq"></div>
+          <div class="eje"></div>
+        </div>
+        <div class="contador" id="contador">00/00</div>
+        <div class="bobina">
+          <div class="carrete" id="carrete-der"></div>
+          <div class="eje"></div>
+        </div>
+      </div>
+      <div class="marcadores">
+        <span class="ok" id="m-aciertos">✔ 0</span>
+        <span id="m-racha">racha 0</span>
+        <span class="mal" id="m-fallos">✘ 0</span>
+      </div>
+    </section>
+
+    <section class="tarjeta">
+      <div class="art" id="p-art"></div>
+      <p class="enunciado" id="p-enunciado"></p>
+      <div class="opciones" id="p-opciones"></div>
+      <div class="feedback" id="p-feedback" role="status">
+        <div class="veredicto" id="p-veredicto"></div>
+        <div id="p-explicacion"></div>
+      </div>
+    </section>
+
+    <div class="botonera">
+      <button class="tecla sim" id="btn-eject" type="button">⏏ EJECT</button>
+      <button class="tecla principal sim" id="btn-siguiente" type="button" disabled>PLAY ▶</button>
+    </div>
+  </main>
+
+  <!-- FINAL -->
+  <main id="vista-final" class="oculto">
+    <section class="final">
+      <div class="fin-titulo">FIN DE LA CARA A</div>
+      <div class="nota" id="f-nota">0%</div>
+      <div class="detalle" id="f-detalle"></div>
+    </section>
+    <div class="botonera">
+      <button class="tecla sim" id="btn-f-eject" type="button">⏏ EJECT</button>
+      <button class="tecla sim" id="btn-f-repetir" type="button">▶ OTRA VEZ</button>
+      <button class="tecla principal sim" id="btn-f-rew" type="button">◀◀ REW</button>
+    </div>
+  </main>
+
+</div>
+
+<script>
+"use strict";
+
+/* ============================================================
+   RADIOCASSETTE · player de cintas JSON (tipo "test")
+   Repo: index.html + cassettes/index.json + cassettes/*.json
+   ============================================================ */
+
+const FRANJAS = ["#e8671f","#e3b31c","#3f9e6e","#3f7fb5","#8a5fc9","#d8503f"];
+
+/* Cinta de demostración: se carga solo si no se puede leer
+   cassettes/index.json (p. ej. al abrir el archivo en local). */
+const CINTA_DEMO = {
+  cassette: {
+    id: "demo-tema01-test-v1",
+    tipo: "test",
+    titulo: "CINTA DEMO — Tema 1: Sistema portuario",
+    normativa: "RDL 2/2011",
+    tema: 1,
+    fecha: "2026-08-25",
+    num_preguntas: 6
+  },
+  preguntas: [
+    {
+      id: "demo-t1-001",
+      enunciado: "Según el artículo 2, un puerto marítimo es el conjunto de:",
+      opciones: {
+        a: "Espacios terrestres, aguas marítimas e instalaciones",
+        b: "Muelles, diques y zonas de fondeo",
+        c: "Espacios terrestres y aguas interiores",
+        d: "Instalaciones portuarias y vías de acceso"
+      },
+      correcta: "a",
+      explicacion: "El art. 2 define el puerto marítimo como el conjunto de espacios terrestres, aguas marítimas e instalaciones que reúna las condiciones que señala la ley.",
+      articulo: "2"
+    },
+    {
+      id: "demo-t1-002",
+      enunciado: "Atendiendo a su clasificación, los puertos pueden ser:",
+      opciones: {
+        a: "Estatales y autonómicos",
+        b: "Comerciales y no comerciales",
+        c: "De interés general y deportivos",
+        d: "Industriales y pesqueros"
+      },
+      correcta: "b",
+      explicacion: "El art. 3 clasifica los puertos en comerciales y no comerciales, según desarrollen o no actividades comerciales portuarias.",
+      articulo: "3"
+    },
+    {
+      id: "demo-t1-003",
+      enunciado: "Los puertos de interés general figuran relacionados en:",
+      opciones: {
+        a: "El Anexo I de la ley",
+        b: "El Anexo VII de la ley",
+        c: "Una orden ministerial anual",
+        d: "El Reglamento de cada puerto"
+      },
+      correcta: "a",
+      explicacion: "El art. 4 remite al Anexo I, donde figuran relacionados los puertos calificados de interés general.",
+      articulo: "4"
+    },
+    {
+      id: "demo-t1-004",
+      enunciado: "La competencia sobre los puertos de interés general corresponde a:",
+      opciones: {
+        a: "La comunidad autónoma del litoral",
+        b: "El municipio donde radica el puerto",
+        c: "La Administración General del Estado",
+        d: "La Unión Europea"
+      },
+      correcta: "c",
+      explicacion: "Los puertos de interés general son competencia exclusiva de la Administración General del Estado (art. 149.1.20.ª CE y art. 4 del RDL 2/2011).",
+      articulo: "4"
+    },
+    {
+      id: "demo-t1-005",
+      enunciado: "Puertos del Estado es:",
+      opciones: {
+        a: "Una dirección general del Ministerio",
+        b: "Un organismo público con personalidad jurídica y patrimonio propios",
+        c: "Una sociedad mercantil estatal",
+        d: "Un órgano consultivo de las Autoridades Portuarias"
+      },
+      correcta: "b",
+      explicacion: "El art. 16 configura Puertos del Estado como organismo público con personalidad jurídica y patrimonio propios, adscrito al Ministerio competente.",
+      articulo: "16"
+    },
+    {
+      id: "demo-t1-006",
+      enunciado: "Las Autoridades Portuarias son:",
+      opciones: {
+        a: "Órganos desconcentrados de Puertos del Estado",
+        b: "Entidades locales de ámbito portuario",
+        c: "Organismos públicos con personalidad jurídica y patrimonio propios",
+        d: "Consorcios entre el Estado y la comunidad autónoma"
+      },
+      correcta: "c",
+      explicacion: "El art. 24 configura las Autoridades Portuarias como organismos públicos con personalidad jurídica y patrimonio propios e independientes de los del Estado.",
+      articulo: "24"
+    }
+  ]
+};
+
+/* ---------- estado ---------- */
+const estado = {
+  cintas: [],
+  cinta: null,          // cassette en reproducción
+  preguntas: [],        // barajadas para esta sesión
+  idx: 0,
+  aciertos: 0,
+  fallos: 0,
+  racha: 0,
+  falladas: [],         // preguntas falladas (objetos) en esta pasada
+  respondida: false,
+  rebobinando: false
+};
+
+/* ---------- utilidades ---------- */
+const $ = id => document.getElementById(id);
+
+function barajar(arr){
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--){
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+/* Baraja las opciones de una pregunta y recalcula la letra correcta */
+function barajarOpciones(p){
+  const entradas = barajar(Object.entries(p.opciones));
+  const letras = ["a","b","c","d","e","f"].slice(0, entradas.length);
+  const opciones = {};
+  let correcta = "a";
+  entradas.forEach(([letraOriginal, texto], i) => {
+    opciones[letras[i]] = texto;
+    if (letraOriginal === p.correcta) correcta = letras[i];
+  });
+  return Object.assign({}, p, { opciones, correcta });
+}
+
+function vista(nombre){
+  ["estanteria","player","final"].forEach(v =>
+    $("vista-" + v).classList.toggle("oculto", v !== nombre));
+}
+
+/* ---------- carga de cintas ---------- */
+async function cargarCintas(){
+  try{
+    const res = await fetch("cassettes/index.json", {cache:"no-store"});
+    if (!res.ok) throw new Error("sin index.json");
+    const indice = await res.json();
+    const rutas = indice.cintas || [];
+    const cargas = await Promise.allSettled(
+      rutas.map(f => fetch("cassettes/" + f, {cache:"no-store"}).then(r => {
+        if (!r.ok) throw new Error(f);
+        return r.json();
+      }))
+    );
+    estado.cintas = cargas
+      .filter(c => c.status === "fulfilled")
+      .map(c => c.value)
+      .filter(c => c && c.cassette && Array.isArray(c.preguntas)
+                && (c.cassette.tipo || "test") === "test");
+    if (!estado.cintas.length) throw new Error("estantería vacía");
+  }catch(_e){
+    estado.cintas = [CINTA_DEMO];
+    $("sub-texto").textContent = "MODO DEMO — sube tus cintas a /cassettes";
+  }
+  pintarEstanteria();
+}
+
+function pintarEstanteria(){
+  const cont = $("vista-estanteria");
+  cont.innerHTML = "";
+  if (!estado.cintas.length){
+    const v = document.createElement("div");
+    v.className = "vacio";
+    v.textContent = "No hay cintas en la estantería. Sube tus .json a /cassettes y añádelos a index.json.";
+    cont.appendChild(v);
+    return;
+  }
+  estado.cintas.forEach(cinta => {
+    const c = cinta.cassette;
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "cinta con-ventana";
+    const color = FRANJAS[((c.tema || 1) - 1 + FRANJAS.length) % FRANJAS.length];
+    btn.style.setProperty("--franja", color);
+    const n = cinta.preguntas.length;
+    btn.innerHTML =
+      '<div class="franja"></div>' +
+      "<h2></h2>" +
+      '<div class="meta"></div>' +
+      '<div class="ventana" aria-hidden="true"><i></i><i></i></div>';
+    btn.querySelector("h2").textContent = c.titulo || c.id || "Cinta sin título";
+    btn.querySelector(".meta").textContent =
+      n + " preguntas" +
+      (c.normativa ? " · " + c.normativa : "") +
+      (c.fecha ? " · " + c.fecha : "");
+    btn.addEventListener("click", () => play(cinta));
+    cont.appendChild(btn);
+  });
+}
+
+/* ---------- reproducción ---------- */
+function play(cinta, listaPreguntas){
+  estado.cinta = cinta;
+  estado.rebobinando = Boolean(listaPreguntas);
+  const base = listaPreguntas || cinta.preguntas;
+  estado.preguntas = barajar(base).map(barajarOpciones);
+  estado.idx = 0;
+  estado.aciertos = 0;
+  estado.fallos = 0;
+  estado.racha = 0;
+  estado.falladas = [];
+  $("p-titulo").textContent =
+    (estado.rebobinando ? "◀◀ REW · " : "▶ ") + (cinta.cassette.titulo || cinta.cassette.id);
+  vista("player");
+  pintarPregunta();
+}
+
+function pintarPregunta(){
+  const p = estado.preguntas[estado.idx];
+  estado.respondida = false;
+
+  $("contador").textContent =
+    String(estado.idx + 1).padStart(2,"0") + "/" +
+    String(estado.preguntas.length).padStart(2,"0");
+  actualizarBobinas();
+  actualizarMarcadores();
+
+  $("p-art").textContent = p.articulo
+    ? "ART. " + p.articulo + (estado.cinta.cassette.normativa ? " · " + estado.cinta.cassette.normativa : "")
+    : (estado.cinta.cassette.normativa || "");
+  $("p-enunciado").textContent = p.enunciado;
+
+  const cont = $("p-opciones");
+  cont.innerHTML = "";
+  Object.entries(p.opciones).forEach(([letra, texto]) => {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "opcion";
+    btn.dataset.letra = letra;
+    const l = document.createElement("span");
+    l.className = "letra";
+    l.textContent = letra.toUpperCase() + ")";
+    const t = document.createElement("span");
+    t.textContent = texto;
+    btn.append(l, t);
+    btn.addEventListener("click", () => responder(letra));
+    cont.appendChild(btn);
+  });
+
+  const fb = $("p-feedback");
+  fb.className = "feedback";
+  $("btn-siguiente").disabled = true;
+  $("btn-siguiente").textContent =
+    (estado.idx + 1 === estado.preguntas.length) ? "STOP ■" : "PLAY ▶";
+  $("mecanismo").classList.remove("pausado");
+}
+
+function responder(letra){
+  if (estado.respondida) return;
+  estado.respondida = true;
+  const p = estado.preguntas[estado.idx];
+  const acierto = letra === p.correcta;
+
+  document.querySelectorAll("#p-opciones .opcion").forEach(btn => {
+    btn.disabled = true;
+    if (btn.dataset.letra === p.correcta) btn.classList.add("correcta");
+    else if (btn.dataset.letra === letra) btn.classList.add("fallada");
+  });
+
+  if (acierto){
+    estado.aciertos++;
+    estado.racha++;
+  } else {
+    estado.fallos++;
+    estado.racha = 0;
+    estado.falladas.push(p);
+  }
+  actualizarMarcadores();
+
+  const fb = $("p-feedback");
+  fb.classList.add("visible", acierto ? "bien" : "mal");
+  $("p-veredicto").textContent = acierto ? "CORRECTA" : "FALLADA — era la " + p.correcta.toUpperCase() + ")";
+  $("p-explicacion").textContent = p.explicacion || "";
+
+  $("mecanismo").classList.add("pausado");
+  $("btn-siguiente").disabled = false;
+  $("btn-siguiente").focus();
+}
+
+function siguiente(){
+  if (!estado.respondida) return;
+  if (estado.idx + 1 >= estado.preguntas.length){ finalizar(); return; }
+  estado.idx++;
+  pintarPregunta();
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function actualizarBobinas(){
+  const total = Math.max(estado.preguntas.length, 1);
+  const avance = estado.idx / total;               // 0 → 1
+  const min = 34, max = 66;                        // px de carrete
+  const izq = Math.round(max - (max - min) * avance);
+  const der = Math.round(min + (max - min) * avance);
+  const ci = $("carrete-izq"), cd = $("carrete-der");
+  ci.style.width = ci.style.height = izq + "px";
+  cd.style.width = cd.style.height = der + "px";
+}
+
+function actualizarMarcadores(){
+  $("m-aciertos").textContent = "✔ " + estado.aciertos;
+  $("m-fallos").textContent = "✘ " + estado.fallos;
+  $("m-racha").textContent = "racha " + estado.racha;
+}
+
+/* ---------- final ---------- */
+function finalizar(){
+  const total = estado.preguntas.length;
+  const pct = total ? Math.round(100 * estado.aciertos / total) : 0;
+  $("f-nota").textContent = pct + "%";
+  $("f-detalle").innerHTML =
+    '<span class="ok">✔ ' + estado.aciertos + " aciertos</span><br>" +
+    '<span class="mal">✘ ' + estado.fallos + " fallos</span><br>" +
+    total + " preguntas · " + (estado.cinta.cassette.titulo || "");
+  const rew = $("btn-f-rew");
+  rew.disabled = !estado.falladas.length;
+  rew.textContent = estado.falladas.length
+    ? "◀◀ REW (" + estado.falladas.length + ")"
+    : "◀◀ REW";
+  vista("final");
+}
+
+/* ---------- controles ---------- */
+$("btn-siguiente").addEventListener("click", siguiente);
+$("btn-eject").addEventListener("click", () => vista("estanteria"));
+$("btn-f-eject").addEventListener("click", () => vista("estanteria"));
+$("btn-f-repetir").addEventListener("click", () => play(estado.cinta));
+$("btn-f-rew").addEventListener("click", () => {
+  if (estado.falladas.length) play(estado.cinta, estado.falladas);
+});
+
+cargarCintas();
+</script>
+</body>
+</html>
