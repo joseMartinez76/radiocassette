@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t2-b1-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 2, bloque 1 (arts. 11-20)",
+    "normativa": "RDL 2/2011",
+    "tema": 2,
+    "rango": "11-20",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t2-b1-001",
+      "enunciado": "Conforme al artículo 11.1 del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, ¿cuál es la delimitación competencia del Estado en relación con la organización portuaria civil?",
+      "opciones": {
+        "a": "La competencia concurrente entre el Estado y las Comunidades Autónomas según el artículo 149.1.20.",
+        "b": "La competencia exclusiva de las Comunidades Autónomas en cuyos territorios se sitúen las zonas de servicio.",
+        "c": "La competencia municipal delegada sobre el demanio terrestre y marítimo de las entidades locales.",
+        "d": "La competencia exclusiva sobre los puertos de interés general, clasificados conforme a esta ley."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 11.1 asigna en exclusiva al Estado la competencia sobre los puertos calificados de interés general. Las opciones sobre competencias compartidas, locales o autonómicas contradicen esta regla constitucional y legal.",
+      "articulo": "11"
+    },
+    {
+      "id": "lp-t2-b1-002",
+      "enunciado": "¿Qué función atribuye de manera expresa el artículo 11.2 de la ley a las Comunidades Autónomas en relación con la administración portuaria estatal?",
+      "opciones": {
+        "a": "La designación de los órganos de gobierno de las correspondientes Autoridades Portuarias.",
+        "b": "La aprobación del Plan de Empresa anual de cada uno de los recintos portuarios estatales.",
+        "c": "La gestión y recaudación de las tasas por la utilización del dominio público marítimo-terrestre.",
+        "d": "El control financiero y de estabilidad presupuestaria de Puertos del Estado de forma periódica."
+      },
+      "correcta": "a",
+      "explicacion": "De acuerdo con el artículo 11.2, corresponde a las Comunidades Autónomas designar a los órganos de gobierno de las Autoridades Portuarias, mientras que las otras funciones (aprobación de planes de empresa o presupuestos de Puertos del Estado) corresponden a órganos del Estado.",
+      "articulo": "11"
+    },
+    {
+      "id": "lp-t2-b1-003",
+      "enunciado": "De acuerdo con lo establecido en el artículo 12, ¿de qué manera ejerce el Ministerio de Fomento las competencias que corresponden a la Administración General del Estado en los puertos e instalaciones civiles?",
+      "opciones": {
+        "a": "Mediante la delegación de demanial de funciones inspectoras en las Comunidades Autónomas.",
+        "b": "A través del sistema portuario integrado por Puertos del Estado y las Autoridades Portuarias.",
+        "c": "A través de las Capitanías Marítimas y los correspondientes servicios de policía portuaria autonómica.",
+        "d": "Mediante la encomienda de gestión ordinaria a los Ayuntamientos donde radiquen las zonas de servicio."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 12 establece de forma expresa que Fomento ejercerá las competencias a través del sistema portuario estatal compuesto por Puertos del Estado y las Autoridades Portuarias, descartando delegaciones generales o encomiendas en favor de entes locales o autonómicos.",
+      "articulo": "12"
+    },
+    {
+      "id": "lp-t2-b1-004",
+      "enunciado": "Según el artículo 12, ¿cuáles son los organismos o entidades públicas que integran de forma exclusiva el sistema portuario de titularidad estatal?",
+      "opciones": {
+        "a": "La Dirección General de la Marina Mercante y la Sociedad de Salvamento y Seguridad Marítima.",
+        "b": "Los Consorcios Portuarios de Interés General y las corporaciones locales de las ciudades costeras.",
+        "c": "Puertos del Estado y las correspondientes Autoridades Portuarias.",
+        "d": "La Agencia Estatal de Puertos Civiles y las respectivas Comisiones de Faros de ámbito autonómico."
+      },
+      "correcta": "c",
+      "explicacion": "Según el artículo 12, el sistema portuario estatal de carácter civil está integrado única y exclusivamente por Puertos del Estado y las Autoridades Portuarias. Los otros entes mencionados pertenecen al sector de Marina Mercante o a otros ámbitos.",
+      "articulo": "12"
+    },
+    {
+      "id": "lp-t2-b1-005",
+      "enunciado": "De acuerdo con la distribución básica de funciones que realiza el artículo 13, ¿cuál de las siguientes opciones describe correctamente las competencias de cada organismo?",
+      "opciones": {
+        "a": "Las Autoridades Portuarias gestionan los puertos con autonomía y Puertos del Estado realiza la coordinación.",
+        "b": "Puertos del Estado realiza la gestión patrimonial directa y las Autoridades Portuarias supervisan los fletes.",
+        "c": "El Ministerio de Fomento asume la explotación comercial y Puertos del Estado regula las tasas ordinarias.",
+        "d": "Las Autoridades Portuarias coordinan el transporte terrestre y las Comunidades Autónomas vigilan la rentabilidad."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 13 distribuye las funciones otorgando la gestión de cada puerto con autonomía a su respectiva Autoridad Portuaria, y reservando la coordinación y el control de eficiencia a Puertos del Estado. Las otras opciones invierten o desvirtúan estas competencias.",
+      "articulo": "13"
+    },
+    {
+      "id": "lp-t2-b1-006",
+      "enunciado": "Con arreglo al artículo 13, ¿en qué régimen específico corresponde a las Autoridades Portuarias la gestión de los puertos de su competencia?",
+      "opciones": {
+        "a": "En régimen de desconcentración.",
+        "b": "En régimen de delegación demanial.",
+        "c": "En régimen de tutela administrativa.",
+        "d": "En régimen de autonomía."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 13 establece textualmente que las Autoridades Portuarias gestionarán los puertos de su competencia bajo un régimen de autonomía, rechazando figuras de mera delegación o jerarquía administrativa rígida.",
+      "articulo": "13"
+    },
+    {
+      "id": "lp-t2-b1-007",
+      "enunciado": "De conformidad con el artículo 14.1, ¿cuál es el régimen jurídico aplicable a los puertos, bases e instalaciones navales de carácter militar?",
+      "opciones": {
+        "a": "Se integran de forma automática bajo la gestión de la Autoridad Portuaria de ubicación.",
+        "b": "Quedan fuera del ámbito de esta ley, ejerciéndose las competencias por el Ministerio de Defensa.",
+        "c": "Quedan sometidas de forma parcial a esta ley, rigiéndose por el Reglamento de Explotación civil común.",
+        "d": "Se consideran zonas comunes demaniales afectadas de pleno derecho a los transportes de Fomento."
+      },
+      "correcta": "b",
+      "explicacion": "Conforme al artículo 14.1, los puertos y zonas militares quedan fuera del ámbito de la Ley de Puertos, siendo competencia del Ministerio de Defensa. Por lo tanto, no se integran bajo la gestión de las autoridades civiles ni tributan por sus tasas.",
+      "articulo": "14"
+    },
+    {
+      "id": "lp-t2-b1-008",
+      "enunciado": "Según el artículo 14.2, ¿qué ministerio ejerce las facultades y competencias correspondientes a las zonas e instalaciones de interés para la defensa nacional?",
+      "opciones": {
+        "a": "El Ministerio de Defensa.",
+        "b": "El Ministerio del Interior.",
+        "c": "El Ministerio de Fomento.",
+        "d": "El Ministerio de la Presidencia."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 14 de forma expresa reserva estas zonas afectadas a la defensa nacional a la Administración General del Estado, siendo ejercidas las competencias directamente por el Ministerio de Defensa.",
+      "articulo": "14"
+    },
+    {
+      "id": "lp-t2-b1-009",
+      "enunciado": "De acuerdo con el artículo 15, ¿para qué fines específicos puede la Administración General del Estado reservarse espacios de dominio público marítimo-terrestre?",
+      "opciones": {
+        "a": "De la Sociedad de Salvamento y Seguridad Marítima.",
+        "b": "De la Dirección General de la Marina Mercante.",
+        "c": "De la Guardia Civil.",
+        "d": "Del Cuerpo de Policía Portuaria de cada puerto."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 15 prevé la posibilidad de reservar espacios públicos destinados a las instalaciones navales y zonas precisas para los fines que tiene encomendados la Guardia Civil. Las otras alternativas proponen convenios comerciales o aportaciones de fondos ajenos a este demanio.",
+      "articulo": "15"
+    },
+    {
+      "id": "lp-t2-b1-010",
+      "enunciado": "Con arreglo al artículo 15, ¿cuál es el régimen de sujeción legal aplicable a los espacios demaniales expresamente reservados para las instalaciones de la Guardia Civil?",
+      "opciones": {
+        "a": "Estarán sujetos a la ley exclusivamente a efectos de recaudación de las tasas.",
+        "b": "Quedarán excluidas del ámbito de aplicación de esta ley.",
+        "c": "Se integrarán de forma transitoria en el régimen demanial ordinario del puerto.",
+        "d": "Requerirán la previa declaración de interés general por el Consejo Rector de PE."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 15 estipula que las zonas que la AGE se reserve para la Guardia Civil quedarán excluidas del ámbito de aplicación de esta ley, impidiendo que queden sujetas a demanio común portuario o planeamientos municipales.",
+      "articulo": "15"
+    },
+    {
+      "id": "lp-t2-b1-011",
+      "enunciado": "De conformidad con el artículo 16.1 del Texto Refundido, ¿cómo queda clasificada la naturaleza jurídica y régimen del Organismo Público Puertos del Estado?",
+      "opciones": {
+        "a": "Es una entidad de las previstas en el artículo 2.1.g) de la Ley General Presupuestaria.",
+        "b": "Es un organismo autónomo de carácter comercial adscrito a la Secretaría de Estado de Hacienda.",
+        "c": "Es una entidad pública empresarial sujeta plenamente a la Ley de Contratos del Sector Público.",
+        "d": "Es una sociedad de responsabilidad limitada con capital suscrito íntegramente por Puertos del Estado."
+      },
+      "correcta": "a",
+      "explicacion": "Según el artículo 16.1, Puertos del Estado tiene la naturaleza jurídica específica de entidad de la letra g) del art. 2.1 de la Ley General Presupuestaria, lo que la distingue de los organismos autónomos o sociedades mercantiles ordinarias.",
+      "articulo": "16"
+    },
+    {
+      "id": "lp-t2-b1-012",
+      "enunciado": "Según lo dispuesto en el artículo 16.3, ¿cuál es el régimen aplicable a los actos dictados por Puertos del Estado en ejercicio de sus funciones públicas?",
+      "opciones": {
+        "a": "No agotan la vía administrativa, siendo recurribles en alzada ante el Ministro de Fomento en el plazo de un mes.",
+        "b": "Agotan la vía administrativa en todo caso, debiendo interponerse recurso de reposición ante el Consejo Rector.",
+        "c": "Agotan la vía administrativa, excepto en materia tributaria, donde serán recurribles en vía económico-administrativa.",
+        "d": "Son directamente recurribles ante la jurisdicción contencioso-administrativa, sin posibilidad de recurso en vía aduanera."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 16.3 determina de forma expresa que los actos públicos dictados por Puertos del Estado agotan la vía administrativa, a excepción de las reclamaciones de naturaleza tributaria, que deben ventilarse obligatoriamente en la vía económico-administrativa.",
+      "articulo": "16"
+    },
+    {
+      "id": "lp-t2-b1-013",
+      "enunciado": "De acuerdo con el artículo 17, ¿cuál de las siguientes materias constituye una competencia atribuida directamente a Puertos del Estado bajo la supervisión de Fomento?",
+      "opciones": {
+        "a": "La adjudicación directa de licencias de practicaje.",
+        "b": "La liquidación y cobro de las tarifas comerciales prestadas por las Autoridades Portuarias.",
+        "c": "La planificación, coordinación y control del sistema de señalización marítima.",
+        "d": "El otorgamiento de las concesiones demaniales para instalaciones comerciales."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 17 asigna a Puertos del Estado competencias generales de supervisión, incluyendo expresamente la planificación y control de la señalización marítima española. El otorgamiento de licencias o de concesiones ordinarias es función de las Autoridades Portuarias.",
+      "articulo": "17"
+    },
+    {
+      "id": "lp-t2-b1-014",
+      "enunciado": "Con arreglo al artículo 18.1.f), ¿con qué ministerio de la Administración General del Estado debe colaborar Puertos del Estado en las actuaciones en materia de seguridad?",
+      "opciones": {
+        "a": "Con el Ministerio de Defensa.",
+        "b": "Con el Ministerio de Trabajo e Inmigración.",
+        "c": "Con el Ministerio de Sanidad y Política Social.",
+        "d": "Con el Ministerio del Interior."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 18.1.f) determina que en el ámbito de la seguridad, Puertos del Estado debe coordinar y colaborar de forma prioritaria con el Ministerio del Interior, y en su caso con las CCAA competentes, descartando el monopolio de Defensa o las Capitanías.",
+      "articulo": "17"
+    },
+    {
+      "id": "lp-t2-b1-015",
+      "enunciado": "Según el artículo 18.1.e), ¿sobre qué proyectos de obras de las Autoridades Portuarias tiene Puertos del Estado la función de emitir informe vinculante con carácter previo a su aprobación?",
+      "opciones": {
+        "a": "Aquéllos cuyo presupuesto exceda de 3.000.000 de euros o cuenten con financiación internacional.",
+        "b": "Cualquier proyecto de obra cuyo presupuesto supere los diez millones de euros.",
+        "c": "Únicamente sobre los proyectos de construcción financiados por fondos estructurales europeos.",
+        "d": "Cualquier obra de primer establecimiento realizada fuera del dominio público terrestre portuario."
+      },
+      "correcta": "a",
+      "explicacion": "Según el artículo 18.1.e), Puertos del Estado ejerce un control técnico de proyectos singulares emitiendo informe vinculante cuando el presupuesto supere los 3 millones de euros o intervengan fondos internacionales, descartando umbrales alternativos.",
+      "articulo": "18"
+    },
+    {
+      "id": "lp-t2-b1-016",
+      "enunciado": "De acuerdo con el artículo 18.1.k), ¿a qué órgano corresponde la aprobación del Reglamento de Explotación y Policía de los puertos, elaborado por Puertos del Estado?",
+      "opciones": {
+        "a": "Puertos del Estado.",
+        "b": "El Gobierno mediante Real Decreto.",
+        "c": "El Ministerio de Fomento.",
+        "d": "El Consejo de Administración de cada Autoridad Portuaria."
+      },
+      "correcta": "c",
+      "explicacion": "De acuerdo con el artículo 18.1.k), el Ministerio de Fomento ostenta la competencia exclusiva para aprobar definitivamente el Reglamento de Explotación y Policía, actuando a propuesta de Puertos del Estado.",
+      "articulo": "18"
+    },
+    {
+      "id": "lp-t2-b1-017",
+      "enunciado": "Con arreglo al artículo 19.1.b), ¿cuál es el porcentaje de ingresos devengados por las Autoridades Portuarias en concepto de tasas que integrará los recursos económicos de Puertos del Estado?",
+      "opciones": {
+        "a": "El cinco por ciento de forma general, reduciéndose al tres por ciento para los puertos insulares o de interés estratégico.",
+        "b": "El tres por ciento de forma general, reduciéndose al uno por ciento en puertos canarios y de las islas Baleares.",
+        "c": "El cuatro por ciento de forma general, y el dos por ciento para Baleares, Canarias, Ceuta, Melilla y Sevilla.",
+        "d": "El seis por ciento de forma general, sin admitir reducciones especiales en atención a las características de insularidad."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 19.1.b) fija la aportación ordinaria que las APs transfieren a PE en un 4% con carácter general, estableciendo un tipo reducido especial del 2% para los archipiélagos (Baleares y Canarias) y las ciudades autónomas de Ceuta y Melilla, además de Sevilla.",
+      "articulo": "19"
+    },
+    {
+      "id": "lp-t2-b1-018",
+      "enunciado": "De conformidad con el artículo 19.1.b), ¿cómo se considerará a efectos contables la aportación del porcentaje de tasas de las Autoridades Portuarias a Puertos del Estado y con qué frecuencia se liquidará?",
+      "opciones": {
+        "a": "Se califica como transferencia de capital consolidada y se liquida anualmente al cierre del ejercicio económico.",
+        "b": "Se considera gasto de explotación para las Autoridades Portuarias y se liquida trimestralmente.",
+        "c": "Constituye un dividendo ordinario de los recursos y se distribuye según determine Puertos del Estado.",
+        "d": "Se contabiliza como un gasto financiero no deducible y se abona mensualmente a favor de la Agencia Tributaria."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 19.1.b) detalla que este porcentaje de aportación del 4% (o 2% en su caso) se computa contablemente como un gasto de explotación de la Autoridad Portuaria de procedencia y se abona trimestralmente.",
+      "articulo": "19"
+    },
+    {
+      "id": "lp-t2-b1-019",
+      "enunciado": "Según el artículo 20 de la ley, ¿cuáles son los únicos órganos de gobierno y administración que ostentan la condición de órganos rectores de Puertos del Estado?",
+      "opciones": {
+        "a": "El Consejo de Administración y el Director General.",
+        "b": "El Consejo Rector y el Presidente.",
+        "c": "El Presidente, el Director y el Consejo Consultivo.",
+        "d": "El Comité de Distribución y el Secretario General."
+      },
+      "correcta": "b",
+      "explicacion": "Según el artículo 20, los únicos órganos rectores de Puertos del Estado son el Consejo Rector y el Presidente, descartando el resto de combinaciones con figuras como directores generales o consejos consultivos.",
+      "articulo": "20"
+    },
+    {
+      "id": "lp-t2-b1-020",
+      "enunciado": "De acuerdo con el artículo 21.5, ¿cuál es el quórum de asistencia necesario para la válida constitución en reunión del Consejo Rector del Organismo Público?",
+      "opciones": {
+        "a": "La asistencia de la totalidad de los vocales demaniales representados y el Abogado del Estado.",
+        "b": "La concurrencia de la mayoría absoluta de los vocales designados, requiriéndose la presencia de Fomento.",
+        "c": "La concurrencia del Presidente y el Secretario, y la mitad al menos de los miembros presentes o representados.",
+        "d": "La asistencia obligatoria de al menos dos tercios de los consejeros, requiriéndose el dictamen favorable del Consejo Consultivo."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 21.5 exige para la válida constitución del Consejo Rector de Puertos del Estado la concurrencia obligatoria de su Presidente y Secretario, además del quórum mínimo de la mitad de sus miembros, ya sea de forma presencial o representados.",
+      "articulo": "20"
+    }
+  ]
+}
