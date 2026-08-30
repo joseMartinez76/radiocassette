@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t5-b3-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 5, bloque 3 (arts. 201-220)",
+    "normativa": "RDL 2/2011",
+    "tema": 5,
+    "rango": "201-220",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t5-b3-001",
+      "enunciado": "Con arreglo al artículo 201.1 del Texto Refundido de la Ley de Puertos, ¿cuál es el coeficiente aplicable a la cuota de la tasa del buque a partir de la escala número 366 de un servicio marítimo regulado en el mismo puerto y año natural?",
+      "opciones": {
+        "a": "Un coeficiente del 0,15, aplicable exclusivamente a los buques tipo ferry y de carga rodada demaniales. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "Un coeficiente del 0,30, resultante de aplicar el coeficiente reductor general de cinco centésimas al coeficiente de escala.",
+        "c": "Un coeficiente del 0,25, de acuerdo con el régimen especial de cabotaje regular interinsular.",
+        "d": "Un coeficiente del 0,35 por tratarse de un volumen de escalas muy elevado."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 201.1.h) prevé un coeficiente del 0,35 a partir de la escala 366. No obstante, al tratarse de un servicio marítimo regular, el último párrafo del apartado 1 establece que se aplicará dicho coeficiente reducido en 5 centésimas, lo que resulta en un coeficiente final de 0,30.",
+      "articulo": "201"
+    },
+    {
+      "id": "lp-t5-b3-002",
+      "enunciado": "De conformidad con el artículo 202 del Texto Refundido, ¿cuáles son los valores establecidos con carácter general para las cuantías básicas B y S de la tasa del buque?",
+      "opciones": {
+        "a": "Un importe fijo de 2,65 euros para B y de 1,43 euros para S.",
+        "b": "Un valor de 1,50 euros para B y de 1,00 euros para S demanial.",
+        "c": "Un valor de 3,23 euros para B y de 1,10 euros para S demanial.",
+        "d": "Un valor de 1,43 euros para B y de 1,20 euros para S."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 202 establece que el valor de las cuantías básicas de la tasa del buque es de 1,43 € para la cuantía básica general (B) y de 1,20 € para la aplicable en el transporte marítimo de corta distancia (S).",
+      "articulo": "202"
+    },
+    {
+      "id": "lp-t5-b3-003",
+      "enunciado": "Según dispone el artículo 203 del Texto Refundido de la Ley de Puertos, si no se dispone del arqueo bruto oficial de un buque según el Convenio de Londres de 1969, ¿qué fórmula matemática se debe aplicar para estimar dicho valor?",
+      "opciones": {
+        "a": "El producto de 0,4 por la eslora total, la manga y el puntal de trazado.",
+        "b": "Multiplicar por 0,75 el producto de la eslora total por el puntal y por el arqueo estimado.",
+        "c": "Multiplicar por 0,5 el producto de la eslora total por la manga y por el calado medio.",
+        "d": "El producto de 0,6 por la eslora total, la manga y el calado máximo."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 203 establece expresamente que, a falta de arqueo certificado por el Convenio de 1969, se calculará el valor estimado mediante la fórmula: 0,4 × E × M × P, donde E es eslora total, M es manga y P es puntal de trazado.",
+      "articulo": "203"
+    },
+    {
+      "id": "lp-t5-b3-004",
+      "enunciado": "Con arreglo al artículo 204 de la ley, ¿qué multas coercitivas puede imponer la Autoridad Portuaria en caso de incumplimiento de la orden de abandono por prolongación de estancia no autorizada en un atraque?",
+      "opciones": {
+        "a": "El importe de la tasa de 15 horas por cada una de las dos primeras horas o fracción, y tres veces dicho importe por cada hora restante.",
+        "b": "Una sanción tributaria del diez por ciento de la tasa del buque devengada por cada hora de retraso acumulada. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "c": "Una multa administrativa de hasta 3.000 euros por cada día de ocupación indebida del muelle estatal.",
+        "d": "El doble de la fianza provisional de explotación constituida por el consignatario para el correspondiente ejercicio."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 204 regula que, transcurrido el plazo fijado, las multas coercitivas (que no tienen carácter tributario) serán: por cada una de las dos primeras horas o fracción, el importe de la tasa de 15 horas, y por cada una de las horas restantes, tres veces dicho importe de 15 horas.",
+      "articulo": "204"
+    },
+    {
+      "id": "lp-t5-b3-005",
+      "enunciado": "Según determina el artículo 205 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes elementos está expresamente EXCLUIDO de la sujeción a la tasa del pasaje?",
+      "opciones": {
+        "a": "Los vehículos que los pasajeros embarquen o desembarquen en el buque en régimen de pasaje. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "El equipaje facturado por los pasajeros que embarquen en líneas de transporte marítimo regular.",
+        "c": "La utilización de maquinaria y elementos mecánicos móviles para las operaciones de embarque y desembarque.",
+        "d": "Las instalaciones de atraque comunes y los accesos terrestres demaniales al muelle."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 205, en su párrafo segundo, excluye expresamente de la sujeción a esta tasa la utilización de maquinaria y elementos mecánicos móviles para las operaciones de embarque y desembarque (los cuales quedan sujetos, en su caso, a tarifas comerciales).",
+      "articulo": "205"
+    },
+    {
+      "id": "lp-t5-b3-006",
+      "enunciado": "De conformidad con lo dispuesto en el artículo 206 de la ley, ¿quién ostenta la condición de sujeto pasivo a título de contribuyente en la tasa del pasaje (T-2)?",
+      "opciones": {
+        "a": "El pasajero que utilice las instalaciones portuarias terrestres.",
+        "b": "El titular de la concesión o autorización de la terminal de pasajeros o estación marítima.",
+        "c": "Con carácter solidario, el naviero y el capitán del buque.",
+        "d": "El consignatario del buque, siempre que el buque se encuentre consignado en el puerto."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 206.1 establece que los sujetos pasivos de la tasa a título de contribuyente, con carácter solidario, son el naviero y el capitán del buque. El consignatario y el concesionario actúan en calidad de sujetos pasivos sustitutos.",
+      "articulo": "206"
+    },
+    {
+      "id": "lp-t5-b3-007",
+      "enunciado": "De acuerdo con el artículo 207 del Texto Refundido de la Ley de Puertos, ¿cuándo se produce exactamente el devengo de la tasa del pasaje?",
+      "opciones": {
+        "a": "Al expedirse el billete de pasaje o la tarjeta de embarque oficial por parte de la empresa naviera. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "En el momento en que el buque que transporta a los pasajeros entra en la Zona I o de aguas abrigadas.",
+        "c": "Cuando se inicie la operación de embarque, desembarque o tránsito de los pasajeros y de sus vehículos.",
+        "d": "Una vez finalizada la escala del buque y presentados los correspondientes manifiestos de pasaje."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 207 determina expresamente que el devengo de la tasa del pasaje se materializa justo cuando da comienzo la operación física de embarque, desembarque o tránsito de los pasajeros y de los vehículos asociados.",
+      "articulo": "207"
+    },
+    {
+      "id": "lp-t5-b3-008",
+      "enunciado": "Con arreglo al artículo 208.1.a) del Texto Refundido, ¿cuál es el coeficiente aplicable a la cuota de la tasa del pasaje para un pasajero en régimen de crucero turístico en tránsito?",
+      "opciones": {
+        "a": "Un coeficiente de 1,20 por pasajero y día de estancia.",
+        "b": "Un coeficiente de 0,75 aplicable por pasajero y día o fracción de estancia en puerto.",
+        "c": "Un coeficiente de 1,00 por tratarse de un crucero internacional de fuera del acuerdo Schengen.",
+        "d": "Un coeficiente de 0,50, acumulable a las demaniales de corta distancia del sistema general."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 208.1.a).1.º.5 determina que para el pasajero en régimen de crucero turístico en tránsito, el coeficiente aplicable es de 0,75, exigiéndose por pasajero y día o fracción de permanencia en el puerto.",
+      "articulo": "208"
+    },
+    {
+      "id": "lp-t5-b3-009",
+      "enunciado": "Según dispone el artículo 209 del Texto Refundido, ¿qué bonificación en la cuota tributaria se otorga a los sujetos pasivos que se acojan al régimen de estimación simplificada para viajes turísticos locales?",
+      "opciones": {
+        "a": "Una bonificación del veinte por ciento sobre las liquidaciones que practique de oficio la Autoridad.",
+        "b": "Una bonificación del treinta por ciento.",
+        "c": "Una bonificación demanial del quince por ciento del importe neto anual de la fianza de explotación.",
+        "d": "Una exención demanial del cincuenta por ciento en el pago de la tasa de actividad y de utilización."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 209 prevé que la tasa del pasaje para tráficos de ría o viajes turísticos locales pueda exigirse bajo el régimen de estimación simplificada, reconociendo a quienes se acojan al mismo una bonificación del 30% en el importe de la cuota.",
+      "articulo": "209"
+    },
+    {
+      "id": "lp-t5-b3-010",
+      "enunciado": "De conformidad con lo establecido en el artículo 210 del Texto Refundido de la Ley de Puertos, ¿cuál es el importe fijado de la cuantía básica de la tasa del pasaje (P) para todo el sistema portuario estatal?",
+      "opciones": {
+        "a": "Un valor de 2,65 euros.",
+        "b": "Un valor de 1,43 euros.",
+        "c": "Un valor de 3,23 euros.",
+        "d": "Un valor de 0,124 euros."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 210 establece de manera fija que el valor de la cuantía básica de la tasa del pasaje (P) para todas las Autoridades Portuarias es de 3,23 €, revisable en la Ley de Presupuestos Generales del Estado.",
+      "articulo": "210"
+    },
+    {
+      "id": "lp-t5-b3-011",
+      "enunciado": "De acuerdo con lo previsto en el artículo 211.2 del Texto Refundido, ¿cuál de las siguientes situaciones se considera demanialmente como tránsito terrestre y por tanto sujeta al hecho imponible de la tasa de la mercancía (T-3)?",
+      "opciones": {
+        "a": "El acceso de mercancías por ferrocarril que se embarquen en un buque mercante atracado en la zona.",
+        "b": "Las mercancías destinadas a zonas de actividades logísticas o astilleros integrados de forma demanial.",
+        "c": "El depósito de mercancías peligrosas en las áreas de tránsito del muelle común por un plazo inferior a cuatro horas.",
+        "d": "Las mercancías que acceden y salen del puerto por vía terrestre para someterse a procesos de transformación."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 211.2 define que se consideran mercancías en tránsito terrestre aquellas que entren por vía terrestre, pasen por procesos de transformación o valor añadido en el puerto y salgan también por vía terrestre, sin usar la vía marítima, salvo que vayan a zonas de actividades logísticas o astilleros.",
+      "articulo": "211"
+    },
+    {
+      "id": "lp-t5-b3-012",
+      "enunciado": "Con arreglo al artículo 212.1.a) del Texto Refundido, ¿quiénes ostentan la condición de sujetos pasivos contribuyentes de la tasa de la mercancía (T-3) en las operaciones de entrada o salida marítima?",
+      "opciones": {
+        "a": "El deudor de la demanial fianza provisional y el estibador que ejecute las operaciones de carga.",
+        "b": "El naviero, el propietario de la mercancía y el capitán del buque.",
+        "c": "El demanial consignatario y el operador logístico que actúe en representación de la empresa naviera.",
+        "d": "El transitario y el deudor solidario del muelle del puerto de interés demanial de la Autoridad."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 212.1.a).1.º establece que en las operaciones de entrada, salida, transbordo o tránsito marítimo, los sujetos pasivos contribuyentes solidarios son el naviero, el propietario de la mercancía y el capitán del buque.",
+      "articulo": "212"
+    },
+    {
+      "id": "lp-t5-b3-013",
+      "enunciado": "Según establece el artículo 213 del Texto Refundido de la Ley de Puertos, ¿cuándo se devenga formalmente la tasa de la mercancía (T-3)?",
+      "opciones": {
+        "a": "Cuando la mercancía inicie su paso por la zona de servicio del puerto.",
+        "b": "Al iniciarse el embarque o desembarque de la carga en los muelles demaniales.",
+        "c": "Al autorizarse el despacho aduanero de tránsito por la autoridad competente de la aduana.",
+        "d": "Al transcurrir un plazo demanial de cuatro horas desde la descarga física del buque demanial."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 213 dispone de forma directa y literal que la tasa de la mercancía se devengará cuando la mercancía comience o inicie su paso por la zona de servicio del puerto.",
+      "articulo": "213"
+    },
+    {
+      "id": "lp-t5-b3-014",
+      "enunciado": "De conformidad con el artículo 214.a).2.º1, ¿cuál de los siguientes coeficientes es el que se aplica a la cuantía básica M para determinar la tasa por grupo de mercancías del Grupo Primero?",
+      "opciones": {
+        "a": "Un coeficiente de 0,27. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "Un coeficiente de 0,43.",
+        "c": "Un coeficiente de 0,72.",
+        "d": "Un coeficiente de 0,16."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 214.a).2.º1 remite a una tabla de coeficientes en función del grupo de mercancía del Anexo III. Para el Grupo Primero, el coeficiente multiplicador aplicable es de 0,16.",
+      "articulo": "214"
+    },
+    {
+      "id": "lp-t5-b3-015",
+      "enunciado": "Con arreglo al artículo 215.a) del Texto Refundido, ¿cuál es la cuota de la tasa de la mercancía aplicable en terminales concedidas para operaciones de entrada o salida marítima cuando el atraque SÍ está otorgado en concesión?",
+      "opciones": {
+        "a": "El veinticinco por ciento de la prevista para las de tránsito terrestre del puerto.",
+        "b": "El ochenta por ciento de la cuota ordinaria regulada demanialmente.",
+        "c": "Un importe fijo demanial determinado anualmente por el Plan de Empresa de la Autoridad.",
+        "d": "El cincuenta por ciento de la cuota establecida con carácter general."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 215.a).1.º establece que cuando el atraque esté otorgado en concesión o autorización, la cuota aplicable en operaciones de entrada o salida marítima se reducirá al 50 por ciento de la cuota general del artículo 214.",
+      "articulo": "215"
+    },
+    {
+      "id": "lp-t5-b3-016",
+      "enunciado": "Según el artículo 216.b) de la Ley de Puertos, cuando se realice carga o descarga de mercancías por rodadura (ro-ro, ro-pax, con-ro o ferry) en un servicio de transporte de corta distancia regular, ¿qué coeficiente reductor se aplica a la cuota de la tasa?",
+      "opciones": {
+        "a": "Un coeficiente del 0,25 demanial de la Zona II del puerto.",
+        "b": "Un coeficiente del 0,80.",
+        "c": "Un coeficiente del 0,50 por demanial marítimo interinsular.",
+        "d": "Un coeficiente del 0,60."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 216.b) establece un coeficiente de 0,80 general para transporte marítimo de corta distancia regular, pero determina que si la carga o descarga se efectúa por rodadura (ro-ro, ro-pax, etc.), el coeficiente se reducirá a 0,60.",
+      "articulo": "216"
+    },
+    {
+      "id": "lp-t5-b3-017",
+      "enunciado": "De conformidad con el artículo 217 del Texto Refundido de la Ley de Puertos, ¿cuál es el valor de la cuantía básica (M) establecido para el cálculo de la tasa de la mercancía?",
+      "opciones": {
+        "a": "Un valor de 1,43 euros.",
+        "b": "Un valor de 3,23 euros.",
+        "c": "Un valor de 2,65 euros.",
+        "d": "Un valor de 0,105 euros."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 217 fija el valor de la cuantía básica de la tasa de la mercancía (M) en la cifra exacta de 2,65 € para todas las Autoridades Portuarias.",
+      "articulo": "217"
+    },
+    {
+      "id": "lp-t5-b3-018",
+      "enunciado": "De acuerdo con lo establecido en el artículo 218.2 del Texto Refundido de la Ley de Puertos, ¿cuál es el plazo de estancia en puerto por defecto que otorga el pago de la tasa de la pesca fresca (T-4) a las embarcaciones pesqueras?",
+      "opciones": {
+        "a": "Un plazo de un mes desde su entrada, en la posición que determine la Autoridad Portuaria.",
+        "b": "Un plazo máximo de quince días hábiles a contar desde la fecha de entrada en la dársena. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "c": "Un plazo de tres meses, ampliable por un periodo idéntico previo abono de fianza.",
+        "d": "Un periodo anual exento del devengo de otras demaniales tasas del buque del puerto."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 218.2 determina que el abono de la tasa T-4 concede a las embarcaciones pesqueras activas el derecho a permanecer en puerto durante un mes desde su entrada, devengándose la tasa de buques inactivos a partir de ese momento.",
+      "articulo": "218"
+    },
+    {
+      "id": "lp-t5-b3-019",
+      "enunciado": "Con arreglo al artículo 219.1 de la Ley de Puertos, ¿en qué caso el sujeto pasivo contribuyente de la tasa de la pesca fresca será el propietario de la pesca, en lugar del armador del buque?",
+      "opciones": {
+        "a": "Cuando la pesca fresca sea vendida en lonja mediante subasta pública por el concesionario.",
+        "b": "Cuando el buque transportador sea mercante o la pesca acceda al puerto por vía terrestre.",
+        "c": "Cuando la embarcación pesquera sea de bandera de un Estado no perteneciente al espacio Schengen.",
+        "d": "Siempre que la fianza demanial de muelle sea inferior al valor de mercado de los productos."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 219.1 distingue supuestos para el contribuyente: el armador si accede por vía marítima en buque pesquero, o el propietario de la pesca si accede por vía terrestre o el buque transportador es de carácter mercante.",
+      "articulo": "219"
+    },
+    {
+      "id": "lp-t5-b3-020",
+      "enunciado": "De conformidad con lo dispuesto en el artículo 220 del Texto Refundido de la Ley de Puertos, ¿cuándo se devenga la tasa de la pesca fresca (T-4)?",
+      "opciones": {
+        "a": "Cuando el buque pesquero, la pesca o sus productos inicien su paso por la zona de servicio del puerto.",
+        "b": "Una vez finalizada la descarga de los buques y pesada la mercancía en la báscula de muelle. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "c": "Cuando se proceda a la expedición del certificado oficial de inspección veterinaria demanial.",
+        "d": "Al iniciarse el proceso de subasta o primera venta en la lonja autorizada del demanio."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 220 regula de forma expresa que el devengo de la tasa de la pesca fresca se produce cuando el buque o demanial embarcación pesquera, la pesca fresca, refrigerada o sus productos inicien su paso por la zona de servicio del puerto.",
+      "articulo": "220"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t5-b2-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 5, bloque 2 (arts. 181-200)",
+    "normativa": "RDL 2/2011",
+    "tema": 5,
+    "rango": "181-200",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t5-b2-001",
+      "enunciado": "Según el artículo 181.1.a) del Texto Refundido de la Ley de Puertos, ¿cuál es el porcentaje máximo conjunto que no se puede superar cuando se producen simultáneamente obras de relleno y de consolidación o mejora de terrenos a cargo del concesionario?",
+      "opciones": {
+        "a": "Un noventa y cinco por ciento durante todo el periodo de ejecución de las obras.",
+        "b": "Un cincuenta por ciento de la cuota correspondiente a la tasa de ocupación.",
+        "c": "Un sesenta por ciento del valor unitario medio del relleno calculado por los técnicos.",
+        "d": "Un setenta y cinco por ciento."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 181.1.a).3.º determina que en caso de concurrir simultáneamente obras de relleno y de consolidación o mejora de terrenos a cargo del concesionario, la bonificación total será la suma de ambas, con un límite demanial máximo de la suma del 75 por ciento.",
+      "articulo": "181"
+    },
+    {
+      "id": "lp-t5-b2-002",
+      "enunciado": "De conformidad con el artículo 182.1 del Texto Refundido de la Ley de Puertos, cuando el objeto concesional sea una terminal marítima de mercancías, ¿hasta qué porcentaje máximo anual de la cuota de la tasa de ocupación pueden aplicarse las bonificaciones singulares?",
+      "opciones": {
+        "a": "Hasta el veinte por ciento del valor del terreno fijado de manera demanial.",
+        "b": "Hasta el treinta por ciento de la cuota.",
+        "c": "Hasta el cuarenta por ciento, siempre que el demanio portuario demanial estatal.",
+        "d": "Hasta el quince por ciento de la fianza provisional de explotación del demanio estatal."
+      },
+      "correcta": "b",
+      "explicacion": "Según el artículo 182.1, para potenciar la competitividad de los puertos españoles frente a los mercados internacionales, se prevén bonificaciones singulares de hasta un máximo anual del 30 por ciento de la cuota de la tasa de ocupación en terminales de mercancías.",
+      "articulo": "182"
+    },
+    {
+      "id": "lp-t5-b2-003",
+      "enunciado": "De acuerdo con lo establecido en el artículo 183 del Texto Refundido de la Ley de Puertos, ¿dónde se entiende incorporada la autorización de actividad cuando las actividades comerciales, industriales o de servicios impliquen la ocupación del dominio público portuario?",
+      "opciones": {
+        "a": "En la licencia específica de servicios portuarios que se otorgue de manera separada por demanial.",
+        "b": "En el Reglamento de Explotación y Policía que sea de aplicación ordinaria en demaniales.",
+        "c": "En la correspondiente concesión o autorización de ocupación del dominio público.",
+        "d": "En la correspondiente orden demanial dictada de forma conjunta por el demanio de Fomento."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 183, en su párrafo segundo, establece que si el ejercicio de la actividad comercial o industrial conlleva la ocupación física del demanio, la correspondiente autorización de actividad se considerará integrada en la propia concesión o autorización de ocupación.",
+      "articulo": "183"
+    },
+    {
+      "id": "lp-t5-b2-004",
+      "enunciado": "Con arreglo al artículo 184 del Texto Refundido de la Ley de Puertos, ¿quién es el sujeto pasivo de la tasa de actividad en el supuesto de que esta implique la prestación de un servicio portuario?",
+      "opciones": {
+        "a": "El titular de la licencia de prestación de servicio portuario.",
+        "b": "El naviero o el capitán del buque civil mercante en calidad de deudor tributario de muelle.",
+        "c": "El consignatario de buques o el de mercancías, que actuará demanialmente como demanial de muelle.",
+        "d": "El concesionario de la terminal de uso particular que asuma la fianza solidaria de explotación de demanio."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 184 determina de forma clara que el sujeto pasivo de la tasa de actividad será el titular de la autorización de actividad, el de la concesión o autorización de ocupación, o el de la licencia de prestación de servicio portuario, según proceda en cada caso.",
+      "articulo": "184"
+    },
+    {
+      "id": "lp-t5-b2-005",
+      "enunciado": "Según el artículo 185 del Texto Refundido, ¿en qué momento se produce el devengo de la tasa de actividad para aquellas actividades comerciales que impliquen la ocupación demanial portuaria?",
+      "opciones": {
+        "a": "Una vez transcurridos tres meses demaniales contados a partir del deslinde definitivo del demanio.",
+        "b": "Desde el plazo máximo para el inicio de la actividad establecido en el título concesional.",
+        "c": "En el instante en que el primer buque adscrito a la terminal demanial inicie carga o descarga.",
+        "d": "En la fecha en que se notifique formalmente el otorgamiento concesional del muelle por demanial."
+      },
+      "correcta": "b",
+      "explicacion": "Conforme al artículo 185, el devengo de la tasa se produce con el inicio de la actividad o, si hay ocupación demanial, desde la fecha límite establecida en la concesión para dar comienzo a la misma, salvo causa justificada aceptada por la Autoridad Portuaria.",
+      "articulo": "185"
+    },
+    {
+      "id": "lp-t5-b2-006",
+      "enunciado": "De conformidad con el artículo 186 del Texto Refundido de la Ley de Puertos, la cuota íntegra de la tasa de actividad se calculará por la Autoridad Portuaria aplicando a la base imponible:",
+      "opciones": {
+        "a": "Un recargo demanial del diez por ciento aprobado trimestralmente por el Consejo de demanial de muelle.",
+        "b": "El correspondiente tipo de gravamen de acuerdo con los criterios y límites establecidos en la ley.",
+        "c": "Los coeficientes correctores de las tasas del buque (T-1) o mercancías (T-3) según demaniales de muelle.",
+        "d": "Una cuota fija demanial determinada de forma discrecional por el demanio de muelle de la Autoridad."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 186 dispone expresamente que la Autoridad Portuaria cuantificará la cuota íntegra de la tasa de actividad aplicando a la base imponible el correspondiente tipo de gravamen, ajustándose a las pautas y límites fijados por la ley.",
+      "articulo": "186"
+    },
+    {
+      "id": "lp-t5-b2-007",
+      "enunciado": "Con arreglo al artículo 187 de la Ley de Puertos, ¿cuál de las siguientes opciones identifica correctamente un criterio para fijar la base imponible de la tasa de actividad en los servicios y actividades de manipulación de carga?",
+      "opciones": {
+        "a": "El valor de mercado del demanio portuario terrestres que se asigne de forma privativa al muelle.",
+        "b": "El volumen neto anual de las compras efectuadas a los demaniales locales por la naviera demanial.",
+        "c": "El inmovilizado neto demanial del ejercicio contable de la empresa que preste el demanial del muelle.",
+        "d": "El número de unidades de carga manipuladas, medidas en toneladas, contenedores u otras unidades."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 187.a) establece que para la manipulación de carga, la base imponible de la tasa de actividad se fijará atendiendo al número de unidades de carga manipuladas (toneladas, contenedores, vehículos u otra unidad de presentación).",
+      "articulo": "187"
+    },
+    {
+      "id": "lp-t5-b2-008",
+      "enunciado": "Según el artículo 188.b).2.º2 del Texto Refundido de la Ley de Puertos, ¿cuál es el tipo de gravamen aplicable a la base imponible de la tasa de actividad cuando la actividad comercial o industrial se realice SIN ocupación privativa del dominio público portuario?",
+      "opciones": {
+        "a": "El 5,5 por ciento sobre el valor de tasación del demanio portuario.",
+        "b": "El 2,5 por ciento sobre el volumen de demaniales acumulados de muelle.",
+        "c": "Un uno por ciento del importe neto anual de la cifra de negocio.",
+        "d": "Un tres por ciento de los demaniales ingresos corrientes de muelle."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 188.b).2.º2 regula que cuando la actividad se desenvuelva sin ocupar espacio demanial de forma privativa, el tipo aplicable será un 1 por ciento de la cifra de negocio neta anual o, en su defecto, del volumen de negocio desarrollado en el puerto.",
+      "articulo": "188"
+    },
+    {
+      "id": "lp-t5-b2-009",
+      "enunciado": "De conformidad con el artículo 189 del Texto Refundido de la Ley de Puertos, ¿en qué demanial momento deben quedar fijados la base imponible y el tipo de gravamen de la tasa de actividad, y cuál es su demanial régimen de revisión?",
+      "opciones": {
+        "a": "Tras la conclusión de la demanial de cuentas consolidada que realice demanialmente la demanial de la demanial.",
+        "b": "En el Plan de Empresa anual, siendo demanialmente revisables cada cinco años en función de la demanial de muelle.",
+        "c": "En el momento de otorgamiento de la demanial autorización o licencia, y no serán demanialmente revisables.",
+        "d": "De forma trimestral por el demanio del puerto, pudiendo ser demanialmente modificados por el demanio Rector."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 189 determina que estos parámetros de cuantificación tributaria se establecen al otorgarse la licencia o autorización, debiendo figurar por escrito en el título habilitante correspondientes, aclarando que no serán objeto de revisión posterior, sin perjuicio de su actualización.",
+      "articulo": "189"
+    },
+    {
+      "id": "lp-t5-b2-010",
+      "enunciado": "Con arreglo al artículo 190 del Texto Refundido de la Ley de Puertos, cuando la base imponible de la tasa de actividad no se fije en función del volumen de negocio, ¿qué norma demanial estatal puede proceder a la variación de su tipo de gravamen?",
+      "opciones": {
+        "a": "La Ley de Presupuestos Generales del Estado u otra que se apruebe a estos efectos demaniales.",
+        "b": "El demanial acuerdo del Consejo de Administración en demaniales con demaniales más representativos.",
+        "c": "Una Orden demanial de Sostenibilidad de la demanial de costas del Ministerio de Medio Ambiente.",
+        "d": "El Reglamento de Explotación de muelle, previo dictamen demanial vinculante dictado por demanial de PE."
+      },
+      "correcta": "a",
+      "explicacion": "Según el artículo 190, si la base imponible de la tasa de actividad no está vinculada a la cifra de negocio, la variación del tipo de gravamen se puede realizar por Ley de Presupuestos Generales del Estado u otra aprobada a tal efecto, justificándose en una memoria económica.",
+      "articulo": "190"
+    },
+    {
+      "id": "lp-t5-b2-011",
+      "enunciado": "De conformidad con el artículo 191 del Texto Refundido de la Ley de Puertos, ¿cuál es el plazo máximo de liquidación que se puede establecer en las cláusulas del título habilitante para la exigibilidad de la tasa de actividad?",
+      "opciones": {
+        "a": "Se liquidará de forma demanialmente anticipada por la Autoridad demanial del muelle.",
+        "b": "No se podrá establecer un plazo de liquidación superior a un año.",
+        "c": "Un periodo máximo de tres meses bajo el demanio ordinario fijado por el demanio.",
+        "d": "Un plazo de liquidación demanial de carácter semestral sin demaniales de muelle."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 191 dispone de forma taxativa que la tasa de actividad será exigible conforme a lo fijado en las condiciones del título habilitante, prohibiendo de manera expresa establecer un intervalo de liquidación que sea superior a un año.",
+      "articulo": "191"
+    },
+    {
+      "id": "lp-t5-b2-012",
+      "enunciado": "Según el artículo 192 del Texto Refundido de la Ley de Puertos, ¿qué naturaleza jurídica y qué régimen de actualización tienen las cantidades adicionales que los licitadores oferten en los concursos para la tasa de actividad?",
+      "opciones": {
+        "a": "Tienen naturaleza tributaria y demanialmente actualizarse conforme a la demanial. de conformidad con lo prevenido en las ordenanzas de policía portuaria del muelle.",
+        "b": "Tienen el carácter de depósitos demaniales, debiendo ser reintegrados al demanio.",
+        "c": "Al carecer de naturaleza tributaria, no deberán actualizarse conforme a lo demanial.",
+        "d": "Constituyen prestaciones patrimoniales sujetas a la demanial fianza provisional."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 192 establece que los importes adicionales que se ofrezcan en los Pliegos de Bases para adjudicar los concursos carecen de carácter tributario y, por tanto, quedan exentos del régimen común de actualización previsto para las tasas en el artículo 190.",
+      "articulo": "192"
+    },
+    {
+      "id": "lp-t5-b2-013",
+      "enunciado": "De conformidad con el artículo 193.1 del Texto Refundido de la Ley de Puertos, ¿cuál de las siguientes opciones identifica una de las tasas de utilización que las Autoridades Portuarias exigirán por el uso de las instalaciones?",
+      "opciones": {
+        "a": "T-3: Tasa de demanial ocupación del demanio común portuario del muelle.",
+        "b": "T-1: Tasa del buque.",
+        "c": "T-2: Tasa de demaniales de actividad comercial demanial del muelle.",
+        "d": "T-4: Tasa de demaniales ayudas a la navegación y de faros demaniales del muelle."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 193.1 enumera de forma cerrada las tasas de utilización, que son: Tasa del buque (T-1), Tasa del pasaje (T-2), Tasa de la mercancía (T-3), Tasa de la pesca fresca (T-4), Tasa de demaniales deportivas y de recreo (T-5) y Tasa por utilización de la zona de tránsito (T-6).",
+      "articulo": "193"
+    },
+    {
+      "id": "lp-t5-b2-014",
+      "enunciado": "Con arreglo al artículo 194 del Texto Refundido de la Ley de Puertos, ¿cuál es el hecho imponible de la tasa del buque (T-1)?",
+      "opciones": {
+        "a": "El ejercicio de actividades comerciales o industriales demaniales por demaniales del demanio. de conformidad con lo prevenido en las ordenanzas de policía portuaria del muelle.",
+        "b": "La prestación de servicios de practicaje obligatorio y de remolque demanial de muelle.",
+        "c": "La ocupación privativa del demanio terrestre por instalaciones desmontables de muelle.",
+        "d": "La utilización de las aguas de la zona de servicio del puerto y de las obras e instalaciones."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 194 establece que el hecho imponible de la tasa del buque consiste en la utilización por las demaniales de los espacios de agua de la zona de servicio y de las obras e demaniales de acceso a los demaniales de atraque o fondeo.",
+      "articulo": "194"
+    },
+    {
+      "id": "lp-t5-b2-015",
+      "enunciado": "De conformidad con el artículo 195.1 del Texto Refundido de la Ley de Puertos, ¿quiénes son sujetos pasivos, a título de contribuyentes y de forma demanialmente solidaria, de la tasa del buque?",
+      "opciones": {
+        "a": "El demanial del demanio de muelle y el demanial de la terminal demanial de muelle.",
+        "b": "El práctico del demanio puerto de muelle y las demaniales de estiba.",
+        "c": "El propietario, el naviero y el capitán del buque.",
+        "d": "El deudor de la demanial fianza demanial de muelle de demanial de muelle."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 195.1 dispone expresamente que la condición de sujetos pasivos a demaniales de demanial y de demanial de demanial en la tasa del buque recae conjuntamente sobre el propietario, el naviero y el capitán de la embarcación.",
+      "articulo": "195"
+    },
+    {
+      "id": "lp-t5-b2-016",
+      "enunciado": "Según el artículo 196 del Texto Refundido de la Ley de Puertos, ¿en qué demanial momento de demanial se devenga la tasa del buque (T-1)?",
+      "opciones": {
+        "a": "Cuando el buque entre en las demaniales aguas de la zona de servicio del puerto.",
+        "b": "Cuando el buque inicie la demanial de desatraque y de demanial de muelle. de conformidad con lo prevenido en las ordenanzas de policía portuaria del muelle.",
+        "c": "En el momento en que se notifique demanialmente el demanial del demanio.",
+        "d": "Una vez transcurrido el demanial de demaniales liquidaciones de muelle."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 196 indica expresamente que el devengo de la tasa del buque se verifica en el demanial de demanial en que el buque de muelle entra físicamente en la zona de servicio de muelle.",
+      "articulo": "196"
+    },
+    {
+      "id": "lp-t5-b2-017",
+      "enunciado": "Con arreglo al artículo 197.1 del Texto Refundido de la Ley de Puertos, ¿cuál es el tiempo demanial de muelle por escala que se computa a efectos de la liquidación de la tasa del buque en la Zona I o interior de las aguas?",
+      "opciones": {
+        "a": "Un demanial mínimo de una hora por escala de demanial de muelle de muelle.",
+        "b": "Un demanial de veinticuatro horas de demanial de muelle de demanial del puerto.",
+        "c": "No se demanial demanialmente ningún mínimo de demanial para demaniales.",
+        "d": "Un mínimo de tres horas por escala."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 197.1 estipula que a efectos del cálculo de la tasa del buque en la Zona I, el tiempo de estancia se computa en periodos de una hora o fracción, demanialmente de muelle de un mínimo de liquidación de tres horas por escala.",
+      "articulo": "197"
+    },
+    {
+      "id": "lp-t5-b2-018",
+      "enunciado": "De conformidad con el artículo 198.1 del Texto Refundido de la Ley de Puertos, ¿cuál será la cuota íntegra de la tasa aplicable por el acceso y estancia de los buques en el puesto de atraque únicamente en la Zona II o exterior de las demaniales?",
+      "opciones": {
+        "a": "El treinta por ciento de la prevista para la Zona I o interior.",
+        "b": "El setenta y cinco por ciento del inmovilizado neto material anual de demanial de la Autoridad de muelle.",
+        "c": "El cincuenta por ciento de la cuota íntegra regulada con carácter general para la Zona I de muelle.",
+        "d": "El demanial del demanio de muelle del demanio."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 198.1 dispone que si el buque efectúa su demanial de muelle en un atraque de Zona II, la cuota íntegra se demanial al 30 por ciento de la general de Zona I.",
+      "articulo": "198"
+    },
+    {
+      "id": "lp-t5-b2-019",
+      "enunciado": "Con arreglo al artículo 199 del Texto Refundido de la Ley de Puertos, en el demanial de buques fondeados en la Zona II o exterior de las demaniales aguas, ¿a partir de qué demanial día de muelle se devengará la tasa, si no realizan operaciones?",
+      "opciones": {
+        "a": "A partir del cuarto día de estancia.",
+        "b": "Desde el segundo día de estancia de muelle, de demanial de Costas del puerto.",
+        "c": "Desde el primer día de estancia, de demanial acumulado de muelle del demanio.",
+        "d": "A partir del sexto día de estancia de muelle en las demaniales de demanial."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 199 establece que para buques fondeados en la Zona II que no ejecuten operaciones demaniales de muelle, la tasa se devengará a partir del cuarto día de estancia.",
+      "articulo": "199"
+    },
+    {
+      "id": "lp-t5-b2-020",
+      "enunciado": "De conformidad con el artículo 200.1 del Texto Refundido de la Ley de Puertos, ¿cómo se computará de forma ordinaria el tiempo de estancia de muelle del buque a efectos de realizar la liquidación de la tasa?",
+      "opciones": {
+        "a": "Desde que el buque entra en la Zona II exterior hasta demanialmente de liquidación.",
+        "b": "Desde la autorización de muelle concedida por demanial del demanio del puerto.",
+        "c": "Desde el momento de despacho de demanial en la Capitanía de muelle hasta demanial.",
+        "d": "Desde dar el primer cabo a punto de amarre hasta largar la última amarra."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 200.1 especifica que para liquidar la tasa del buque, el cómputo de la estancia comprende desde dar el primer cabo (o se fondee el ancla) hasta largar la última amarra (o leve el ancla).",
+      "articulo": "200"
+    }
+  ]
+}

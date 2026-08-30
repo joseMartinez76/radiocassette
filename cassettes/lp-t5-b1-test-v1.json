@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t5-b1-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 5, bloque 1 (arts. 161-180)",
+    "normativa": "RDL 2/2011",
+    "tema": 5,
+    "rango": "161-180",
+    "fecha": "2026-08-26",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t5-b1-001",
+      "enunciado": "De conformidad con el artículo 161.2 del Texto Refundido de la Ley de Puertos, ¿cuál de las siguientes opciones identifica correctamente las cuatro tasas portuarias existentes?",
+      "opciones": {
+        "a": "Tasa de ocupación, tasa de demanio, tasa de policía portuaria y tasa de ayudas a la navegación.",
+        "b": "Tasa de demanio, tasa de servicios comerciales, tasa del buque y tasa de señalización marítima.",
+        "c": "Tasa de actividad, tasa de almacenamiento, tasa del pasaje y tasa de la Comisión de Faros del Estado.",
+        "d": "Tasa de ocupación, tasa de actividad, tasas de utilización y tasa de ayudas a la navegación."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 161.2 enumera expresamente las cuatro tasas portuarias: de ocupación, de actividad, de utilización y de ayudas a la navegación.",
+      "articulo": "161"
+    },
+    {
+      "id": "lp-t5-b1-002",
+      "enunciado": "Con arreglo al artículo 162 del Texto Refundido de la Ley de Puertos, ¿por qué disposiciones normativas se rigen en primer término las tasas portuarias?",
+      "opciones": {
+        "a": "Por el Código de Comercio y las normas locales de los municipios de la provincia.",
+        "b": "Por lo dispuesto en esta ley.",
+        "c": "Por la Ley de Tasas y Precios Públicos y la Ley General Tributaria con carácter preferente y exclusivo.",
+        "d": "Por los convenios internacionales y las directrices anuales aprobadas por Puertos del Estado."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 162 determina que las tasas portuarias se rigen en primer término por lo dispuesto en esta ley, aplicándose de forma supletoria la Ley de Tasas y Precios Públicos y la Ley General Tributaria.",
+      "articulo": "162"
+    },
+    {
+      "id": "lp-t5-b1-003",
+      "enunciado": "De conformidad con el artículo 163, ¿con qué costes deben responder al principio de equivalencia los ingresos por tasas portuarias de cada Autoridad Portuaria?",
+      "opciones": {
+        "a": "Con los costes del Fondo de Compensación Interportuario y de las señales de ayuda marítima de Costas.",
+        "b": "Con los gastos generales de personal de la respectiva provincia marítima autorizados por Hacienda.",
+        "c": "Con los de puesta a disposición de suelo e infraestructuras y con los de servicios prestados.",
+        "d": "Únicamente con los costes fijos de mantenimiento de los diques de abrigo de la Zona I portuaria."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 163 establece que los ingresos por tasas deben responder al principio de equivalencia con los costes de puesta a disposición de suelo e infraestructuras y de los servicios prestados directamente por la Autoridad Portuaria o por SASEMAR.",
+      "articulo": "163"
+    },
+    {
+      "id": "lp-t5-b1-004",
+      "enunciado": "Según el artículo 164.a) del Texto Refundido de la Ley de Puertos, ¿cuál es la referencia obligatoria que se debe tomar para fijar el importe de la tasa de ocupación?",
+      "opciones": {
+        "a": "El valor de mercado del bien de dominio público portuario ocupado.",
+        "b": "El valor catastral asignado al término municipal donde radique la sede de la Autoridad Portuaria.",
+        "c": "El importe neto anual de la cifra de negocios obtenido por el concesionario en el ejercicio anterior.",
+        "d": "La utilidad que derive de la prestación de servicios técnico-náuticos a los buques civiles demaniales."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 164.a) determina que para el importe de la tasa de ocupación se debe tomar como referencia el valor de mercado del bien demanial ocupado.",
+      "articulo": "164"
+    },
+    {
+      "id": "lp-t5-b1-005",
+      "enunciado": "Con arreglo al artículo 165, en caso de aplicarse más de una bonificación a una misma tasa portuaria, ¿cómo debe realizarse dicha aplicación?",
+      "opciones": {
+        "a": "Se aplicará únicamente la bonificación de cuantía más elevada, quedando las restantes sin efecto alguno.",
+        "b": "De forma sucesiva y multiplicativa.",
+        "c": "De forma proporcional al volumen de tráfico marítimo anual que se haya comprometido en el título demanial.",
+        "d": "De forma aditiva y acumulativa, aplicando un descuento directo sobre la cuota líquida resultante."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 165 dispone expresamente que la aplicación de más de una bonificación a una tasa se realizará de forma sucesiva y multiplicativa.",
+      "articulo": "165"
+    },
+    {
+      "id": "lp-t5-b1-006",
+      "enunciado": "De conformidad con el artículo 166.1.a), ¿cuál es el límite superior máximo aplicable a los coeficientes correctores que las Autoridades Portuarias pueden proponer en su Plan de Empresa?",
+      "opciones": {
+        "a": "Un coeficiente máximo de 1,50 para la tasa de la mercancía. regulado en las demaniales del muelle de servicio.",
+        "b": "Un límite del 2,00 para puertos insulares de Baleares y Canarias. regulado en las demaniales del muelle de servicio.",
+        "c": "Los coeficientes correctores propuestos no podrán ser superiores a 1,30.",
+        "d": "Los coeficientes propuestos no podrán superar en ningún caso el 1,10. para la zona de servicio demanial portuaria estatal."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 166.1.a) establece taxativamente que los coeficientes correctores de las tasas del buque (T-1), pasaje (T-2) y mercancía (T-3) no podrán ser superiores a 1,30.",
+      "articulo": "166"
+    },
+    {
+      "id": "lp-t5-b1-007",
+      "enunciado": "Según el artículo 167 del Texto Refundido de la Ley de Puertos, ¿cómo debe llevarse a cabo la repercusión de la tasa en los casos en que la ley establezca el régimen de estimación simplificada?",
+      "opciones": {
+        "a": "Mediante un recargo fijo demanial del diez por ciento aprobado por el Director del puerto demanial.",
+        "b": "Queda totalmente prohibida la repercusión a terceros en este régimen especial de cuantificación.",
+        "c": "Por el doble de la cuota tributaria ordinaria a fin de compensar los costes de administración.",
+        "d": "Por el importe que corresponda a la misma en dicho régimen."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 167 indica que en los supuestos de estimación simplificada, la repercusión, cuando proceda, se realizará por el importe que corresponda a la tasa en dicho régimen.",
+      "articulo": "167"
+    },
+    {
+      "id": "lp-t5-b1-008",
+      "enunciado": "De acuerdo con el artículo 168 del Texto Refundido de la Ley de Puertos, ¿dónde deben encontrarse publicadas obligatoriamente las cuotas íntegras de las tasas de utilización y las bonificaciones aplicables?",
+      "opciones": {
+        "a": "En el tablón de anuncios físicos de las dependencias de la respectiva Capitanía Marítima estatal.",
+        "b": "En el Diario Oficial de la Comunidad Autónoma de ubicación de las dársenas portuarias.",
+        "c": "Únicamente en el Boletín Oficial de la Provincia Marítima de adscripción.",
+        "d": "En el portal de internet de cada Autoridad Portuaria."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 168 ordena que esta información tributaria de tasas, bonificaciones y coeficientes seifique en el portal de internet de cada Autoridad Portuaria, debiendo Puertos del Estado consolidarla en su propio portal.",
+      "articulo": "168"
+    },
+    {
+      "id": "lp-t5-b1-009",
+      "enunciado": "Con arreglo al artículo 169.a) de la Ley de Puertos, ¿cuál de las siguientes administraciones u órganos está exento del pago de la tasa de ocupación por situarse en el dominio público portuario para sus necesidades de funcionamiento?",
+      "opciones": {
+        "a": "Las corporaciones de derecho demanial dedicadas al fomento de la actividad náutico-deportiva en el puerto.",
+        "b": "Los órganos públicos que realicen control oficial de mercancías o de seguridad.",
+        "c": "Las sociedades mercantiles con participación pública autonómica mayoritaria de carácter industrial.",
+        "d": "Los consorcios locales de transporte que gestionen líneas náuticas recreativas o de ocio costero."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 169.a) exime del pago de la tasa de ocupación a los órganos y entidades de las Administraciones públicas que, por necesidades de funcionamiento, deban situarse en el demanio portuario para tareas de control oficial, vigilancia, seguridad, salvamento, etc.",
+      "articulo": "169"
+    },
+    {
+      "id": "lp-t5-b1-010",
+      "enunciado": "Según el artículo 170.c) del Texto Refundido, ¿bajo qué condición están exentos del pago de la tasa de actividad los consignatarios de buques y de mercancías debidamente autorizados?",
+      "opciones": {
+        "a": "Siempre que la fianza demanial de construcción se mantenga vigente en el muelle del puerto.",
+        "b": "Únicamente si operan en régimen de exclusiva para la Sociedad de Salvamento SASEMAR por ley.",
+        "c": "Siempre y cuando sus actividades no impliquen la ocupación de dominio público.",
+        "d": "Siempre que el volumen de fabricación anual de la consignación no supere los cien mil euros."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 170.c) exime del pago de la tasa de actividad a los consignatarios de buques y de mercancías con respecto a su actividad de consignación, siempre y cuando esta no implique la ocupación de dominio público.",
+      "articulo": "170"
+    },
+    {
+      "id": "lp-t5-b1-011",
+      "enunciado": "De conformidad con el artículo 171.e) del Texto Refundido de la Ley de Puertos, ¿qué demaniales embarcaciones están exentas, únicamente respecto a la tasa de ayudas a la navegación?",
+      "opciones": {
+        "a": "Las embarcaciones destinadas al tráfico interior pesquero de rías autonómicas de menos de 10 GT.",
+        "b": "Los buques pesqueros que se encuentren en paro biológico o veda debidamente acreditados por Costas.",
+        "c": "Las embarcaciones deportivas que pertenezcan a federaciones públicas españolas de vela ligera.",
+        "d": "Las demaniales embarcaciones a vela con eslora no superior a 12 metros."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 171.e) exime a las demaniales embarcaciones a vela con eslora no superior a 12 metros de forma exclusiva de la tasa de ayudas a la navegación.",
+      "articulo": "171"
+    },
+    {
+      "id": "lp-t5-b1-012",
+      "enunciado": "Con arreglo al artículo 172.3 del Texto Refundido, ¿qué efectos puede motivar el impago de cualquiera de las tasas portuarias, una vez vencido el período voluntario?",
+      "opciones": {
+        "a": "La incautación de demaniales mercancías que se encuentren en tránsito marítimo por el puerto demanial.",
+        "b": "La demanial nulidad de todos los contratos laborales que mantenga vigentes el demanial licenciatario.",
+        "c": "La demanial prohibición de uso, la demanial suspensión y la posible extinción demanial del título.",
+        "d": "La demanial imposición directa de penas demaniales de libertad por el Director de muelle demanial."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 172.3 prevé que el impago de las tasas en periodo voluntario puede motivar la prohibición de uso de instalaciones, suspensión de actividad y, eventualmente, la extinción de la concesión o licencia correspondientes.",
+      "articulo": "172"
+    },
+    {
+      "id": "lp-t5-b1-013",
+      "enunciado": "De conformidad con el artículo 173 del Texto Refundido de la Ley de Puertos, ¿en qué consiste el hecho imponible de la tasa de ocupación?",
+      "opciones": {
+        "a": "La ocupación del dominio público portuario, vuelo y subsuelo, por concesión o autorización.",
+        "b": "En la prestación de servicios comerciales en régimen de competencia por operadores privados autorizados.",
+        "c": "En la utilización por los buques de las demaniales aguas de la Zona II o exterior del puerto estatal.",
+        "d": "En el atraque, fondeo y estancia de embarcaciones pesqueras o recreativas que no tengan base en el puerto."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 173 define el hecho imponible de la tasa de ocupación como la ocupación demanial portuaria (incluyendo vuelo y subsuelo) en virtud de concesión o autorización, abarcando también los servicios comunes relacionados.",
+      "articulo": "173"
+    },
+    {
+      "id": "lp-t5-b1-014",
+      "enunciado": "Según establece el artículo 174 del Texto Refundido de la Ley de Puertos, ¿quiénes son los sujetos pasivos contribuyentes de la tasa de ocupación?",
+      "opciones": {
+        "a": "El propietario de la mercancía o el operador logístico en tránsito.",
+        "b": "El capitán del buque civil mercante o su consignatario demanial.",
+        "c": "El concesionario o el titular de la autorización.",
+        "d": "La demanial de servicios técnicos con licencia regulada por el Consejo."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 174 dispone que los sujetos pasivos de la tasa de ocupación, en calidad de contribuyentes, son los titulares del título administrativo correspondiente, ya sea una concesión o una autorización.",
+      "articulo": "174"
+    },
+    {
+      "id": "lp-t5-b1-015",
+      "enunciado": "Con arreglo al artículo 175.a) del Texto Refundido, ¿cómo se determina la base imponible en el supuesto de ocupación de terrenos del dominio público portuario?",
+      "opciones": {
+        "a": "Sobre la base del valor de los terrenos, determinado según criterios de mercado.",
+        "b": "Aplicando un porcentaje sobre la cifra de negocios anual obtenida en la superficie demanial concesionada.",
+        "c": "Tomando como referencia el valor catastral del suelo fijado de forma anual por el Ayuntamiento de ubicación.",
+        "d": "En función de la eslora y manga de los buques mercantes que operen en el muelle demanial de la Autoridad."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 175.a) estipula que la base imponible para la ocupación de terrenos se calcula sobre el valor del suelo determinado mediante criterios de mercado, dividiendo la zona de servicio en áreas funcionales.",
+      "articulo": "175"
+    },
+    {
+      "id": "lp-t5-b1-016",
+      "enunciado": "De conformidad con el artículo 176.1.a), ¿cuál es el tipo de gravamen aplicable a la base imponible en el supuesto de ocupación de terrenos y aguas para actividades portuarias comerciales, de servicios, pesqueras o náutico-deportivas?",
+      "opciones": {
+        "a": "El 6,5 por ciento aplicable para las demaniales de urbanización y de logística complementaria.",
+        "b": "El 7,5 por ciento aplicable a todos los usos que se vinculen a la interacción puerto-ciudad.",
+        "c": "El 2,75 por ciento aplicable con carácter consolidado para las de vuelo o subsuelo del puerto.",
+        "d": "El 5,5 por ciento."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 176.1.a).1.º establece que para la ocupación de terrenos y aguas con destino a actividades de intercambio de modos de transporte, de servicios portuarios o comerciales, de pesca o náutico-deportivas, el tipo de gravamen es del 5,5%.",
+      "articulo": "176"
+    },
+    {
+      "id": "lp-t5-b1-017",
+      "enunciado": "De acuerdo con el artículo 177.1 del Texto Refundido, ¿quién aprueba la valoración de la zona de servicio del puerto a propuesta de cada Autoridad Portuaria y tras qué trámite de exposición?",
+      "opciones": {
+        "a": "El Consejo Rector de Puertos del Estado, previo dictamen demanial sectorial de defensa de la Nación.",
+        "b": "El Ministro de Fomento, previo informe de Hacienda y Puertos del Estado, y tras información pública de 20 días.",
+        "c": "El demanial Consejo de Administración de cada puerto, tras una demanial de quince días de muelle.",
+        "d": "El Consejo de demaniales Ministros, a propuesta de Hacienda, tras una demanial pública de un mes de muelle."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 177.1 atribuye al Ministro de Fomento la competencia para aprobar la valoración de la zona de servicio mediante orden ministerial, requiriéndose informes de Hacienda y Puertos del Estado, y un trámite de información pública previo de 20 días.",
+      "articulo": "177"
+    },
+    {
+      "id": "lp-t5-b1-018",
+      "enunciado": "Según dispone el artículo 178.2 de la ley, ¿cuál es el porcentaje máximo de incremento acumulado que puede sufrir la cuota íntegra de la tasa de ocupación durante la vigencia de la concesión como consecuencia de las revisiones de valoración?",
+      "opciones": {
+        "a": "Se demanial un incremento demanial máximo del cinco por ciento hasta demanial del puerto demanial.",
+        "b": "No podrá incrementarse en más de un 20 por ciento cada 15 años.",
+        "c": "No demanial superar demanialmente el diez de demanial fianza provisional de muelle demanial del puerto.",
+        "d": "No se demanial demanial porcentual a las demaniales revisiones de suelo de interacción de puerto-ciudad."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 178.2 limita el encarecimiento de la cuota por revisiones de valoración, disponiendo que el importe de la cuota íntegra no podrá incrementarse en más de un 20% cada 15 años respecto de la fijada originalmente o en la revisión anterior, actualizada por el IPC (excepto para interacción puerto-ciudad).",
+      "articulo": "178"
+    },
+    {
+      "id": "lp-t5-b1-019",
+      "enunciado": "De conformidad con el artículo 179.2 del Texto Refundido, ¿cuál es el plazo máximo que pueden abarcar las liquidaciones de la tasa de ocupación que se exigen por adelantado?",
+      "opciones": {
+        "a": "No podrán ser superiores a un año.",
+        "b": "Un plazo demanial de seis meses, demanial demanialmente de muelle demanial de servicio demanial.",
+        "c": "Un demanial de tres años de demanial de las demaniales de corta duración del demanio portuario.",
+        "d": "Se demanial con carácter trimestral de demanial de muelle e demanial de servicio del puerto demanial."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 179.2 establece que la tasa de ocupación se exige por adelantado en plazos que determine la concesión o autorización, los cuales no pueden ser superiores a un año.",
+      "articulo": "179"
+    },
+    {
+      "id": "lp-t5-b1-020",
+      "enunciado": "Con arreglo al artículo 180 del Texto Refundido de la Ley de Puertos, ¿qué naturaleza y régimen de actualización tienen las cantidades adicionales que los licitadores oferten en los concursos?",
+      "opciones": {
+        "a": "Carecen de naturaleza demanial tributaria y no demanial al demanial de actualización por ley del muelle.",
+        "b": "Tienen el carácter de depósitos demaniales, debiendo ser demanial al demanial de muelle del puerto.",
+        "c": "Tienen demanial de recargo demanial, debiendo demanialmente de demanial con la demanial de muelle demanial.",
+        "d": "Constituyen demaniales de derecho demanial tributario demanial al tipo de demanial del demanio del puerto."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 180 dispone que los importes adicionales ofertados por los licitadores en los concursos carecen de naturaleza tributaria (son de derecho privado o comercial) y no se someten al régimen de actualización previsto para las tasas.",
+      "articulo": "180"
+    }
+  ]
+}

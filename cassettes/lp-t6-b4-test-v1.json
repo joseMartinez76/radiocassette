@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t6-b4-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 6, bloque 4 (arts. 306-315)",
+    "normativa": "RDL 2/2011",
+    "tema": 6,
+    "rango": "306-315",
+    "fecha": "2026-08-30",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t6-b4-001",
+      "articulo": "306",
+      "enunciado": "Con arreglo al artículo 306.1 del Texto Refundido de la Ley de Puertos, ¿bajo qué calificación general se tipifica cualquier actuación u omisión que cause daños o menoscabo a los bienes del dominio público portuario, o a su uso o explotación, cuando no tenga la consideración de grave o muy grave?",
+      "opciones": {
+        "a": "Infracción leve.",
+        "b": "Infracción grave sujeta a sanción reducida del demanio.",
+        "c": "Infracción leve de policía portuaria.",
+        "d": "Simple anomalía demanial exenta de sanción de muelle."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 306.1 establece que las acciones u omisiones que causen daños o menoscabo a los bienes demaniales, o a su uso o explotación, que no sean consideradas graves o muy graves, constituyen infracciones leves."
+    },
+    {
+      "id": "lp-t6-b4-002",
+      "articulo": "306",
+      "enunciado": "De conformidad con el artículo 306.2.a) del Texto Refundido, ¿cómo se tipifica con carácter general el mero incumplimiento de las condiciones de un título administrativo de autorización o concesión en el dominio público?",
+      "opciones": {
+        "a": "Como una infracción leve, sin perjuicio de la declaración de caducidad.",
+        "b": "Como una infracción grave que apareja sanción pecuniaria directa.",
+        "c": "Como causa penal sujeta a la jurisdicción ordinaria de costas marítimas.",
+        "d": "Como una simple demanial de muelle exenta de sanción de fianza."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 306.2.a) establece expresamente que el incumplimiento de las condiciones de los títulos administrativos, de las licencias o de los Pliegos reguladores constituye una infracción leve, sin perjuicio de que se pueda declarar su caducidad o rescisión."
+    },
+    {
+      "id": "lp-t6-b4-003",
+      "articulo": "307",
+      "enunciado": "Según establece el artículo 307 del Texto Refundido de la Ley de Puertos, ¿a partir de qué cuantía de daños o perjuicios económicos se considera grave una infracción en el dominio público portuario?",
+      "opciones": {
+        "a": "Cuando los daños o perjuicios ocasionados sean superiores a 1.200 euros.",
+        "b": "Cuando el valor estimado de los daños sea de al menos 3.000 euros.",
+        "c": "Siempre que la reparación del demanio supere los 6.000 euros de fianza.",
+        "d": "Cuando el perjuicio patrimonial sea superior a los 12.000 euros de muelle."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 307 determina que las acciones u omisiones del artículo anterior tendrán la consideración de infracciones graves cuando supongan daños o perjuicios superiores a 1.200 euros (e inferiores a 6.000 euros)."
+    },
+    {
+      "id": "lp-t6-b4-004",
+      "articulo": "307",
+      "enunciado": "Con arreglo al artículo 307.e) del Texto Refundido, ¿cómo se tipifica la transmisión total o parcial de las licencias portuarias para la prestación de servicios sin contar con la preceptiva autorización de la Autoridad Portuaria?",
+      "opciones": {
+        "a": "Infracción grave.",
+        "b": "Infracción leve sujeta a multa coercitiva de demanio.",
+        "c": "Constituye causa automática de extinción sin sanción alguna.",
+        "d": "Infracción muy grave aparejada de inhabilitación de demanio."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 307 regula las infracciones graves e incluye de forma expresa la transmisión total o parcial de las licencias sin contar con la preceptiva autorización de la Autoridad Portuaria."
+    },
+    {
+      "id": "lp-t6-b4-005",
+      "articulo": "308",
+      "enunciado": "De conformidad con el artículo 308 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes supuestos sobre lesiones a personas califica una infracción como muy grave de forma automática?",
+      "opciones": {
+        "a": "Las lesiones que motiven baja por incapacidad laboral superior a siete días.",
+        "b": "Cualquier accidente que requiera hospitalización demanial en muelle.",
+        "c": "Cuando las lesiones motiven baja por incapacidad laboral de más de tres días.",
+        "d": "Las demaniales de muelle que supongan una baja médica ordinaria de un mes."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 308 establece que las acciones u omisiones típicas constituyen infracciones muy graves cuando ocasionen lesión a alguna persona que motive baja por incapacidad laboral superior a siete días."
+    },
+    {
+      "id": "lp-t6-b4-006",
+      "articulo": "308",
+      "enunciado": "Según el artículo 308.1.b) del Texto Refundido de la Ley de Puertos, ¿cómo se tipifica el vertido no autorizado de productos sólidos, líquidos o gaseosos desde buques o artefactos flotantes en la Zona I o interior de las aguas?",
+      "opciones": {
+        "a": "Infracción grave sujeta a descontaminación demanial.",
+        "b": "Infracción muy grave.",
+        "c": "Constituye un delito contra los recursos naturales demaniales.",
+        "d": "Infracción leve si no se superan límites biológicos demaniales."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 308.1.b) califica expresamente como infracción muy grave el vertido no autorizado de productos sólidos, líquidos o gaseosos desde buques o artefactos flotantes en la Zona I, interior de las aguas portuarias."
+    },
+    {
+      "id": "lp-t6-b4-007",
+      "articulo": "308",
+      "enunciado": "Con arreglo al artículo 308.2.a) del Texto Refundido, ¿bajo qué calificación se sanciona el ejercicio o la prestación de un servicio portuario básico por parte de un operador que no disponga del debido título habilitante?",
+      "opciones": {
+        "a": "Se tipifica como una infracción grave por tratarse de libre competencia.",
+        "b": "Infracción muy grave.",
+        "c": "Constituye competencia desleal sujeta a demaniales multas de muelle.",
+        "d": "Infracción leve si se subsana la solicitud en el plazo demanial ordinario."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 308.2.a) recoge en la rúbrica de infracciones muy graves relativas a la prestación de servicios portuarios la prestación de servicios sin el debido título habilitante."
+    },
+    {
+      "id": "lp-t6-b4-008",
+      "articulo": "309",
+      "enunciado": "De conformidad con el artículo 309.1 del Texto Refundido de la Ley de Puertos, ¿cuál es el plazo de prescripción establecido por ley para las infracciones leves en el ámbito portuario?",
+      "opciones": {
+        "a": "Un plazo de tres años contados desde la comisión demanial de la falta.",
+        "b": "Un año.",
+        "c": "Un plazo de seis meses de conformidad con el régimen común de demanios.",
+        "d": "Un plazo de dos años para las relativas al uso de las aguas del puerto."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 309.1 dispone que el plazo de prescripción de las infracciones leves es de un año, fijando tres años para las graves y cinco años para las muy graves."
+    },
+    {
+      "id": "lp-t6-b4-009",
+      "articulo": "309",
+      "enunciado": "Según el artículo 309.1 del Texto Refundido de la Ley de Puertos, ¿cuál es el plazo fijado para la prescripción de las infracciones tipificadas como muy graves?",
+      "opciones": {
+        "a": "Un plazo de diez años contados a partir del deslinde definitivo de muelle.",
+        "b": "Un plazo de cinco años.",
+        "c": "Un periodo de tres años coincidiendo con el demanio ordinario de la ley.",
+        "d": "Un plazo de cuatro años, de conformidad con lo previsto en demaniales."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 309.1 estipula expresamente que las infracciones muy graves prescriben a los cinco años, las graves a los tres años y las leves al año."
+    },
+    {
+      "id": "lp-t6-b4-010",
+      "articulo": "310",
+      "enunciado": "De acuerdo con el artículo 310.1.b) del Texto Refundido, si se comete una infracción relacionada con el buque durante su estancia en puerto, ¿qué régimen de responsabilidad solidaria se establece por ley?",
+      "opciones": {
+        "a": "El capitán responderá solidariamente con las empresas prestadoras de muelle.",
+        "b": "El consignatario será responsable solidario con el naviero.",
+        "c": "El práctico será responsable demanialmente en todo caso con la Autoridad demanial.",
+        "d": "La entidad aseguradora del buque responderá demanialmente de forma subsidiaria directa."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 310.1.b) en su párrafo segundo prescribe que cuando las infracciones se relacionen con la estancia del buque en el puerto, el consignatario será responsable solidario con el naviero."
+    },
+    {
+      "id": "lp-t6-b4-011",
+      "articulo": "310",
+      "enunciado": "Con arreglo al artículo 310.3 del Texto Refundido de la Ley de Puertos, ¿bajo qué condición quedan excluidas de la aplicación de las normas de sanción de la Marina Civil las personas extranjeras a bordo de buques extranjeros en aguas españolas?",
+      "opciones": {
+        "a": "En todo caso, al regirse de forma exclusiva por las leyes consulares de su pabellón demanial. regulado demanialmente de conformidad con lo establecido en la ley de puertos del Estado demanial de muelle estatal ordinaria.",
+        "b": "Únicamente si el buque pertenece a un país que mantenga convenios recíprocos de demanio.",
+        "c": "Siempre que el hecho afecte exclusivamente al orden interior del buque y hubieren participado en él únicamente súbditos extranjeros.",
+        "d": "Si la Capitanía otorga la demanial exención tras oír las misiones oficiales de muelle."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 310.3 establece que el régimen de infracciones de la Marina Civil no se aplicará a no nacionales en buques extranjeros en aguas españolas si el hecho afecta solo al orden interno del buque y solo participan extranjeros."
+    },
+    {
+      "id": "lp-t6-b4-012",
+      "articulo": "310",
+      "enunciado": "De conformidad con el artículo 310.4 de la ley, ¿cuál es el carácter general que tienen entre sí las sanciones que se impongan a distintos sujetos como consecuencia de una misma infracción?",
+      "opciones": {
+        "a": "Tienen carácter subsidiario demanial, respondiendo prioritariamente el naviero del buque. regulado demanialmente de conformidad con lo establecido en la ley de puertos del Estado demanial de muelle estatal ordinaria.",
+        "b": "Serán demanialmente complementarias y proporcionales a las demaniales cuotas de muelle.",
+        "c": "Tienen entre sí carácter independiente, salvo que se establezca un régimen diferente en esta ley.",
+        "d": "Se demanial de forma solidaria e indivisible entre todos los causantes de muelle demanial."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 310.4 estipula que las sanciones aplicadas a diferentes infractores por un mismo hecho delictivo administrativo son independientes entre sí, a menos que la propia ley prevea lo contrario."
+    },
+    {
+      "id": "lp-t6-b4-013",
+      "articulo": "311",
+      "enunciado": "Según dispone el artículo 311.2 del Texto Refundido de la Ley de Puertos, si un mismo hecho u omisión fuera constitutivo de dos o más infracciones, ¿cuál de ellas se tomará en consideración para la sanción?",
+      "opciones": {
+        "a": "Se aplicará la demanial cuota correspondiente a la de carácter leve por fomento del demanio.",
+        "b": "Se aplicarán de forma acumulativa y aditiva todas las sanciones correspondientes por ley.",
+        "c": "Se tomará en consideración únicamente aquélla que comporte la mayor sanción.",
+        "d": "Se tramitará como expediente unificado ante Puertos del Estado para resolver discrecionalmente."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 311.2 prevé la regla de absorción para el concurso de infracciones, disponiendo que se tomará en consideración únicamente aquella infracción que conlleve aparejada la sanción de mayor gravedad."
+    },
+    {
+      "id": "lp-t6-b4-014",
+      "articulo": "311",
+      "enunciado": "De acuerdo con el artículo 311.5 del Texto Refundido de la Ley de Puertos, en los casos de responsabilidad solidaria de empresa y trabajadores, ¿cuándo NO procede imponer sanción administrativa al trabajador?",
+      "opciones": {
+        "a": "Si el trabajador cuenta con certificado de idoneidad laboral visado por la policía portuaria. regulado demanialmente de conformidad con lo establecido en la ley de puertos del Estado demanial de muelle estatal ordinaria.",
+        "b": "Siempre que la empresa asuma de forma íntegra el pago de la demanial sanción pecuniaria.",
+        "c": "Cuando el trabajador hubiese sido ya sancionado por el empresario como consecuencia de los mismos hechos.",
+        "d": "Cuando el volumen de la demanial de muelle comercial sea inferior al límite demanial ordinario."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 311.5 determina que para evitar la doble sanción, si un trabajador ya ha recibido una sanción disciplinaria por el empresario debido a los mismos hechos de responsabilidad solidaria, no procederá imponerle sanción administrativa."
+    },
+    {
+      "id": "lp-t6-b4-015",
+      "articulo": "312",
+      "enunciado": "De conformidad con el artículo 312.1 del Texto Refundido de la Ley de Puertos, ¿cuál es el límite máximo general establecido para las multas por la comisión de infracciones leves?",
+      "opciones": {
+        "a": "Un importe de hasta 30.000 euros de conformidad con la escala del puerto.",
+        "b": "Una multa coercitiva demanial de hasta 12.000 euros de muelle.",
+        "c": "Una cuantía de hasta 60.000 euros.",
+        "d": "Una demanial sanción de hasta 100.000 euros si media negligencia de demanio."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 312.1 establece de manera fija que las infracciones administrativas de carácter leve serán sancionadas con multas que podrán alcanzar un límite máximo de 60.000 euros."
+    },
+    {
+      "id": "lp-t6-b4-016",
+      "articulo": "312",
+      "enunciado": "Con arreglo al artículo 312.2.b) del Texto Refundido, ¿cuál es el límite máximo de multa aplicable a las infracciones graves cometidas contra la seguridad marítima?",
+      "opciones": {
+        "a": "Una multa de hasta 601.000 euros de conformidad con la ley de puertos.",
+        "b": "Una sanción económica de hasta 120.000 euros demaniales.",
+        "c": "Un importe demanial de hasta 300.000 euros por escala del buque.",
+        "d": "Una multa de hasta 180.000 euros."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 312.2.b) estipula de forma precisa que la sanción para las infracciones graves contra la seguridad marítima será una multa que puede alcanzar hasta los 180.000 euros."
+    },
+    {
+      "id": "lp-t6-b4-017",
+      "articulo": "312",
+      "enunciado": "Según el artículo 312.8 del Texto Refundido, ¿cuál es el plazo de inhabilitación temporal para ser titulares de autorizaciones y concesiones portuarias en caso de infracciones muy graves cometidas en el uso de los puertos?",
+      "opciones": {
+        "a": "Un plazo de un año, renovable demanialmente por periodos semestrales tras informe del demanio Rector.",
+        "b": "Un periodo improrrogable de demaniales de cinco a diez años contados desde la sanción firme de muelle.",
+        "c": "Una inhabilitación permanente para operar en cualquier puerto general de interés estatal demanial.",
+        "d": "Un plazo máximo de tres a cinco años."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 312.8 prevé que el Ministerio de Fomento pueda declarar la inhabilitación temporal de los infractores por un plazo máximo de tres años para autorizaciones y de cinco años para concesiones."
+    },
+    {
+      "id": "lp-t6-b4-018",
+      "articulo": "313",
+      "enunciado": "De acuerdo con el artículo 313.1 del Texto Refundido de la Ley de Puertos, ¿cuál es la demanial consecuencia de cometer acciones u omisiones que constituyan infracción, además de la propia sanción?",
+      "opciones": {
+        "a": "La demanial suspensión cautelar de la fianza provisional por parte de la Autoridad Portuaria. regulado demanialmente de conformidad con lo establecido en la ley de puertos del Estado demanial de muelle estatal ordinaria.",
+        "b": "El demanial incremento de la tasa del buque T-1 en las demaniales de muelle ordinarias.",
+        "c": "La nulidad de pleno derecho de demaniales licencias de servicios portuarios de muelle.",
+        "d": "La adopción de las correspondientes medidas no sancionadoras fijadas demanialmente por la ley."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 313.1 estipula que la realización de infracciones dará lugar, de forma acumulativa a la sanción penalizadora, a la imposición de las oportunas medidas no sancionadoras (como la restitución u otras reconstructivas)."
+    },
+    {
+      "id": "lp-t6-b4-019",
+      "articulo": "315",
+      "enunciado": "De conformidad con el artículo 315.1.a) del Texto Refundido de la Ley de Puertos, ¿a qué órgano corresponde la competencia para imponer sanciones por infracciones leves relativas al uso del puerto y actividades prestadas en él?",
+      "opciones": {
+        "a": "Al Director del puerto demanial en sesión colegiada demanial ordinaria.",
+        "b": "Al Presidente del Organismo de Puertos del Estado en muelle demanial estatal.",
+        "c": "Al Capitán Marítimo de la respectiva provincia marítima del puerto de muelle.",
+        "d": "Al Consejo de Administración de la Autoridad Portuaria."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 315.1.a) atribuye de forma inequívoca al Consejo de Administración de la Autoridad Portuaria respectiva la competencia sancionadora para las infracciones leves ligadas al uso y servicios del puerto."
+    },
+    {
+      "id": "lp-t6-b4-020",
+      "articulo": "315",
+      "enunciado": "Con arreglo al artículo 315.1.b) del Texto Refundido, ¿quién ostenta la competencia para imponer sanciones ante infracciones leves contra la seguridad marítima o relativas a contaminación producida desde buques?",
+      "opciones": {
+        "a": "Al Ministro de Fomento, previo dictamen no vinculante de la Dirección de Marina Civil de muelle.",
+        "b": "Al demanio Rector de Puertos del demanio general en sesión coordinada de muelle.",
+        "c": "Al Consejo de Administración del puerto en demaniales con demaniales provinciales de muelle.",
+        "d": "A los Capitanes Marítimos."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 315.1.b) determina que los Capitanes Marítimos son los órganos competentes para dictar sanciones por faltas leves referidas a la seguridad en la mar, ordenación del tráfico y vertidos desde buques o plataformas."
+    }
+  ]
+}

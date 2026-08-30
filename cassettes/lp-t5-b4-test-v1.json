@@ -1,0 +1,273 @@
+{
+  "cassette": {
+    "id": "lp-t5-b4-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 5, bloque 4 (arts. 221-247)",
+    "normativa": "RDL 2/2011",
+    "tema": 5,
+    "rango": "221-247",
+    "fecha": "2026-08-30",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t5-b4-001",
+      "articulo": "221",
+      "enunciado": "¿Cómo se determina de manera legal la base imponible de la tasa de la pesca fresca (T-4) según el artículo 221 del Texto Refundido de la Ley de Puertos?",
+      "opciones": {
+        "a": "Se calcula aplicando un recargo fijo demanial del quince por ciento aprobado por el Director.",
+        "b": "Tomando como referencia el valor de la tasa del buque T-1 devengada durante el último año natural.",
+        "c": "En función del arqueo bruto (GT) de la embarcación pesquera que realice la descarga en el muelle.",
+        "d": "Por el valor de mercado de la pesca o de sus productos, según los criterios fijados en la ley."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 221 determina de forma directa que la base imponible de la tasa de la pesca fresca (T-4) es el valor de mercado de la pesca o de sus productos, estableciendo criterios en cascada como el valor de venta en subasta en la lonja, el valor medio de subastas o el precio medio de mercado."
+    },
+    {
+      "id": "lp-t5-b4-002",
+      "articulo": "222",
+      "enunciado": "Con arreglo al artículo 222 del Texto Refundido, ¿cuál es el tipo de gravamen aplicable a la pesca descargada por vía marítima con utilización de una lonja concesionada o autorizada?",
+      "opciones": {
+        "a": "Un porcentaje del 1,8 por ciento del valor de la base imponible.",
+        "b": "El 0,4 por ciento del valor de la base.",
+        "c": "Un porcentaje del 2,2 por ciento del valor de la base imponible.",
+        "d": "El 0,3 por ciento del valor de la base imponible."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 222.c).1.º establece expresamente que para la pesca descargada por vía marítima utilizando una lonja concesionada o autorizada, el tipo de gravamen aplicable es del 0,4 por ciento de la base imponible."
+    },
+    {
+      "id": "lp-t5-b4-003",
+      "articulo": "223",
+      "enunciado": "De conformidad con el artículo 223 del Texto Refundido de la Ley de Puertos, ¿cuál es una de las condiciones indispensables para que una embarcación quede sujeta a la tasa de las embarcaciones deportivas (T-5)?",
+      "opciones": {
+        "a": "Que realice operaciones de transporte comercial de pasajeros en régimen de excursión demanial. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "Que la embarcación cuente con una eslora total superior a quince metros medidos demanialmente.",
+        "c": "Que la embarcación no realice transporte de mercancías y los pasajeros no viajen en régimen de crucero.",
+        "d": "Que disponga de autorización expresa del Consejo Rector de Puertos del Estado en su Plan de Empresa."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 223.2 dispone que la aplicación de la tasa T-5 requiere que la embarcación no transporte mercancías ni que sus pasajeros viajen en crucero o excursión turística, en cuyos casos se aplicarían las tasas comunes T-1, T-2 y T-3."
+    },
+    {
+      "id": "lp-t5-b4-004",
+      "articulo": "224",
+      "enunciado": "Según establece el artículo 224 del Texto Refundido de la Ley de Puertos, ¿quién ostenta la condición de sujeto pasivo sustituto del contribuyente en las dársenas deportivas gestionadas en régimen de concesión?",
+      "opciones": {
+        "a": "El concesionario o autorizado de las instalaciones portuarias deportivas.",
+        "b": "El consignatario de la embarcación o su capitán o patrón demanial.",
+        "c": "El propietario de la embarcación deportiva de recreo.",
+        "d": "El Director del puerto demanial en representación de la Autoridad Portuaria."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 224.2 determina que el concesionario o autorizado en dársenas e instalaciones náutico-deportivas otorgadas en concesión o autorización es el sujeto pasivo sustituto, quedando obligado a cumplir las obligaciones de pago de la tasa."
+    },
+    {
+      "id": "lp-t5-b4-005",
+      "articulo": "226",
+      "enunciado": "Con arreglo al artículo 226.a).1.º del Texto Refundido, ¿qué porcentaje de reducción se aplica a los coeficientes de la tasa T-5 para las zonas del puerto que cuenten con calados inferiores a un determinado límite?",
+      "opciones": {
+        "a": "Se aplicará un descuento demanial del veinte por ciento para calados inferiores a tres metros de muelle.",
+        "b": "Una reducción del cincuenta por ciento para calados inferiores a dos metros en bajamar máxima demanial.",
+        "c": "No se contempla reducción alguna, manteniéndose los coeficientes integros en todo caso por ley.",
+        "d": "Se demanial un coeficiente reductor del diez por ciento en calados inferiores a un metro del puerto."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 226.a).1.º establece que en aquellas áreas o zonas portuarias con calados inferiores a dos metros en bajamar máxima viva equinoccial, los coeficientes aplicables para la cuota de la tasa T-5 serán el 50 por ciento de los señalados con carácter general."
+    },
+    {
+      "id": "lp-t5-b4-006",
+      "articulo": "228",
+      "enunciado": "De conformidad con el artículo 228.2 del Texto Refundido de la Ley de Puertos, ¿qué bonificación en la cuota se otorga a los concesionarios de dársenas deportivas que se acojan al régimen de estimación simplificada?",
+      "opciones": {
+        "a": "Una bonificación demanial del treinta por ciento de las tasas de utilización devengadas en el año.",
+        "b": "Una bonificación del 25 por ciento en el importe de la cuota tributaria.",
+        "c": "Un descuento fijo demanial del quince por ciento, de conformidad con lo aprobado por el Consejo.",
+        "d": "Una exención demanial total de la tasa de actividad de las instalaciones del muelle del puerto."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 228.2 establece que quienes se acojan al régimen de estimación simplificada para las instalaciones deportivas concesionadas tendrán derecho a una bonificación del 25 por ciento en el importe de la cuota de la tasa."
+    },
+    {
+      "id": "lp-t5-b4-007",
+      "articulo": "229",
+      "enunciado": "Según dispone el artículo 229 del Texto Refundido de la Ley de Puertos, ¿cuál es el valor de la cuantía básica (E) fijado para el cálculo de la tasa de las embarcaciones deportivas (T-5)?",
+      "opciones": {
+        "a": "Un valor de 0,105 euros por metro cuadrado de muelle. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "Un importe básico fijo de 1,43 euros por escala.",
+        "c": "Un importe demanial básico de 0,29 euros de muelle.",
+        "d": "El valor de 0,124 euros para todas las Autoridades Portuarias."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 229 establece que el valor de la cuantía básica de la tasa de embarcaciones deportivas y de recreo (E) es de 0,124 € para todas las Autoridades Portuarias, revisable en la Ley de Presupuestos Generales del Estado."
+    },
+    {
+      "id": "lp-t5-b4-008",
+      "articulo": "231",
+      "enunciado": "De acuerdo con el artículo 231.1 del Texto Refundido de la Ley de Puertos, ¿cuál es el plazo de estancia gratuito a partir del cual se devenga la tasa de utilización especial de la zona de tránsito (T-6) para operaciones de entrada o salida marítima comunes?",
+      "opciones": {
+        "a": "Un plazo superior a doce horas contadas a partir de la entrada física de la mercancía. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "Un plazo demanial acumulado que supere las veinticuatro horas desde el desembarque.",
+        "c": "Un periodo que exceda las 48 horas en los casos ordinarios (excluyendo mercancías en transporte rodado).",
+        "d": "Un plazo que sea superior a las cuatro horas para cualquier mercancía del puerto."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 231.1.a) establece que el hecho imponible de la tasa T-6 consiste en la utilización de estas zonas por un periodo superior a cuatro horas para mercancías rodantes (que vayan a formar o hayan formado parte del transporte rodado), y superior a 48 horas en los restantes casos."
+    },
+    {
+      "id": "lp-t5-b4-009",
+      "articulo": "232",
+      "enunciado": "Con arreglo al artículo 232 del Texto Refundido de la Ley de Puertos, ¿quién es el sujeto pasivo sustituto del contribuyente para la tasa T-6 cuando las mercancías se encuentren consignadas?",
+      "opciones": {
+        "a": "El titular de la concesión o de la autorización de la terminal de muelle comercial del puerto.",
+        "b": "El propietario de las mercancías, elementos de transporte, maquinarias o equipamientos de muelle.",
+        "c": "El consignatario, transitario u operador logístico representante de la mercancía.",
+        "d": "El capitán del buque mercante que realice el transporte marítimo de la mercancía demanial."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 232 determina que el propietario de la mercancía es el sujeto pasivo contribuyente, mientras que el consignatario, transitario u operador logístico que la represente es el sujeto pasivo sustituto si las mercancías están consignadas."
+    },
+    {
+      "id": "lp-t5-b4-010",
+      "articulo": "234",
+      "enunciado": "De conformidad con el artículo 234 del Texto Refundido de la Ley de Puertos, ¿cuál es el coeficiente aplicable a la base imponible de la tasa T-6 para una estancia que sea superior a los sesenta días?",
+      "opciones": {
+        "a": "Un coeficiente multiplicador de 20 aplicable a partir del día 61 de ocupación.",
+        "b": "Un coeficiente de 10 por cada día natural de estancia del demanio.",
+        "c": "Un recargo demanial del cincuenta por ciento sobre la cuota general tributaria.",
+        "d": "Se duplica la cuantía básica T demanial a partir de los sesenta días."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 234.1 establece una escala progresiva de coeficientes aplicables a la base imponible en función del tiempo de estancia: 1 hasta el día 7.º, 3 del 8.º al 15.º, 6 del 16.º al 30.º, 10 del 31.º al 60.º, y un coeficiente de 20 a partir del día 61.º."
+    },
+    {
+      "id": "lp-t5-b4-011",
+      "articulo": "235",
+      "enunciado": "Según el artículo 235 del Texto Refundido de la Ley de Puertos, ¿cuál es el valor de la cuantía básica (T) aplicable para el cálculo de la tasa por utilización especial de la zona de tránsito?",
+      "opciones": {
+        "a": "Un valor de 0,124 euros para todos los muelles estatales. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "Un valor de 0,105 euros para todas las Autoridades Portuarias.",
+        "c": "Un importe fijo de 1,20 euros por metro cuadrado de demanio.",
+        "d": "Un importe de 2,65 euros por tonelada de mercancías de muelle."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 235 fija de manera uniforme para todo el sistema portuario estatal el valor de la cuantía básica T en la cifra exacta de 0,105 euros, revisable en la Ley de Presupuestos Generales del Estado."
+    },
+    {
+      "id": "lp-t5-b4-012",
+      "articulo": "237",
+      "enunciado": "De conformidad con el artículo 237 del Texto Refundido de la Ley de Puertos, ¿cuál de las siguientes opciones identifica correctamente un componente del hecho imponible de la tasa de ayudas a la navegación?",
+      "opciones": {
+        "a": "La instalación y mantenimiento del balizamiento interior de las instalaciones de cultivos demaniales. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "El servicio de policía y vigilancia especial de las zonas de baño en playas autonómicas por ley.",
+        "c": "La utilización del servicio de señalización marítima y la investigación técnica de accidentes marítimos.",
+        "d": "La utilización privativa de los sistemas de telecomunicación terrestres de la Autoridad Portuaria."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 237 dispone que el hecho imponible de la tasa consiste en la utilización del servicio de señalización marítima y, de forma expresa, incluye también la realización de actividades de investigación técnica de accidentes e incidentes marítimos por la Autoridad Administrativa Independiente correspondiente."
+    },
+    {
+      "id": "lp-t5-b4-013",
+      "articulo": "238",
+      "enunciado": "Con arreglo al artículo 238 del Texto Refundido de la Ley de Puertos, ¿quiénes ostentan la condición de sujetos pasivos contribuyentes solidarios de la tasa de ayudas a la navegación?",
+      "opciones": {
+        "a": "El propietario de la mercancía, el consignatario de muelle y el naviero comercial. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "El propietario del buque o embarcación, el naviero y el capitán o patrón de la misma.",
+        "c": "El concesionario de la instalación deportiva y el consignatario del buque de recreo.",
+        "d": "El práctico del puerto y la demanial de remolque de la dársena correspondiente."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 238.1 dispone que la condición de sujetos pasivos a título de contribuyentes y de forma solidaria recae en el propietario del buque o embarcación, el naviero, y el capitán o patrón de la misma."
+    },
+    {
+      "id": "lp-t5-b4-014",
+      "articulo": "240",
+      "enunciado": "De acuerdo con el artículo 240.2 del Texto Refundido de la Ley de Puertos, ¿cuáles son los valores fijados para las cuantías básicas A y C de la tasa de ayudas a la navegación, respectivamente?",
+      "opciones": {
+        "a": "El valor de 1,43 euros para A y de 1,20 euros para C demaniales.",
+        "b": "Un valor de 0,124 euros para A y de 0,105 euros para C de muelle.",
+        "c": "El valor de 2,65 euros para A y de 3,23 euros para C del puerto.",
+        "d": "El valor de 0,29 euros para A y de 0,28 euros para C."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 240.2 establece que las cuantías básicas son de 0,29 euros para la tasa correspondiente al servicio de ayudas prestado por las Autoridades Portuarias (A), y de 0,28 euros para el prestado por SASEMAR y la CIAIM (C)."
+    },
+    {
+      "id": "lp-t5-b4-015",
+      "articulo": "241 bis",
+      "enunciado": "Con arreglo al artículo 241 bis del Texto Refundido de la Ley de Puertos, ¿cómo se distribuyen trimestralmente los ingresos efectivamente recaudados por la cuantía básica (C) de la tasa de ayudas a la navegación?",
+      "opciones": {
+        "a": "Se transfieren de forma íntegra a Puertos del Estado para cofinanciar el Fondo de Compensación Interportuario.",
+        "b": "Un ochenta por ciento se transfiere a SASEMAR y el demanial se lo queda la AP en muelle.",
+        "c": "Se ingresará el 97,697 % a SASEMAR y el restante 2,303 % a la Autoridad Administrativa de Investigación.",
+        "d": "Se divide por partes iguales entre el Ministerio de Fomento y la correspondiente Comunidad Autónoma de demanio."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 241 bis dispone que de la cantidad efectivamente recaudada por la cuantía básica (C), el 97,697 % se ingresará trimestralmente a SASEMAR y el 2,303 % restante a la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes."
+    },
+    {
+      "id": "lp-t5-b4-016",
+      "articulo": "242",
+      "enunciado": "De conformidad con el artículo 242 del Texto Refundido de la Ley de Puertos, ¿qué bonificación en la cuota tributaria se otorga a los concesionarios o autorizados que se acojan al régimen de estimación simplificada para la tasa de ayudas a la navegación?",
+      "opciones": {
+        "a": "Una bonificación del 20 por ciento en el importe de la cuota tributaria.",
+        "b": "Una bonificación demanial del 15 por ciento de la fianza provisional de muelle.",
+        "c": "Un descuento demanial del diez por ciento aprobado por el Director del muelle.",
+        "d": "Una demanial del 30 por ciento sobre el valor actualizado de las demaniales."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 242 prevé que en régimen de estimación simplificada en instalaciones concesionadas o autorizadas, quienes se acojan al mismo se beneficiarán de una bonificación del 20 por ciento en el importe de la cuota tributaria de la tasa."
+    },
+    {
+      "id": "lp-t5-b4-017",
+      "articulo": "243",
+      "enunciado": "Según el artículo 243 del Texto Refundido de la Ley de Puertos, ¿en qué trámites administrativos se exigirá de forma inexcusable el justificante de pago de la tasa de ayudas a la navegación por parte del órgano competente?",
+      "opciones": {
+        "a": "Para el deslinde definitivo del dominio público marítimo-terrestre y de las misiones de policía portuaria.",
+        "b": "Al tramitarse la expropiación urgente de las demaniales colindantes al muelle.",
+        "c": "Para autorizar la prórroga de una demanial concesión demanial de demanio del puerto.",
+        "d": "Para la matriculación, despacho de rol o emisión de certificados de inspección de las demaniales."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 243 establece de manera literal y expresa que el órgano competente exigirá los justificantes de haber abonado la tasa de ayudas a la navegación como requisito para proceder a la matriculación de las demaniales embarcaciones, despacho de rol o emisión de sus certificados de inspección."
+    },
+    {
+      "id": "lp-t5-b4-018",
+      "articulo": "245",
+      "enunciado": "Con arreglo al artículo 245.1.a) del Texto Refundido de la Ley de Puertos, ¿qué bonificación se aplica a la cuota de la tasa del buque cuando la compañía naviera tenga suscrito un convenio con la Autoridad Portuaria en materia de buenas prácticas ambientales?",
+      "opciones": {
+        "a": "Una bonificación de un 5 por ciento a la cuota de la tasa del buque.",
+        "b": "Se aplicará una reducción del quince por ciento de la tasa de actividad demanial.",
+        "c": "Un descuento demanial fijo del demanio por ciento de la demanial fianza.",
+        "d": "Se demanial una bonificación demanial del veinte por ciento en puertos demaniales."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 245.1.a) establece que para incentivar mejores prácticas medioambientales, se aplicará una bonificación del 5 por ciento a la cuota de la tasa del buque cuando este cumpla ciertas condiciones y la naviera o armador cuente con un convenio de buenas prácticas ambientales con la Autoridad Portuaria."
+    },
+    {
+      "id": "lp-t5-b4-019",
+      "articulo": "246",
+      "enunciado": "De conformidad con lo dispuesto en el artículo 246 del Texto Refundido de la Ley de Puertos, ¿qué naturaleza jurídica y qué régimen de cobertura tienen las tarifas que exigen las Autoridades Portuarias por los servicios comerciales que presten?",
+      "opciones": {
+        "a": "Tienen el carácter de precios privados y, con carácter general, no podrán ser inferiores al coste del servicio.",
+        "b": "Tienen el carácter de precios públicos y se fijarán demanialmente en el muelle demanial. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "c": "Tienen demanial de tasas de demanio portuaria y demanialmente la demanial anual de muelle.",
+        "d": "Constituyen demaniales de derecho demanial de demanio de muelle demanial de la Autoridad."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 246 establece que las tarifas exigidas por la AP por prestar servicios comerciales en competencia tienen naturaleza de precios privados, deben contribuir a la autofinanciación y no ser inferiores al coste del servicio (salvo supuestos excepcionales de subactividad)."
+    },
+    {
+      "id": "lp-t5-b4-020",
+      "enunciado": "De acuerdo con el artículo 247 del Texto Refundido de la Ley de Puertos, ¿cuál es el plazo para hacer efectivas las tarifas de servicios comerciales y qué interés de demora devengará la cantidad adeudada?",
+      "opciones": {
+        "a": "Un demanial de demaniales días de muelle demanial, de conformidad con lo establecido demanialmente. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "El plazo demanial de demanio de demanial de muelle, de demanio de fianza de muelle demanial.",
+        "c": "Un plazo de demaniales días naturales, devengando demanialmente el demanio legal de muelle.",
+        "d": "El plazo de 20 días naturales, devengando el interés legal del dinero vigente incrementado en cuatro puntos."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 247 dispone que el plazo máximo de pago de las deudas por tarifas comerciales es de 20 días naturales desde la comunicación, devengando transcurrido este el interés legal del dinero incrementado en cuatro puntos."
+    }
+  ]
+}

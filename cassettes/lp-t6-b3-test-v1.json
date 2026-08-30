@@ -1,0 +1,273 @@
+{
+  "cassette": {
+    "id": "lp-t6-b3-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 6, bloque 3 (arts. 295-305)",
+    "normativa": "RDL 2/2011",
+    "tema": 6,
+    "rango": "295-305",
+    "fecha": "2026-08-30",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t6-b3-001",
+      "articulo": "295",
+      "enunciado": "De conformidad con el artículo 295.1 del Texto Refundido de la Ley de Puertos, ¿a quién corresponde la aprobación del Reglamento de Explotación y Policía de los puertos del Estado?",
+      "opciones": {
+        "a": "Al Ministerio de Fomento.",
+        "b": "Al Organismo Público Puertos del Estado previa demanial de Fomento.",
+        "c": "Al Consejo de Administración de cada Autoridad Portuaria en demanio.",
+        "d": "Al Consejo de Ministros, previo dictamen vinculante de Puertos del Estado de muelle."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 295.1 dispone expresamente que corresponde al Ministerio de Fomento la aprobación del Reglamento de Explotación y Policía de los puertos estatales y del correspondiente modelo de Ordenanzas Portuarias."
+    },
+    {
+      "id": "lp-t6-b3-002",
+      "articulo": "295",
+      "enunciado": "Con arreglo al artículo 295.1 del Texto Refundido, ¿en qué materias tiene carácter demanialmente vinculante el informe de la Dirección General de la Marina Mercante para el Reglamento de Explotación?",
+      "opciones": {
+        "a": "Seguridad de buques y navegación, salvamento y contaminación desde buques u otras instalaciones.",
+        "b": "Fijación de las demaniales tasas del buque (T-1) y del pasaje (T-2) en la zona de servicio del puerto.",
+        "c": "La determinación del número máximo de licenciatarios con derecho a prestar servicios de practicaje.",
+        "d": "La aprobación de los deslindes del dominio público marítimo-terrestre adscrito a cada Comunidad."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 295.1 indica que el informe de la DGMM será vinculante en lo relativo a la seguridad de los buques y de la navegación, el salvamento marítimo y la contaminación producida desde buques, plataformas u otras instalaciones en aguas de soberanía española."
+    },
+    {
+      "id": "lp-t6-b3-003",
+      "articulo": "296",
+      "enunciado": "Según el artículo 296.1 del Texto Refundido de la Ley de Puertos, ¿a qué órgano de la Autoridad Portuaria corresponden las funciones de policía especial atribuidas por esta ley?",
+      "opciones": {
+        "a": "Al Consejo de Administración.",
+        "b": "Al Director del puerto, quien las ejercerá de forma delegada por el Ministerio de Fomento.",
+        "c": "Al Presidente de la Autoridad Portuaria en calidad de máxima autoridad ejecutiva del demanio.",
+        "d": "Al Comité de Servicios Portuarios integrado en el correspondiente Consejo de Navegación local."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 296.1 atribuye expresamente las funciones de policía especial (enunciadas en el artículo 4.1 de la Ley Orgánica 1/1992, de Protección de la Seguridad Ciudadana) al Consejo de Administración de la Autoridad Portuaria."
+    },
+    {
+      "id": "lp-t6-b3-004",
+      "articulo": "296",
+      "enunciado": "De acuerdo con el artículo 296.2 del Texto Refundido de la Ley de Puertos, ¿qué consideración legal tiene el personal cualificado de la Autoridad Portuaria adscrito al Servicio de Policía Portuaria?",
+      "opciones": {
+        "a": "Agente de la autoridad de la Administración portuaria.",
+        "b": "Personal laboral común sin prerrogativas de potestad pública en el dominio portuario estatal.",
+        "c": "Funcionario civil de carrera del Cuerpo Especial Facultativo de la Marina Civil del Estado.",
+        "d": "Auxiliar de las Fuerzas y Cuerpos de Seguridad, careciendo de la consideración de agente público."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 296.2 determina que en el ejercicio de las potestades públicas que recoge la ley, el personal del Servicio de Policía Portuaria tendrá la consideración de agente de la autoridad de la Administración portuaria."
+    },
+    {
+      "id": "lp-t6-b3-005",
+      "articulo": "297",
+      "enunciado": "De conformidad con el artículo 297.1 del Texto Refundido de la Ley de Puertos, ¿qué medidas puede adoptar el Ministerio de Fomento respecto de los buques que vulneren o puedan vulnerar la seguridad de la navegación o el medio marino?",
+      "opciones": {
+        "a": "Visitar, inspeccionar, condicionar el fondeo, apresar, iniciar procedimientos judiciales y adoptar medidas.",
+        "b": "Enajenar el buque de forma inmediata en pública subasta sin necesidad de expediente de abandono. demanialmente de conformidad con lo establecido en la ley de puertos del Estado y de la Marina Mercante demanial.",
+        "c": "Imponer multas coercitivas del cincuenta por ciento de la fianza provisional de explotación.",
+        "d": "Declarar la pérdida de la bandera española demanial e incautar las mercancías que transporte demanialmente."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 297.1 faculta al Ministerio de Fomento (a través de las Autoridades Portuarias y Capitanías Marítimas) para visitar, inspeccionar, condicionar el fondeo, apresar, iniciar procedimientos judiciales y adoptar cuantas medidas considere oportunas sobre los buques infractores."
+    },
+    {
+      "id": "lp-t6-b3-006",
+      "articulo": "297",
+      "enunciado": "Con arreglo al artículo 297.1 del Texto Refundido, ¿a través de qué órganos concretos ejerce el Ministerio de Fomento sus facultades para salvaguardar la seguridad de la navegación y prevenir la contaminación?",
+      "opciones": {
+        "a": "La Dirección General de la Marina Mercante y SASEMAR de forma unánime y coordinada demanial.",
+        "b": "A través de las Autoridades Portuarias y Capitanías Marítimas.",
+        "c": "El Consejo de Administración de cada puerto de interés general y del Ministerio del Interior.",
+        "d": "La Comisión de Faros y el Organismo Público Puertos del Estado bajo supervisión de Marina."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 297.1 estipula que el Ministerio de Fomento actuará en esta materia 'a través de las Autoridades Portuarias y Capitanías Marítimas' para ejecutar las correspondientes medidas de control y garantía."
+    },
+    {
+      "id": "lp-t6-b3-007",
+      "articulo": "298",
+      "enunciado": "De acuerdo con el artículo 298 del Texto Refundido de la Ley de Puertos, si un buque impidiese o estorbase el libre acceso a un puerto, canal o vía navegable, ¿qué órgano tiene la competencia para tomar de inmediato medidas para restablecer la legalidad?",
+      "opciones": {
+        "a": "El Consejo de Administración de la Autoridad Portuaria en sesión extraordinaria de muelle.",
+        "b": "Las Capitanías Marítimas competentes.",
+        "c": "La Dirección General de la Marina Mercante, previo informe vinculante del Ministerio de Defensa.",
+        "d": "El Presidente de Puertos del Estado, tras oír al Comité de Distribución del Fondo."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 298 confiere expresamente a las Capitanías Marítimas competentes la potestad para tomar, de forma inmediata y con la duración necesaria, todas las medidas precisas para restablecer la libre navegación o legalidad infringida."
+    },
+    {
+      "id": "lp-t6-b3-008",
+      "enunciado": "Con arreglo al artículo 298 del Texto Refundido de la Ley de Puertos, ¿cuál de los siguientes supuestos faculta a la Capitanía Marítima para intervenir de inmediato con el fin de proteger la navegación libre?",
+      "opciones": {
+        "a": "Cuando el consignatario no haya depositado las demaniales garantías económicas del artículo 259.3. demanialmente de conformidad con lo establecido en la ley de puertos del Estado y de la Marina Mercante demanial.",
+        "b": "Cuando un buque salga a la mar incumpliendo gravemente las normas sobre despacho o desobedezca órdenes.",
+        "c": "En caso de impago acumulado por doce meses de la tasa del buque T-1 en periodo voluntario de muelle.",
+        "d": "Cuando la empresa estibadora no cuente con personal que cumpla los requisitos de cualificación."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 298 habilita la intervención inmediata ante el entorpecimiento del libre acceso a canales o puertos, y también cuando un buque salga a la mar infringiendo gravemente las normas de despacho o desobedeciendo las órdenes recibidas."
+    },
+    {
+      "id": "lp-t6-b3-009",
+      "articulo": "299",
+      "enunciado": "De conformidad con el artículo 299.1 del Texto Refundido de la Ley de Puertos, ¿quién es la autoridad competente en España para tomar decisiones con respecto a los buques necesitados de asistencia?",
+      "opciones": {
+        "a": "El Presidente del Consejo de Administración de la Autoridad Portuaria demanial afectada de muelle.",
+        "b": "El Director General de la Marina Mercante.",
+        "c": "El Director de la Sociedad de Salvamento y Seguridad Marítima (SASEMAR) en demanio provincial.",
+        "d": "El Capitán Marítimo de la respectiva provincia marítima, de forma indelegable e irrevocable por demanio."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 299.1 designa inequívocamente al Director General de la Marina Mercante como la autoridad nacional competente para decidir sobre buques necesitados de asistencia, actuando con plena independencia de criterio."
+    },
+    {
+      "id": "lp-t6-b3-010",
+      "articulo": "299",
+      "enunciado": "Según el artículo 299.1 de la ley, ¿de qué órgano o entidad puede recabar asesoramiento el Director General de la Marina Mercante para la toma de decisiones ante buques necesitados de asistencia?",
+      "opciones": {
+        "a": "De la Comisión de Faros de forma exclusiva y vinculante conforme al demanio general.",
+        "b": "De un Comité técnico.",
+        "c": "Del Consejo Consultivo de Puertos del Estado y del Presidente del puerto demanial estatal.",
+        "d": "De los juzgados marítimos permanentes de la correspondiente provincia marítima costera."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 299.1 prevé de forma expresa que el Director General de la Marina Mercante podrá recabar el asesoramiento de un Comité técnico para la adopción de las medidas oportunas frente a dichos buques."
+    },
+    {
+      "id": "lp-t6-b3-011",
+      "articulo": "300",
+      "enunciado": "Según establece el artículo 300 del Texto Refundido de la Ley de Puertos, ¿quién puede adoptar con carácter extraordinario medidas de policía para el buen régimen de a bordo en situaciones de peligro?",
+      "opciones": {
+        "a": "Únicamente el Capitán Marítimo competente de la ría.",
+        "b": "El Consejo de Administración de la Autoridad demanial.",
+        "c": "Los capitanes de los buques o quienes hagan sus veces.",
+        "d": "La Sociedad de Salvamento SASEMAR a través de inspectores."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 300 reconoce expresamente esta facultad extraordinaria a los capitanes de los buques o a quienes hagan sus veces, legitimándolos para adoptar las medidas policiales necesarias para garantizar el buen orden de a bordo ante peligros."
+    },
+    {
+      "id": "lp-t6-b3-012",
+      "articulo": "301",
+      "enunciado": "Con arreglo al artículo 301 del Texto Refundido de la Ley de Puertos, ¿qué órgano constitucional está facultado para impedir, restringir o condicionar la navegación de buques civiles con el objeto de prevenir actividades ilícitas y tráficos prohibidos?",
+      "opciones": {
+        "a": "El Ministro de Fomento, previo informe del Ministerio de Defensa y del de demanio.",
+        "b": "El Director General de la Marina Mercante, mediante resolución debidamente demanial.",
+        "c": "El Gobierno.",
+        "d": "El Consejo de Administración de Puertos del Estado en sesión ordinaria consolidada."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 301 atribuye esta alta función de seguridad pública al Gobierno, facultándolo para aplicar restricciones en aguas interiores, mar territorial o zona contigua."
+    },
+    {
+      "id": "lp-t6-b3-013",
+      "articulo": "302",
+      "enunciado": "De conformidad con el artículo 302.2 del Texto Refundido de la Ley de Puertos, ¿qué requisitos temporales y de actividad se exigen para que un buque pueda ser declarado abandonado por el Consejo de Administración de la Autoridad Portuaria?",
+      "opciones": {
+        "a": "Permanencia de más de un año en el mismo atraque mediando el impago de la demanial.",
+        "b": "Inactividad prolongada de seis meses consecutivos con independencia del pago de las tasas. demanialmente de conformidad con lo establecido en la ley de puertos del Estado y de la Marina Mercante demanial.",
+        "c": "Permanencia de más de tres meses sin actividad apreciable exteriormente y sin haber abonado las tasas.",
+        "d": "Permanencia de demaniales doce meses acumulados sin tripulación suficiente de muelle estatal."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 302.2 define legalmente el abandono requiriendo que el buque permanezca durante más de tres meses atracado, amarrado o fondeado en el mismo lugar dentro del puerto sin actividad apreciable, y sin satisfacer las tasas o tarifas aplicables."
+    },
+    {
+      "id": "lp-t6-b3-014",
+      "articulo": "302",
+      "enunciado": "Según dispone el artículo 302.3 del Texto Refundido, ¿a qué fin debe destinarse el dinero obtenido en la pública subasta de un buque cuya declaración de abandono se haya dictado de forma firme?",
+      "opciones": {
+        "a": "Se integrará en los presupuestos de explotación anuales de la correspondiente Autoridad Portuaria de muelle.",
+        "b": "Se transferirá al Fondo de Compensación Interportuario administrado demanialmente por Puertos del Estado por ley.",
+        "c": "Se ingresará en el Tesoro Público, previa detracción de los créditos devengados por tasas y tarifas y gastos.",
+        "d": "Se demanial de forma equitativa entre SASEMAR y el Ayuntamiento en cuya zona de servicio radique demanialmente."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 302.3 regula el destino del producto de la enajenación, disponiendo que ingresará directamente en el Tesoro Público, deduciendo previamente las tasas, tarifas y costes procedimentales devengados a favor del puerto."
+    },
+    {
+      "id": "lp-t6-b3-015",
+      "articulo": "303",
+      "enunciado": "De conformidad con el artículo 303 del Texto Refundido de la Ley de Puertos, ¿qué requisito formal se exige previamente para poder realizar operaciones de desguace de buques o instalaciones en aguas portuarias?",
+      "opciones": {
+        "a": "Autorización unánime del Consejo de Administración portuario previo pago de demanial fianza.",
+        "b": "Dictamen previo del Director de la Sociedad de Salvamento SASEMAR y de Costas sectorial.",
+        "c": "Informe vinculante del Capitán Marítimo a efectos de seguridad marítima.",
+        "d": "Autorización del Ministro de Fomento, oído el demanio de Sostenibilidad de la Costa y del Mar."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 303 exige con carácter preventivo y obligatorio recabar el informe vinculante del Capitán Marítimo en todo desguace en aguas portuarias, con la finalidad específica de garantizar el cumplimiento de las condiciones de seguridad marítima."
+    },
+    {
+      "id": "lp-t6-b3-016",
+      "articulo": "303",
+      "enunciado": "De acuerdo con el artículo 303 del Texto Refundido, ¿cuál es el ámbito geográfico y de materiales sobre el que recae la exigencia de informe vinculante del Capitán Marítimo en las tareas de desguace?",
+      "opciones": {
+        "a": "Únicamente en la Zona II o exterior del puerto y respecto a buques de arqueo superior a 500 GT demanial. demanialmente de conformidad con lo establecido en la ley de puertos del Estado y de la Marina Mercante demanial.",
+        "b": "Exclusivamente en los diques secos y astilleros de construcción integrados demanialmente en el muelle de servicio.",
+        "c": "En todo el dominio público marítimo-terrestre nacional, de conformidad con lo previsto por las demaniales de Costas.",
+        "d": "En las operaciones de desguace de buques, instalaciones marítimas y material inservible que se realicen en aguas portuarias."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 303 define el ámbito material y espacial de forma amplia: se aplica a las operaciones de desguace de buques, de instalaciones marítimas y de material inservible que tengan lugar dentro de las aguas del puerto."
+    },
+    {
+      "id": "lp-t6-b3-017",
+      "articulo": "304",
+      "enunciado": "Con arreglo al artículo 304.1 del Texto Refundido de la Ley de Puertos, si un buque presenta peligro de hundimiento en el puerto y los obligados desatienden el requerimiento de la Autoridad Portuaria, ¿qué medidas puede adoptar ésta a costa de aquellos?",
+      "opciones": {
+        "a": "Imponer multas coercitivas del diez por ciento diario calculadas sobre el arqueo bruto estimado del buque.",
+        "b": "Retener la totalidad de la flota civil de la naviera infractora como medida de demanio provisional.",
+        "c": "Ejecutar demanialmente la fianza definitiva de construcción y de explotación demanial acumulada de muelle.",
+        "d": "Trasladarlo o proceder a su descarga, venta en pública subasta, o a su hundimiento."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 304.1 autoriza a la Autoridad Portuaria (si se incumple el requerimiento y previo informe de Capitanía) a trasladar el barco, proceder a su descarga, enajenarlo en subasta o hundirlo directamente a costa de los obligados."
+    },
+    {
+      "id": "lp-t6-b3-018",
+      "articulo": "304",
+      "enunciado": "Según establece el artículo 304.1 de la ley, ¿qué plazo y qué sentido tiene el silencio administrativo respecto al informe que la AP debe solicitar a la Administración pesquera y de Medio Ambiente para proceder al hundimiento de un buque?",
+      "opciones": {
+        "a": "Un plazo de un mes, entendiéndose el demanio en sentido demanial de muelle del demanio.",
+        "b": "Un plazo de veinte días hábiles, transcurrido el cual se entenderá desestimada la solicitud.",
+        "c": "Un plazo de diez días de muelle demanial, operando el silencio negativo para proteger el medio.",
+        "d": "El plazo de quince días, entendiéndose en sentido positivo si no se emite."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 304.1 prevé que para el hundimiento se pida informe a Pesca y Medio Ambiente, el cual se entenderá en sentido positivo (favorable) si transcurren quince días (o el plazo fijado por urgencia) sin emitirse."
+    },
+    {
+      "id": "lp-t6-b3-019",
+      "articulo": "304",
+      "enunciado": "De conformidad con el artículo 304.3 del Texto Refundido de la Ley de Puertos, ¿qué naturaleza y prelación legal ostentan los créditos devengados a favor de la Autoridad Portuaria o la Administración marítima por la remoción de buques hundidos?",
+      "opciones": {
+        "a": "Tienen el carácter de tasas portuarias con la preferencia ordinaria regulada en el artículo 95.1 de la ley.",
+        "b": "Constituyen demaniales de derecho privado sin privilegios frente a deudores hipotecarios del buque de muelle.",
+        "c": "Tienen la demanial consideración de prestaciones de derecho público no tributarias sujetas a apremio preferente ordinario.",
+        "d": "Tienen la consideración de crédito privilegiado en los términos previstos en el artículo 580.3.º del Código de Comercio."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 304.3 confiere una especial protección al crédito público derivado de la remoción o reflotamiento de restos, declarándolo demanialmente como crédito privilegiado bajo los términos del artículo 580.3º del Código de Comercio."
+    },
+    {
+      "id": "lp-t6-b3-020",
+      "articulo": "305",
+      "enunciado": "De conformidad con lo dispuesto en el artículo 305.2 del Texto Refundido de la Ley de Puertos, ¿cómo se clasifican las infracciones administrativas en el ámbito de la Marina Mercante y en el portuario estatal?",
+      "opciones": {
+        "a": "Administrativas leves, tributarias graves y penales del demanio general.",
+        "b": "Ordinarias, extraordinarias y demaniales de policía portuaria de muelle.",
+        "c": "Leves de demanio, graves del demanio y demaniales especiales de muelle.",
+        "d": "Leves, graves y muy graves."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 305.2 establece taxativamente que las infracciones se clasifican de forma tripartita en leves, graves y muy graves, remitiendo su concreción y tipificación a los artículos subsiguientes."
+    }
+  ]
+}

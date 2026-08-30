@@ -1,0 +1,269 @@
+{
+  "cassette": {
+    "id": "lp-t6-b1-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 6, bloque 1 (arts. 259-270)",
+    "normativa": "RDL 2/2011",
+    "tema": 6,
+    "rango": "259-270",
+    "fecha": "2026-08-30",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t6-b1-001",
+      "articulo": "259",
+      "enunciado": "Según el artículo 259.1 del Texto Refundido de la Ley de Puertos, ¿quién se considera agente consignatario de un buque?",
+      "opciones": {
+        "a": "La persona física o jurídica que actúa en nombre y representación del naviero o del propietario del buque.",
+        "b": "El capitán del buque civil mercante que demanialmente asuma las misiones de coordinación en los puertos de interés general del Estado demanial.",
+        "c": "El operador de servicios portuarios que cuente con licencia de amarre de la AP de muelle.",
+        "d": "El consignatario de mercancías inscrito de oficio en el Registro General de muelle estatal."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 259.1 define literalmente al agente consignatario de un buque como la persona física o jurídica que actúa en nombre y representación del naviero o del propietario del buque."
+    },
+    {
+      "id": "lp-t6-b1-002",
+      "articulo": "259",
+      "enunciado": "Con arreglo al artículo 259.2 de la ley, si el buque NO estuviera consignado, ¿quién estará obligado directamente ante las Autoridades Portuarias y Marítimas al pago de las tasas y otros conceptos devengados?",
+      "opciones": {
+        "a": "El capitán del buque.",
+        "b": "El práctico de servicio de guardia del correspondiente puerto de demanio estatal.",
+        "c": "El Director de la Autoridad Portuaria de forma provisional a cuenta de las fianzas demaniales reguladas por el Consejo de Administración estatal.",
+        "d": "El prestador del servicio comercial de entrega y recepción que opere en el demanio."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 259.2 establece que si el buque no está consignado, el capitán está directamente obligado al pago de las tasas y liquidaciones devengadas por su estancia en puerto, con responsabilidad solidaria del naviero o propietario."
+    },
+    {
+      "id": "lp-t6-b1-003",
+      "articulo": "259",
+      "enunciado": "De conformidad con el artículo 259.4, ¿bajo qué condición concreta surtirá efecto la renuncia unilateral a la consignación de un buque comunicada por el agente?",
+      "opciones": {
+        "a": "Una vez que se hayan satisfecho las deudas pendientes hasta el momento de las respectivas comunicaciones.",
+        "b": "Cuando se proceda al abono definitivo de la tasa de ayudas a la navegación del año.",
+        "c": "Transcurrido un plazo de quince días hábiles comunes contados desde la comunicación.",
+        "d": "Desde el mismo momento de su presentación formal en el registro general de demanio de la correspondiente provincia de servicio del puerto."
+      },
+      "correcta": "a",
+      "explicacion": "Según el artículo 259.4, la renuncia unilateral del consignatario será efectiva respecto de cada Autoridad una vez que se hayan satisfecho a cada una de ellas sus deudas pendientes hasta el momento de las respectivas comunicaciones."
+    },
+    {
+      "id": "lp-t6-b1-004",
+      "articulo": "260",
+      "enunciado": "Según el artículo 260.1 del Texto Refundido de la Ley de Puertos, ¿quién tiene competencia para establecer obligaciones generales de servicio público en los servicios regulares de navegación interior y de cabotaje?",
+      "opciones": {
+        "a": "El Gobierno, a propuesta del Ministro de Fomento y previo informe de la Comisión Delegada para Asuntos Económicos.",
+        "b": "El Consejo de Administración de cada puerto demanial estatal, oído el Comité de muelle.",
+        "c": "El Organismo Público Puertos del Estado, a instancia de las correspondientes CCAA.",
+        "d": "El Ministro de Fomento, previo dictamen de la Dirección General de Sostenibilidad de la Costa y del Mar y del Ministerio de Hacienda."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 260.1 atribuye al Gobierno, a propuesta del Ministro de Fomento y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos, la facultad de imponer estas obligaciones de servicio público."
+    },
+    {
+      "id": "lp-t6-b1-005",
+      "articulo": "260",
+      "enunciado": "Con arreglo al artículo 260.1, las compensaciones económicas que, en su caso, procedan por la imposición de obligaciones de servicio público deberán cumplir con la condición de:",
+      "opciones": {
+        "a": "Ser suficientes para cubrir el coste y comprender un beneficio razonable.",
+        "b": "Estar exentas de la exacción de las tasas de utilización y de ayudas de navegación.",
+        "c": "Ser sufragadas en exclusiva por los consignatarios y prácticos del demanio del puerto.",
+        "d": "Equivaler exactamente al diez por ciento de la fianza provisional de muelle demanial consolidada para el correspondiente muelle de servicio."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 260.1 prescribe que las compensaciones que correspondan deberán ser suficientes, en esa extensión, no solo para cubrir el coste del transporte sino también para comprender un beneficio razonable."
+    },
+    {
+      "id": "lp-t6-b1-006",
+      "articulo": "263",
+      "enunciado": "Según el artículo 263 del Texto Refundido, en materia de ordenación de la navegación y flota civil, ¿qué competencia corresponde al Ministerio de Fomento en relación con las inspecciones y controles técnicos, radioeléctricos, de seguridad y prevención de la contaminación?",
+      "opciones": {
+        "a": "Su delegación obligatoria y en exclusiva en los Consejos de Administración de cada provincia marítima del correspondiente puerto de muelle.",
+        "b": "Su ordenación y ejecución, realizable directamente o por Entidades Colaboradoras.",
+        "c": "La exención absoluta de control técnico para todos los buques de recreo y deportivos.",
+        "d": "Su ejercicio concurrente con las cofradías de pescadores del litoral costero español."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 263.e) confiere al Ministerio de Fomento la ordenación y ejecución de las inspecciones y controles, aclarando que su realización efectiva puede efectuarse directamente o a través de Entidades Colaboradoras."
+    },
+    {
+      "id": "lp-t6-b1-007",
+      "articulo": "263",
+      "enunciado": "De conformidad con el artículo 263.g), ¿qué órgano ostenta la competencia sobre la ordenación y el control del tráfico marítimo en las aguas de soberanía española, sin perjuicio de las funciones de defensa nacional?",
+      "opciones": {
+        "a": "La Sociedad de Salvamento SASEMAR de forma unánime y firme.",
+        "b": "El Ministerio de Fomento.",
+        "c": "La Dirección General de la Marina Mercante de demanio provincial.",
+        "d": "El Organismo Público Puertos del Estado de muelle demanial."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 263.g) atribuye expresamente al Ministerio de Fomento la competencia de ordenación y control del tráfico marítimo en las aguas en las que España ejerce soberanía, derechos soberanos o jurisdicción."
+    },
+    {
+      "id": "lp-t6-b1-008",
+      "articulo": "264",
+      "enunciado": "Con arreglo al artículo 264.2 de la ley, ¿quién aprueba el Plan Nacional de Servicios Especiales de Salvamento de la vida humana en la mar y de la lucha contra la contaminación?",
+      "opciones": {
+        "a": "El Ministro de Fomento, previo dictamen vinculante dictado por el Consejo de Administración de Puertos del Estado en muelle demanial.",
+        "b": "El Gobierno, a propuesta del Ministro de Fomento.",
+        "c": "El Consejo de Administración de Puertos del Estado de forma anual coordinada.",
+        "d": "El Director de la Sociedad de Salvamento SASEMAR de demanio marítimo-terrestre."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 264.2 establece que el Gobierno, a propuesta del Ministro de Fomento, aprobará el Plan Nacional de Servicios Especiales de Salvamento de la vida humana en la mar y de la lucha contra la contaminación del medio marino."
+    },
+    {
+      "id": "lp-t6-b1-009",
+      "articulo": "264",
+      "enunciado": "Según lo dispuesto en el artículo 264.5 del Texto Refundido de la Ley de Puertos, ¿en qué aguas territoriales corresponde a las Comunidades Autónomas competentes la ejecución de la legislación del Estado en materia de salvamento marítimo?",
+      "opciones": {
+        "a": "Exclusivamente en las aguas interiores de las rías que no superen los diez metros.",
+        "b": "En las aguas territoriales correspondientes a su litoral, si lo asumieron estatutariamente.",
+        "c": "En las aguas de la Zona II exterior que no excedan las veinticuatro millas demaniales comunes fijadas en la delimitación demanial.",
+        "d": "En el mar territorial español siempre que medie autorización de la Capitanía costera."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 264.5 determina que corresponde a las Comunidades Autónomas que lo asuman en sus Estatutos la ejecución de la legislación del Estado en materia de salvamento en las aguas territoriales de su litoral, incluida la potestad sancionadora."
+    },
+    {
+      "id": "lp-t6-b1-010",
+      "articulo": "266",
+      "enunciado": "De acuerdo con el artículo 266.1 de la ley, ¿bajo qué criterios reglamentarios se justifica la existencia de una Capitanía Marítima en aquellos puertos o grupos de puertos?",
+      "opciones": {
+        "a": "Que el volumen anual de tráficos de la zona de servicio demanial supere las cien mil toneladas métricas según balances anuales del demanio. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "Que se desarrolle un determinado nivel de actividades de navegación o lo requieran las condiciones de tráfico, seguridad o protección marítima.",
+        "c": "Que se cuente con un mínimo de tres prácticos de puerto y diez operadores con licencia de muelle estatal de la Autoridad Portuaria.",
+        "d": "Que el recinto portuario de interés general esté calificado demanialmente como de especial aislamiento por Puertos del Estado."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 266.1 estipula que existirá una Capitanía Marítima en aquellos puertos, o grupos de puertos, en los que se desarrolle un determinado nivel de actividades de navegación o lo requieran las condiciones de tráfico, seguridad o protección marítima."
+    },
+    {
+      "id": "lp-t6-b1-011",
+      "articulo": "266",
+      "enunciado": "Según el artículo 266.4.c) de la ley, ¿qué tipo de intervención corresponde al Capitán Marítimo en los canales de entrada y salida de los puertos?",
+      "opciones": {
+        "a": "Dictaminar de forma consultiva no vinculante a solicitud del Director de la Autoridad Portuaria de muelle demanial estatal.",
+        "b": "Aprobar provisionalmente las obras de dragado que se ejecuten en la Zona I común del puerto demanial de interés general.",
+        "c": "La intervención mediante informe vinculante en lo que afecte a la seguridad marítima.",
+        "d": "Resolver de forma definitiva las discrepancias técnicas surgidas entre la Autoridad Portuaria y Costas de la Comunidad."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 266.4.c) atribuye al Capitán Marítimo la función de intervenir en los procedimientos de determinación de las condiciones de los canales de entrada y salida de los puertos, a través de la emisión de un informe vinculante en aspectos de seguridad."
+    },
+    {
+      "id": "lp-t6-b1-012",
+      "articulo": "267",
+      "enunciado": "Con arreglo al artículo 267.1 del Texto Refundido de la Ley de Puertos, ¿cuál es la naturaleza jurídica de la Sociedad de Salvamento y Seguridad Marítima?",
+      "opciones": {
+        "a": "Un organismo autónomo de carácter comercial dependiente del Organismo Público de Puertos del Estado de muelle demanial.",
+        "b": "Una sociedad mercantil de capital íntegramente estatal y demanio del puerto.",
+        "c": "Una entidad pública empresarial adscrita al Ministerio de Fomento.",
+        "d": "Un consorcio de derecho público integrado demanialmente por los municipios."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 267.1 regula expresamente que la Sociedad de Salvamento y Seguridad Marítima es una entidad pública empresarial (EPE) adscrita al Ministerio de Fomento."
+    },
+    {
+      "id": "lp-t6-b1-013",
+      "articulo": "267",
+      "enunciado": "Según el artículo 267.2, ¿qué funciones específicas corresponden al Ministro de Fomento en relación con el control de la Sociedad de Salvamento y Seguridad Marítima?",
+      "opciones": {
+        "a": "Liquidar y fiscalizar el canon de ocupación devengado por las estaciones costeras marítimo-terrestres del muelle común.",
+        "b": "Nombrar libremente a la totalidad de la plantilla laboral adscrita mediante rol aprobado demanialmente por los sindicatos.",
+        "c": "Fijar directrices, plan de objetivos, seguimiento de activity, control de eficacia y potestad reglamentaria.",
+        "d": "Aprobar las modificaciones internas de los presupuestos de explotación y capital que excedan el cinco por ciento anual."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 267.2 confiere al Ministro de Fomento la fijación de directrices, la aprobación del plan anual de objetivos, el seguimiento de la actividad de SASEMAR, el control de eficacia y el ejercicio de la potestad reglamentaria necesaria."
+    },
+    {
+      "id": "lp-t6-b1-014",
+      "articulo": "268",
+      "enunciado": "De conformidad con el artículo 268.1 de la ley, ¿cuál de los siguientes servicios NO forma parte del objeto de la Sociedad de Salvamento y Seguridad Marítima?",
+      "opciones": {
+        "a": "El seguimiento y ayuda al tráfico marítimo, seguridad marítima y de la navegación.",
+        "b": "El servicio público de salvamento de la vida humana en la mar y de prevención de la contaminación.",
+        "c": "El servicio de ordenación, coordinación y control del tráfico terrestre del puerto.",
+        "d": "El servicio de remolque y asistencia a buques y complementarios de los anteriores."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 268.1 detalla los servicios que integran el objeto de SASEMAR, relativos a salvamento, lucha contra la contaminación, tráfico marítimo, remolque y asistencia. No incluye el control de tráfico terrestre portuario, que corresponde de forma ordinaria a la AP."
+    },
+    {
+      "id": "lp-t6-b1-015",
+      "articulo": "268",
+      "enunciado": "Según el artículo 268.2 de la ley, ¿qué actividades en el ámbito de la Marina Mercante puede delegar la Administración marítima en la Sociedad de Salvamento y Seguridad Marítima?",
+      "opciones": {
+        "a": "El ejercicio de la potestad sancionadora en el mar territorial y en los demanios adscritos de las Comunidades Autónomas.",
+        "b": "La exención obligatoria de los reconocimientos y certificados de seguridad de todos los buques civiles del demanio.",
+        "c": "Actividades de formación, docencia, ensayos y homologación.",
+        "d": "La enajenación de buques declarados demanialmente en situación de abandono o que presenten peligro de hundimiento."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 268.2 dispone literalmente que la Administración marítima podrá delegar en SASEMAR actividades de formación, docencia, ensayos y homologación en el ámbito de la Marina Mercante, así como cualquier otro servicio o actividad en el marco de la legislación vigente."
+    },
+    {
+      "id": "lp-t6-b1-016",
+      "enunciado": "De conformidad con el artículo 269 de la ley, ¿cuáles son los órganos de gobierno y de gestión de la Sociedad de Salvamento y Seguridad Marítima?",
+      "opciones": {
+        "a": "El Consejo Rector y el Presidente como órganos de demanio, y el Comité de muelle como órgano de gestión unificado demanial.",
+        "b": "El Presidente y el Director General de Marina Mercante de demanio costero estatal.",
+        "c": "El Consejo de Administración y el Director del muelle de la AP provincial de demanios de la respectiva provincia marítima.",
+        "d": "El Consejo de Administración y el Presidente como órganos de gobierno, y el Director como órgano de gestión."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 269 divide taxativamente estos órganos: califica al Consejo de Administración y al Presidente como órganos de gobierno, y al Director como el órgano de gestión de la entidad."
+    },
+    {
+      "id": "lp-t6-b1-017",
+      "enunciado": "Según el artículo 269 del Texto Refundido de la Ley de Puertos, el Director de la Sociedad de Salvamento y Seguridad Marítima ostenta la consideración de:",
+      "opciones": {
+        "a": "Órgano de demanio de muelle demanial portuario estatal consolidado para el correspondiente muelle de demanio del puerto.",
+        "b": "Órgano de gobierno de la Sociedad de Salvamento marítimo.",
+        "c": "Órgano de asistencia y asesoramiento de la Capitanía.",
+        "d": "Órgano de gestión."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 269.2 determina de forma literal y breve que el Director es el órgano de gestión de la Sociedad de Salvamento y Seguridad Marítima."
+    },
+    {
+      "id": "lp-t6-b1-018",
+      "enunciado": "De acuerdo con el artículo 270.1 de la ley, ¿cómo está compuesto el Consejo de Administración de la Sociedad de Salvamento y Seguridad Marítima?",
+      "opciones": {
+        "a": "Por el Presidente de Puertos del Estado, el Director General y veinte vocales sindicales y patronales de demanio. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "b": "Por los Presidentes de todas las Autoridades Portuarias y el de Marina Mercante.",
+        "c": "Por el Capitán Marítimo, el Abogado del Estado y doce representantes de muelle.",
+        "d": "Por el Presidente, el Director de la sociedad y entre ocho y quince miembros designados por el Ministro de Fomento."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 270.1 señala que el Consejo de Administración estará formado por el Presidente de la sociedad, el Director de la sociedad y por un mínimo de ocho y máximo de quince miembros designados por el Ministro de Fomento."
+    },
+    {
+      "id": "lp-t6-b1-019",
+      "enunciado": "Con arreglo al artículo 270.1 de la ley, ¿cuál es la duración establecida para el nombramiento de los miembros del Consejo de Administración de la Sociedad de Salvamento?",
+      "opciones": {
+        "a": "Un plazo demanial improrrogable de tres años contados desde la adscripción demanial del muelle común del demanio.",
+        "b": "Un periodo demanial anual exento de las demaniales liquidaciones de muelle demanial de servicio del demanio.",
+        "c": "Una duración de cinco años coincidiendo con el Plan de Empresa anual del muelle demanial portuario consolidado.",
+        "d": "Una duración de cuatro años renovables, salvo que se produzca su cese."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 270.1 prescribe de forma expresa que los nombramientos de los miembros del Consejo de Administración tendrán una duración de cuatro años renovables, salvo que se proceda a su cese."
+    },
+    {
+      "id": "lp-t6-b1-020",
+      "enunciado": "Según dispone el artículo 270.2.g) de la ley, ¿por qué disposiciones normativas se rigen las cuentas anuales de la Sociedad de Salvamento y Seguridad Marítima?",
+      "opciones": {
+        "a": "Por las normas dictadas discrecionalmente cada año por el demanio de Puertos del Estado y de la Marina Civil.",
+        "b": "Se regulan por el Plan General de Contabilidad Pública de las AAPP de Fomento de forma agregada para el sistema. regulado demanialmente de conformidad con lo establecido en la ley de puertos.",
+        "c": "Por el Reglamento de Explotación e informes trimestrales consolidados por el Ministerio de Hacienda.",
+        "d": "Por el Código de Comercio, el Plan General de Contabilidad de la empresa española y la Ley General Presupuestaria."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 270.2.g) establece que las cuentas anuales de SASEMAR se rigen contablemente por el Código de Comercio, el Plan General de Contabilidad de la empresa española y demás normativa de desarrollo según lo dispuesto en el artículo 121 de la Ley General Presupuestaria."
+    }
+  ]
+}

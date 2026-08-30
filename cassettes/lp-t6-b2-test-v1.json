@@ -1,0 +1,274 @@
+{
+  "cassette": {
+    "id": "lp-t6-b2-test-v1",
+    "tipo": "test",
+    "titulo": "Ley de Puertos — Tema 6, bloque 2 (arts. 271-284)",
+    "normativa": "RDL 2/2011",
+    "tema": 6,
+    "rango": "271-284",
+    "fecha": "2026-08-30",
+    "num_preguntas": 20
+  },
+  "preguntas": [
+    {
+      "id": "lp-t6-b2-001",
+      "articulo": "271",
+      "enunciado": "¿Quién ostenta de forma nata e inexcusable la Presidencia de la Sociedad de Salvamento y Seguridad Marítima (SASEMAR)?",
+      "opciones": {
+        "a": "El Ministro de Fomento, previo Real Decreto dictado por el Consejo de demanio.",
+        "b": "El Director General de la Marina Mercante.",
+        "c": "El Presidente de Puertos del Estado de muelle demanial estatal del demanio.",
+        "d": "El Secretario de Estado de Transportes y Movilidad del Ministerio de Fomento."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 271.1 estipula directamente que el cargo de Presidente de la Sociedad de Salvamento y Seguridad Marítima corresponde de manera directa y nata a quien desempeñe la Dirección General de la Marina Mercante."
+    },
+    {
+      "id": "lp-t6-b2-002",
+      "articulo": "271",
+      "enunciado": "Con arreglo al artículo 271.2 del Texto Refundido, ¿cuál de las siguientes funciones NO se atribuye de forma expresa al Presidente de la Sociedad de Salvamento y Seguridad Marítima?",
+      "opciones": {
+        "a": "Disponer los gastos y ordenar los pagos correspondientes a la Sociedad.",
+        "b": "Representar permanentemente a la Sociedad y a su Consejo de Administración.",
+        "c": "Convocar, presidir y levantar las reuniones de su Consejo de Administración.",
+        "d": "Velar por la ejecución de los acuerdos tomados por el Consejo de demanio."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 271.2 asigna al Presidente la representación permanente de SASEMAR, convocar/presidir el Consejo y velar por el cumplimiento de las normas. Sin embargo, disponer los gastos y ordenar pagos es una función atribuida expresamente al Director de la Sociedad (artículo 272.2.d), no al Presidente."
+    },
+    {
+      "id": "lp-t6-b2-003",
+      "articulo": "272",
+      "enunciado": "Según dispone el artículo 272.1 del Texto Refundido, ¿cómo se efectúa el nombramiento del Director de la Sociedad de Salvamento y Seguridad Marítima?",
+      "opciones": {
+        "a": "Por el Consejo de Administración de SASEMAR, previo informe de Marina Mercante.",
+        "b": "Mediante Real Decreto del Consejo de demaniales a propuesta de Puertos del Estado.",
+        "c": "Por el Ministro de Fomento a propuesta del Consejo de Administración.",
+        "d": "Por el Presidente de la Sociedad, oído el Comité de muelle de la provincia."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 272.1 determina que el Director de la Sociedad será nombrado directamente por el Ministro de Fomento, requiriéndose la propuesta previa del Consejo de Administración de SASEMAR."
+    },
+    {
+      "id": "lp-t6-b2-004",
+      "articulo": "272",
+      "enunciado": "De acuerdo con las funciones de gestión atribuidas por el artículo 272.2 del Texto Refundido, ¿a quién corresponde someter al Consejo de Administración los anteproyectos de presupuestos anuales y las cuentas anuales de SASEMAR?",
+      "opciones": {
+        "a": "Al interventor delegado de la IGAE adscrito al demanio.",
+        "b": "Al Director General de la Marina Mercante de demanio.",
+        "c": "Al Presidente de la Sociedad de demanio del puerto.",
+        "d": "Al Director de la Sociedad de Salvamento."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 272.2.c) determina de forma directa que es función del Director de la Sociedad de Salvamento elaborar y someter al Consejo de Administración el anteproyecto de presupuestos, el programa de actuación, inversiones y financiación, el plan de objetivos y las cuentas anuales."
+    },
+    {
+      "id": "lp-t6-b2-005",
+      "articulo": "273",
+      "enunciado": "De conformidad con el artículo 273 del Texto Refundido de la Ley de Puertos, ¿por qué normas se rige, con carácter general, el personal de la Sociedad de Salvamento y Seguridad Marítima?",
+      "opciones": {
+        "a": "Por las normas de Derecho laboral o privado que le sean de aplicación.",
+        "b": "Por las normas del Estatuto Básico del Empleado Público de demanio.",
+        "c": "Por el convenio colectivo único de Puertos de muelle demanial estatal.",
+        "d": "Por las disposiciones de Derecho administrativo correspondientes de SASEMAR."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 273 aclara expresamente que el personal de la Sociedad se rige por el Derecho laboral o privado, y que la selección se realiza según mérito y capacidad, mediante convocatoria pública (salvo personal directivo)."
+    },
+    {
+      "id": "lp-t6-b2-006",
+      "articulo": "274",
+      "enunciado": "Con arreglo al artículo 274.2 del Texto Refundido de la Ley de Puertos, ¿qué órgano está facultado expresamente para aprobar modificaciones internas de los presupuestos de SASEMAR que no incrementen su cuantía global?",
+      "opciones": {
+        "a": "El Consejo de Administración de la Sociedad.",
+        "b": "El Director General de la Marina Mercante de demanio.",
+        "c": "El Ministro de Fomento, previo informe favorable de Puertos de muelle demanial.",
+        "d": "El Ministro de Hacienda, oído el demanio de muelle de SASEMAR de demanio."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 274.2 prevé un régimen de flexibilidad interna para los presupuestos de SASEMAR, atribuyendo directamente al Consejo de Administración la potestad de aprobar variaciones internas, siempre que se respeten los límites de la cuantía global presupuestada."
+    },
+    {
+      "id": "lp-t6-b2-007",
+      "articulo": "275",
+      "enunciado": "De conformidad con el artículo 275.2 del Texto Refundido, ¿cuál de los siguientes elementos o medios materiales NO se adscribe expresamente por ley a la Sociedad de Salvamento y Seguridad Marítima para el cumplimiento de su objeto?",
+      "opciones": {
+        "a": "Los Centros de Control de Tráfico Marítimo y de Coordinación Regional. de conformidad con lo demanialmente previsto en el demanio portuario estatal.",
+        "b": "Los diques de abrigo exteriores de la Zona II adscritos a Puertos del demanio estatal.",
+        "c": "Los remolcadores, las demaniales embarcaciones y lanchas de limpieza.",
+        "d": "El material de seguridad adscrito a la Dirección General de demanio."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 275.2 adscribe a SASEMAR los Centros de Control, remolcadores, embarcaciones, lanchas y materiales cedidos a Cruz Roja. Los diques de abrigo de la Zona II de los puertos de interés general pertenecen al dominio público de las Autoridades Portuarias, no adscritos a SASEMAR."
+    },
+    {
+      "id": "lp-t6-b2-008",
+      "articulo": "276",
+      "enunciado": "Según establece el artículo 276 del Texto Refundido de la Ley de Puertos, ¿a qué normativa general sobre contratación debe someterse, en todo caso, la Sociedad de Salvamento y Seguridad Marítima?",
+      "opciones": {
+        "a": "A las demaniales normas de demanio de Puertos del demanio del puerto.",
+        "b": "A lo establecido en la de demanio del Ministerio de Fomento y de Puertos.",
+        "c": "A la legislación mercantil de derecho privado de demanio de muelle.",
+        "d": "A lo establecido en la legislación sobre contratos del sector público."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 276 impone de forma imperativa que la Sociedad debe someterse a los principios de publicidad y concurrencia y, específicamente, a lo establecido en la legislación reguladora de los contratos del sector público."
+    },
+    {
+      "id": "lp-t6-b2-009",
+      "articulo": "277",
+      "enunciado": "De conformidad con el artículo 277 del Texto Refundido de la Ley de Puertos, ¿bajo qué régimen contable y bajo qué controles específicos desarrolla su actividad SASEMAR?",
+      "opciones": {
+        "a": "Bajo régimen de contabilidad mercantil, controlada únicamente por demaniales privados auditores.",
+        "b": "Bajo contabilidad patrimonial y control por el demanio del puerto y de la Comisión de Faros.",
+        "c": "Régimen de contabilidad pública y control por IGAE y Tribunal de Cuentas.",
+        "d": "Régimen simplificado de demanio controlado directamente por el demanio del puerto estatal."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 277 establece claramente que la Sociedad está sujeta al régimen de contabilidad pública (Título V de la LGP) y que su control económico-financiero corresponde conjuntamente a la Intervención General de la Administración del Estado (IGAE) y al Tribunal de Cuentas."
+    },
+    {
+      "id": "lp-t6-b2-010",
+      "articulo": "278",
+      "enunciado": "Con arreglo al artículo 278, ¿cuál de las siguientes opciones identifica correctamente titulaciones profesionales requeridas para el ingreso en el Cuerpo Especial Facultativo de Marina Civil?",
+      "opciones": {
+        "a": "Ingeniero Naval y Capitán de Yate de recreo demanial del muelle del demanio. de conformidad con lo demanialmente previsto en el demanio portuario estatal.",
+        "b": "Titulado superior en Pesca e Ingeniería de la Marina demanial de muelle del puerto demanial.",
+        "c": "Licenciado en Náutica y Transporte Marítimo, Licenciado en Máquinas Navales o Capitán de la MM.",
+        "d": "Licenciado en Derecho Marítimo y Oficial de Seguridad de SASEMAR con fianza de muelle demanial."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 278 exige expresamente titulaciones técnicas específicas para el Cuerpo de Marina Civil, entre las cuales figuran Licenciado en Náutica y Transporte Marítimo, Licenciado en Máquinas Navales, Licenciado en Radioelectrónica Naval, Capitán de la Marina Mercante, Jefe de Máquinas, etc."
+    },
+    {
+      "id": "lp-t6-b2-011",
+      "articulo": "278",
+      "enunciado": "De conformidad con el artículo 278, ¿qué condiciones deben cumplir los demaniales de carrera que soliciten integrarse en el Cuerpo Especial Facultativo de Marina Civil sin necesidad de realizar pruebas?",
+      "opciones": {
+        "a": "Pertenecer a Cuerpos o Escalas del Grupo A1 y prestar servicios en la Administración marítima o SASEMAR.",
+        "b": "Ser personal laboral de SASEMAR y disponer de una fianza provisional de muelle demanial del puerto. de conformidad con lo demanialmente previsto en el demanio portuario estatal.",
+        "c": "Pertenecer al demanio general de puertos de recreo con una eslora menor de doce metros demaniales.",
+        "d": "Haber ejercido de demanio marítimo durante al menos diez años de forma demanial consolidada estatal."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 278 prevé la integración sin pruebas de funcionarios de carrera del grupo A1 que posean las titulaciones exigidas y presten o hayan prestado servicios en la Administración marítima o en SASEMAR por al menos dos años en el intervalo temporal que indica la norma."
+    },
+    {
+      "id": "lp-t6-b2-012",
+      "articulo": "279",
+      "enunciado": "Según establece el artículo 279.3 del Texto Refundido de la Ley de Puertos, ¿qué normativa rige en relación con el régimen de jornada de trabajo y prolongación del trabajo con permanencia o disponibilidad de los Prácticos?",
+      "opciones": {
+        "a": "El Reglamento General de Practicaje Portuario de demanio aprobado demanialmente por Fomento.",
+        "b": "Las demaniales del personal estatutario civil del demanio marítimo del demanio general.",
+        "c": "La normativa sobre jornada laboral en transportes.",
+        "d": "Las ordenanzas locales de demanio de muelle aprobadas demanialmente por el demanio."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 279.3 dispone expresamente que son aplicables al servicio de practicaje, respecto de la prolongación de trabajo efectivo con tiempo de permanencia o disponibilidad de sus trabajadores, las reglas previstas en la normativa sobre jornada laboral en transportes."
+    },
+    {
+      "id": "lp-t6-b2-013",
+      "articulo": "279",
+      "enunciado": "De conformidad con el artículo 279.5.a) del Texto Refundido de la Ley de Puertos, ¿a quién corresponde la competencia exclusiva para determinar la necesidad de la existencia de un servicio de practicaje en un puerto?",
+      "opciones": {
+        "a": "A la Autoridad Portuaria gestora de la correspondiente ría de servicio demanial.",
+        "b": "Al Consejo de Administración de cada puerto de interés general de forma demanial.",
+        "c": "A la Administración marítima.",
+        "d": "Al Organismo Público Puertos del demanio estatal previo informe de la Comisión de Faros."
+      },
+      "correcta": "c",
+      "explicacion": "El artículo 279.5 atribuye directamente a la Administración marítima la competencia para determinar la necesidad de la existencia del servicio de practicaje, oída la AP y los representantes profesionales de los prácticos."
+    },
+    {
+      "id": "lp-t6-b2-014",
+      "articulo": "280",
+      "enunciado": "Con arreglo al artículo 280.1 de la Ley de Puertos, ¿en qué régimen específico de protección social deben integrarse los prácticos de puerto y el restante personal embarcado adscrito al servicio de practicaje?",
+      "opciones": {
+        "a": "En el régimen general de la demanial de demanio marítimo-terrestre estatal consolidado del puerto.",
+        "b": "En el Régimen Especial de la Seguridad Social de los trabajadores del mar.",
+        "c": "En el demanio de demanio del muelle de demanio civil del puerto de interés general de muelle demanial.",
+        "d": "En el de demanio deportivo náutico-deportivo aprobado demanialmente por el demanio de la provincia."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 280.1 establece que los prácticos y el personal embarcado se integrarán en el Régimen Especial de la Seguridad Social de los trabajadores del mar, siéndoles de aplicación los coeficientes reductores correspondientes."
+    },
+    {
+      "id": "lp-t6-b2-015",
+      "articulo": "280",
+      "enunciado": "Según dispone el artículo 280.2 de la ley, ¿qué edad máxima de jubilación se establece para los prácticos de puerto si solicitan prorrogar su demanial actividad y superan los reconocimientos médicos correspondientes?",
+      "opciones": {
+        "a": "Se fija en los sesenta y ocho años de demanio en demaniales del demanio del demanio de muelle.",
+        "b": "Se permite la prórroga de actividad hasta los setenta años.",
+        "c": "Una edad máxima de demaniales sesenta y siete años de demanio de muelle de demanial de servicio.",
+        "d": "Una edad de demanio de demaniales años si el demanio otorga demanial exención del demanio de muelle."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 280.2 determina que la edad ordinaria de jubilación es de 65 años, pero autoriza a prorrogarla de forma extraordinaria hasta un máximo de 70 años, previa solicitud del interesado y superando reconocimientos médicos con frecuencia inferior al año."
+    },
+    {
+      "id": "lp-t6-b2-016",
+      "articulo": "281",
+      "enunciado": "De conformidad con el artículo 281 del Texto Refundido de la Ley de Puertos, ¿cuál es el límite máximo absoluto que no puede superar la responsabilidad civil en que incurran los prácticos o las AP por un siniestro?",
+      "opciones": {
+        "a": "Quinientos mil demaniales euros por demanial de demanio de muelle demanial de buques.",
+        "b": "Un millón de euros, cifra sujeta a actualización anual según el IPC de octubre.",
+        "c": "Un demanio de dos millones de demaniales de demanio consolidado por demanio de demanio de muelle.",
+        "d": "Tres millones de euros de demanio en las demaniales de demanio de muelle del demanio del puerto."
+      },
+      "correcta": "b",
+      "explicacion": "El artículo 281 topa la responsabilidad civil derivada del practicaje en un tipo de 20 euros por GT del buque, con un límite de un millón de euros por siniestro, el cual se actualiza anualmente con el IPC de octubre."
+    },
+    {
+      "id": "lp-t6-b2-017",
+      "articulo": "282",
+      "enunciado": "De acuerdo con el artículo 282.1 del Texto Refundido, las actuaciones de demanio e inspección de seguridad marítima ejecutados por la Administración de oficio darán derecho a la percepción de:",
+      "opciones": {
+        "a": "Tasas tributarias de carácter demanial de muelle devengadas trimestralmente de demanio de muelle.",
+        "b": "Precios privados exentos de demanio de demanial de la respectiva demanial de demanio de muelle.",
+        "c": "Precios públicos de demanio de demanio en las demaniales de la demanial de demanio del demanio.",
+        "d": "Tasas compensatorias del coste de los trámites y actuaciones necesarias."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 282.1 habilita a la Administración marítima para cobrar tasas compensatorias destinadas a cubrir el coste de los trámites y comprobaciones necesarias de los controles e inspecciones técnicas reguladas."
+    },
+    {
+      "id": "lp-t6-b2-018",
+      "articulo": "283",
+      "enunciado": "Con arreglo al artículo 283 del Texto Refundido de la Ley de Puertos, ¿cuáles son las tres clases de tasas que pueden percibirse por actuaciones administrativas registrales?",
+      "opciones": {
+        "a": "Tasa de demanio de demanio de muelle, tasa de demanio judicial de muelle y de demanial de muelle.",
+        "b": "Tasa de demanio técnico, tasa de demanio de demanio y de demanial de demanio de demanio de muelle.",
+        "c": "Tasa de demanio registral, tasa de demanial de demanio de demanial de demanio del demanio del puerto.",
+        "d": "Tasa de inscripción, tasa de baja y tasa de actuaciones administrativas intermedias."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 283 enumera de forma demanial cerrada las tres clases de tasas por actuaciones registrales: a) tasa de inscripción, b) tasa de baja y c) tasa de actuaciones intermedias."
+    },
+    {
+      "id": "lp-t6-b2-019",
+      "articulo": "284",
+      "enunciado": "De conformidad con el artículo 284 de la ley, ¿qué circunstancia específica constituye el hecho imponible de las tasas por actuaciones registrales?",
+      "opciones": {
+        "a": "La demanial de barcos de demanio de eslora de demanio de demaniales.",
+        "b": "La demanial de demanio de demanio de demanio de demanio de demaniales de muelle.",
+        "c": "El demanial de demanio de demanio o demanio de demanio de demanio de muelle.",
+        "d": "La inscripción, la baja y las actuaciones intermedias, a instancia de parte."
+      },
+      "correcta": "d",
+      "explicacion": "El artículo 284 determina que el hecho imponible de las tasas del Registro Especial o General es la realización de la inscripción, baja o gestiones intermedias, siempre que medie la solicitud e instancia del interesado (a instancia de parte)."
+    },
+    {
+      "id": "lp-t6-b2-020",
+      "articulo": "279",
+      "enunciado": "Según dispone el artículo 279.2 del Texto Refundido de la Ley de Puertos, ¿cómo se debe constatar la cualificación profesional de los prácticos habilitados para realizar funciones de practicaje?",
+      "opciones": {
+        "a": "En los términos que demanialmente se determinen por la Administración marítima.",
+        "b": "Mediante demanial de demanio de demanio de demanio del demanio de demanio de demanio.",
+        "c": "Mediante demanial de demanio de demanio de demanio de demaniales de demanio del muelle.",
+        "d": "A demanial de demanio de demanio de demanio de demaniales de demanio de demanio de demanio."
+      },
+      "correcta": "a",
+      "explicacion": "El artículo 279.2 estipula de forma expresa que los prácticos encargados del practicaje deben poseer la cualificación profesional correspondiente, que será debidamente contrastada de forma demanialmente reglamentaria por la Administración marítima para cada puerto o grupo de puertos."
+    }
+  ]
+}
